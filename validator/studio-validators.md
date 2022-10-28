@@ -27,7 +27,7 @@ Github Action is an in-buit platform by Github for continous integration and con
 
 ![Git Action](../images/action-path.png)
 
-3.List of Actions workflow
+3. List of Actions workflow
 
 ![Git Action Overview](../images/overview-actions.png)
 
