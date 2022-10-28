@@ -1,14 +1,14 @@
 # DevStudio Github Validator
 
-Dev Studio have developed validation technique for all Tenant Github content. Validation is performed to validate and test Tenant's various files such as API specs file , markdown files , document explorer defination ,Tenant.json files and more. Validation check at Github repository helps Studio team to maintain and preserve standards and rules within the Tenant managed content.
+DevStudio has developed a validation technique for all Tenant Github content. Validation is performed to validate and test Tenant's various files such as API specs file ,markdown files ,document explorer defination ,Tenant.json files and more. Validation check at Github repository helps DevStudio team to maintain and preserve standards and rules within the Tenant managed content.
 
 # Validator 'Github Workflow' powered by Github Action
 
-Studio validators are powered by Github Actions. 
+DevStudio validators are powered by Github Actions. 
 
 ## Github Action and workflow
 
-Github Action is an in-buit platform by Github for continous integration and continious developement. Studio Validators developed over Github workflows triggered by Github events such as Pull Request created or Commit on feature branch(s).
+Github Action is an in-buit platform by Github for continous integration and continious developement. DevStudio Validators developed over Github workflows triggered by Github events such as Pull Request or Commits on feature branch(s).
 
 ## Available Validator
 
@@ -19,7 +19,7 @@ Github Action is an in-buit platform by Github for continous integration and con
 
 
 ## Navigating to Validator
- Every Dev Studio is configured with Validator. To navigate github action please follow steps. 
+ Every DevStudio is configured with Validator. To navigate github action please follow steps. 
 
 1. Navigate to Tenant Github Repository
 
