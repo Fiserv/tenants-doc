@@ -14,4 +14,5 @@ Primary output of every validator is generated in individual Action Job output l
 ![Git Action Job Output](../images/action_error_logs.png)
 
 
-## How to resolve errors from the logs
+## Resolve errors from the logs
+
