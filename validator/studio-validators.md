@@ -47,7 +47,9 @@ In order to see activity about the latest workflow job.
 ![Git Action Job Activity](../images/action-job-activity.png)
 
 
-# Understanding Tenant's responsitbity when Validators throw errors
+# Tenant's responsitbility when Validators throw errors
+
+Tenant is responsible for responding when Validators throw errors for any GitHub content. To learn how keep reading.
 
 ## Validator Logs
 
