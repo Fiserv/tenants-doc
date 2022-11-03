@@ -1,25 +1,26 @@
-# DevStudio Github Validator
+# Github Validators from Developer Studio
 
-DevStudio has developed a validation technique for all Tenant Github content. Validation is performed to validate and test Tenant's various files such as API specs file ,markdown files ,document explorer defination ,Tenant.json files and more. Validation check at Github repository helps DevStudio team to maintain and preserve standards and rules within the Tenant managed content.
+The Developer Studio Team has developed a validation technique to ensure that all the contents added by the tenants in the GitHub repositories are accurate and to check for syntax problems. These validation checks help the team to maintain and preserve standards and rules within the Tenant managed content. The validation rules apply to the OpenAPI specification files, markdown files, document-explorer-definition.yaml, tenant.json files and more.
 
-# Validator 'Github Workflow' powered by Github Action
 
-DevStudio validators are powered by Github Actions. 
+# Understanding Developer Studio Validators
 
-## Github Action and workflow
+Developer Studio validators are powered by GitHub actions.
 
-Github Action is an in-buit platform by Github for continous integration and continious developement. DevStudio Validators developed over Github workflows triggered by Github events such as Pull Request or Commits on feature branch(s).
+## Github Actions and Workflows
 
-## Available Validator
+GitHub Actions are individual tasks that you can combine to create jobs and customize your workflow. On the other hand, GitHub Workflows are custom automated processes that you can set up in your repository to build, test, package, release, or deploy any project on GitHub. Developer Studio Validators are developed using Github workflows that were triggered by Github events such as Pull Request or Commits on feature branches.
 
-  * API Specification YAML file Validator
+## Available Validators
+
+  * OpenAPI Specification YAML file Validator
   * Markdown Validator
-  * Documentation explorer defination
-  * Tenant configuration file
+  * document-explorer-definition.yaml file validator
+  * tenant-config.yaml file validator
 
+## Navigating to Validators inside your repository
 
-## Navigating to Validator
- Every DevStudio is configured with Validator. To navigate github action please follow steps. 
+ Every tenant repository is configured with these validators. To navigate to github action please follow the below steps:
 
 1. Navigate to Tenant Github Repository
 
@@ -45,5 +46,29 @@ In order to see activity about the latest workflow job.
 
 ![Git Action Job Activity](../images/action-job-activity.png)
 
-Help: Please connect with DevStudio team for more information and questions related with Validators. 
 
+# Understanding Tenant's responsitbity when Validators throw errors
+
+## Validator Logs
+
+All Github workflow generate output as a logs. Based on the success or failure of the Validation Job. Developers can browse through the logs to identify the issues within their content. 
+Primary output of every validator is generated in individual Action Job output logs. 
+
+
+### `Sucessful` Job Output: 
+
+![Git Action Job Output](../images/api-validator-pass.png)
+
+
+### `Failed` Job Output:
+
+![Git Action Job Output](../images/action_error_logs.png)
+
+
+## Resolve errors from the logs
+
+To identify issues and fix the issues within Github content. Developer should go through validator output logs. Individual Logs explain what type error of encountered within particular file(s).
+
+
+
+Please connect with Developer Studio team for more information and questions related with Validators. 
