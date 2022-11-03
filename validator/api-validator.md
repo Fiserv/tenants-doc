@@ -30,5 +30,6 @@ Checking every single API. Once validated logs will display name of the spec fil
 Checking every single API. Once validated logs will display name of the spec file and status. 
 ![Git Action](../images/failed-api-validator-activity.png)
 
+Help: Please connect with DevStudio team for more information and questions related with Validators. 
 
 

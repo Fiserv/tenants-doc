@@ -45,4 +45,5 @@ In order to see activity about the latest workflow job.
 
 ![Git Action Job Activity](../images/action-job-activity.png)
 
+Help: Please connect with DevStudio team for more information and questions related with Validators. 
 
