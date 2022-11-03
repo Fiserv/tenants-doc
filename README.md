@@ -95,6 +95,8 @@ Checkout the [demo](./demo.md) page to see demos of our features.
     Once you're happy with your content create another github issue to get deployed into upper environments and production
 
     Refer to the table contents to the right to get more details about each step.
+    
+6.  #### Your GitHub contents would be validated to check for accuracy and any syntax error. Read more about this here: [GitHub validators](./validator/studio-validators.md)
 
 ## Getting Help
 If you need help, spot bugs, need ehancments or just want to chat you've got some options below.
