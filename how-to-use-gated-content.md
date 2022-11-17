@@ -32,7 +32,7 @@ Also the users can view and download these entitled files when they create a wor
 ___Coming soon...___
 
 
-# Enabl Gated Content access for other Assets
+# Enable Gated Content access for other Assets
 
 ___Coming soon...___
 
