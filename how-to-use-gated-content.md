@@ -15,7 +15,7 @@ The different levels of accesses are:
 
 1. config/document-explorer-definition.yaml defines documentation tree on left navigation panel and this is where the file accesses needs to be added. If a file has "access: public" defined for it, then everyone can see it. 
 
-![public_access](../images/GC_public_access.png)
+![public_access](./images/GC_public_access.png)
 
 
 If the file has "access: private" and "groups: [no groups specified]" meaning, only users who have signed in Developer Studio are permitted to view it. 
