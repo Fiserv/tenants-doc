@@ -18,11 +18,11 @@ The document-explorer-definition.yaml in the config folder defines documentation
 ![public_access](./images/GC_public_access.png)
 
 
-If the file has "access: private" and "groups: [no groups specified]" meaning, only users who have signed in Developer Studio are permitted to view it. 
+If the file has "access: private" and "groups: [no groups specified]" meaning, only users who have signed in Developer Studio are permitted to view it. If the file has "access: private" and "groups: [ABC_BANK]" meaning, only users who have signed in Developer Studio and also belong to the group "ABC_BANK" are permitted to view it. Multiple groups can also be defined here like  "groups: [ABC_BANK, XYZ_BANK]"
 
 ![private_access](./images/GC_private_access.png)
 
-If the file has "access: private" and "groups: [ABC_BANK]" meaning, only users who have signed in Developer Studio and also belong to the group "ABC_BANK" are permitted to view it. Multiple groups can also be defined here like  "groups: [ABC_BANK, XYZ_BANK]"
+Also the users can view and download these entitled files when they create a workspace for the product.
 
 ![private_entitled_access](./images/GC_private_entitled_access.png)
 
