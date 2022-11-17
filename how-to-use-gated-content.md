@@ -43,7 +43,7 @@ Coming soon...
 
 # Provide 'Private Entitled Access' to users
 
-As of today this part is manual and solely maintained by Developer Studio Team. The tenants would have to give access 
+As of today this part is manual and solely maintained by Developer Studio Team.
 
 
 # Admin UI and Notification Service for users
