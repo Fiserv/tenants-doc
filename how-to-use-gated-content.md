@@ -29,19 +29,25 @@ Also the users can view and download these entitled files when they create a wor
 
 # Enable Gated Content access for API endpoints
 
-Coming soon...
+___Coming soon...___
 
 
-# Enable Gated Content access for other Assets
+# Enabl Gated Content access for other Assets
 
-Coming soon...
+___Coming soon...___
 
 
 # Provide 'Private Entitled Access' to users
 
-As of today this part is manual and solely maintained by Developer Studio Team.
+> As of today this part is manual and solely maintained by Developer Studio Team. As part of the future road map, Dev Studio team would be developing a page for administrators from which they could grant access. 
+
+## Tenant's Responsibilities
+
+1. Tenants have to provide a list of the user access groups like "TRANSARMOR_P2PE_PIMS", etc. The naming convention is in all caps and separated by '_'. 
+
+2. Tenants would have to share the list of user email addresses who register at Developer Studio because the user mapping part is currently manual. The backend mapping process ('user' to 'user access groups') would then be handled by the Dev Studio team. 
 
 
 # Admin UI and Notification Service for users
 
-Coming soon...
+___Coming soon...___
