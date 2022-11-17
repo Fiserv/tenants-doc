@@ -11,7 +11,7 @@ The different levels of accesses are:
 **Private Entitled Access** : when signed in users with the appropriate access or entitlements to the files can access them. This is the most protected level of access. To gain this access users have to become a member of the entitled group.
 
 
-# Add Gated Content access for Markdown files
+# Enable Gated Content access for Markdown files
 
 The document-explorer-definition.yaml in the config folder defines documentation tree on left navigation panel and this is where the file accesses needs to be added. If a file has "access: public" defined for it, then everyone can see it. 
 
@@ -27,18 +27,14 @@ Also the users can view and download these entitled files when they create a wor
 ![private_entitled_access](./images/GC_private_entitled_access.png)
 
 
-# Add Gated Content access for API endpoints
+# Enable Gated Content access for API endpoints
 
 Coming soon...
 
 
-
-
-# Add Gated Content access for other Assets
+# Enable Gated Content access for other Assets
 
 Coming soon...
-
-
 
 
 # Provide 'Private Entitled Access' to users
