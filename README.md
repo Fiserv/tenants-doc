@@ -19,7 +19,7 @@ The way we describe the Developer Studio is that it is a apartment complex and e
 While we, the DevStudio team, are the HOA.
 
 ### What can you do as a Tenant
-Just like how you move into your apartment you can bring along your furntiue (your content) and decorate your apartment (within limits dedicated by the HOA (i.e. DevStudio team)).
+Just like how you move into your apartment you can bring along your furniture (your content) and decorate your apartment (within limits dedicated by the HOA (i.e. DevStudio team)).
 
 1. You create/edit/publish your own documentation and APIs at your liesure
 2. You can provide your own live sandbox
@@ -28,13 +28,13 @@ Just like how you move into your apartment you can bring along your furntiue (yo
 ### What must you do as a Tenant
 Because the Developer Studio is meant to unify all our products under a single portal that means there are guidelines you must follow.
 
-(WIP)
-1. You must have release notes that follow our [template](./release-notes-template.md)
-2. You must have a getting started section
-3. You must be on open api specification 3.0+
-4. You must use our [Markdown syntax](https://developerstudio.fiserv.com/support/docs/?path=docs/md/basic-syntax.md)
+1. You must provide [Basic Tenant Information](./tenant-basics.md) such as name, desctiption, solution, product tags, etc.
+2. You must have API documentation in [markdown format](https://www.markdownguide.org/basic-syntax/) and for that use our [Markdown syntax](https://developer.fiserv.com/support/docs/?path=docs/md/extended-syntax.md)
+3. You must have a [getting started section](./getting-started-template.md)
+4. You must be on open api specification 3.0+
+5. You must have Release Notes as part of the documentation that follow our [guidelines](./release-notes-guidelines.md)
 
-Hint: When in doubt look at [Commerce Hub](https://developerstudio.fiserv.com/product/CommerceHub) as an example of what to do.
+Hint: When in doubt look at [Commerce Hub](https://developer.fiserv.com/product/CommerceHub) as an example of what to do.
 
 ### What can you NOT do as a Tenant
 There is pretty little you cannot do.  If you're not sure, shoot us a message using our [Support](https://github.com/fiserv/support/issues).
@@ -50,8 +50,8 @@ Checkout the [demo](./demo.md) page to see demos of our features.
 
 1. #### Decide your integration level:
     * Full Service Tenant (Open API YAML file, Markdown Documentation and Live Sandbox Integration)
-    * Doc Only Tenant (Open API YAML file, Markdown Documentation and Prism Mock Server Integration)
-    * Linkout Tenant (External link to the Tenant Developer  Portal). [Linkout_Tenant](./linkout-tenant.md)
+    * Doc Only Tenant (Open API YAML file, Markdown Documentation and [Prism Mock Server Integration](./enable-sandbox.md)
+    * Linkout Tenant (External link to the Tenant Developer  Portal). [Basic Tenant Information](./tenant-basics.md)
 
 3. #### Get your info together: 
     * Open API Spec file in YAML format (Version 3.0.0 and above)
@@ -63,14 +63,14 @@ Checkout the [demo](./demo.md) page to see demos of our features.
 
 7. #### It would help to use Stoplight or Swaggerhub Editor to edit/debug your docs and spec contents.
      * Swagger at https://fiserv-portal.stoplight.io/
-     * Spotlight at https://editor.swagger.io/)
+     * Spotlight at https://editor.swagger.io/
      
 5. #### A tenant advocate is assigned who would act as a Github admin to help the tenant get started. 
 
 7. #### Wait for your tenant space to be provisioned.
 
-9. #### Submit your info to a Tenant Advocate by creating a github issue in github.com/fiserv/support
-    * Use the label `New Tenant` when you create the issue
+9. #### Submit your info to a Tenant Advocate by creating a github issue in [Support](https://bit.ly/DSonboard). 
+    
 1.  #### Minimum Required Documents: 
     * Getting started markdown file
     * API specification file (yaml)
@@ -85,17 +85,23 @@ Checkout the [demo](./demo.md) page to see demos of our features.
     
 3.  #### Read up on how to use your space and modify content: [Configure Tenant](./configure-tenant.md)
 
-4.  #### [API Explorer page](./api-explorer.md) and [OpenAPI Specification](https://swagger.io/specification/) Document
+4.  #### OpenAPI spec and API Explorer page
+    * [OpenAPI Specification Document](https://swagger.io/specification/)
+    * [API Explorer page](./api-explorer.md)
+    * [How to enable sandbox](./enable-sandbox.md)
 
 5.  #### Add content based on your integration level
 
     Once you're happy with your content create another github issue to get deployed into upper environments and production
 
     Refer to the table contents to the right to get more details about each step.
+    
+6.  #### Your GitHub contents would be validated to check for accuracy and any syntax error. Read more about this here: [GitHub validators](./validator/studio-validators.md)
 
 ## Getting Help
 If you need help, spot bugs, need ehancments or just want to chat you've got some options below.
 
+- [How to Get Support](./get-support.md)
 - Bugs / Enhancements / Questions
   - Go to our [Support](https://github.com/fiserv/support/issues)
 - Want to chat

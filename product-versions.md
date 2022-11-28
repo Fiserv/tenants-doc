@@ -15,7 +15,9 @@ Product and API Versioning has been enabled to view Preview, Active and Previous
 ### Version git Branches
 
   ACTIVE - git develop branch
+  
   PREVIEW - tech-preview branch to be merged into develop branch
+  
   PREVIOUS - archived branch previously released from develop
   
   

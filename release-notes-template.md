@@ -3,27 +3,28 @@
 <!-- theme: success -->
 > Every product team must add Release Notes as part of the documentation.
 
-Use the following location for your release notes **repo-name/docs/release-notes/2022/month.md**
+The following location must be used for tenant release notes: **repo-name/docs/release-notes.md**
 
-Use the below template to document monthly changes.
+We strongly encourage the use of below template to document content changes.
   
-# Release Notes
-March 30 2022 (publication date)
+# Release Notes (title of the document is always the same)
 
-### v1.0.0 (api version)
+### March 30 2022 (publication date)
 
-## What's New
+v1.0.0 (the version of openAPI Document that defines an API containing the change)
+
+#### What's New
 - Something new that was added or introduced like a documents or a services.
 
-## Enhancements
-- Description of an improvement or a change
+#### Enhancements
+- Description of an improvement or a change.
 
-## Fixed
+#### Fixed
 - github issue that was fixed. [Possible github issue link ](https://github.com/Fiserv/Support/issues)
 
-## Known Issues
-- persistent issue that's not fixed.
+#### Known Issues
+- A persistent issue that's known and not fixed.
 
-## Deprecated
-- regarded as obsolete and best avoided
+#### Deprecated
+- An endpoint or a payload field regarded as obsolete and best avoided.
 
