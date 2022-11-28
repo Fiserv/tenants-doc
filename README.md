@@ -70,7 +70,7 @@ Checkout the [demo](./demo.md) page to see demos of our features.
 7. #### Wait for your tenant space to be provisioned.
 
 9. #### Submit your info to a Tenant Advocate by creating a github issue in [Support](https://bit.ly/DSonboard). 
-    * Use the label `New Tenant` when you create the issue
+    
 1.  #### Minimum Required Documents: 
     * Getting started markdown file
     * API specification file (yaml)
