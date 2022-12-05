@@ -27,7 +27,7 @@ Also the users can view and download these entitled files when they create a wor
 ![private_entitled_access](./images/GC_private_entitled_access.png)
 
 
-> Please Note: Workspace needs to be enabled for a product. So in case its not enabled please open a GitHub ticket with Developer Studio with label as "enhancement"
+> Please Note: Workspace needs to be enabled for a product. So in case its not enabled please open a GitHub support ticket with Developer Studio with label as "enhancement"
 
 # Enable Gated Content access for API endpoints
 
