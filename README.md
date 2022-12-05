@@ -96,6 +96,9 @@ Checkout the [demo](./demo.md) page to see demos of our features.
 
     Refer to the table contents to the right to get more details about each step.
     
+    If you want to manage your product in terms of api keys, testing, see entitled docs then you can create your own workspace. Read more about this  here: [How to use Gated Content](./how-to-use-gated-content.md)
+    
+    
 6.  #### Your GitHub contents would be validated to check for accuracy and any syntax error. Read more about this here: [GitHub validators](./validator/studio-validators.md)
 
 ## Getting Help
