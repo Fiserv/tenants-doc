@@ -1,4 +1,4 @@
-# Search - Github Fiserv Organization
+# How to use Global Search within Fiserv Organization
 
 Using the global search, you can search  any information to your own public repositories and any private repositories you have access to.
 
