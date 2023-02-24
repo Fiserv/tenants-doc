@@ -3,7 +3,7 @@
 As part of our revamp and redesigning we have been upgrading all the primary pages (which includes the Product Page). Based on the usability testing and surveys conducted, our team has come up with a improved and seamless design to promote your products.
 In order to achieve this Developer Studio is requesting all our tenants to provide some new information/content.
 
-Tenants should add/update the listed contents to the Product-Layout yaml file. Detailed description for the requirement and the sections where contents can be added is described below.
+Tenants should add/update the listed contents to the Product-Layout yaml file. Detailed description for the requirement and the sections where contents can be added is mentioned below.
 
 Tenants must provide ALL content for the new product page redesign,unless stated otherwise in this document. If no content or information is provided, “Lorem Ipsum” will be used and displayed on tenant’s final product page for sections that require content.
 Below are the sections where tenants need to provide the information.
