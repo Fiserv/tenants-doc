@@ -78,3 +78,8 @@
 * How do we link a GitHub repo/file so it’s downloadable in Dev Studio
   * At the moment you can download the API specifications as a zip file and also as a postman collection from Dev Studio UI.
 
+* What are the various product access associated in Developer Studio?
+  * Product to be an ‘Internal Product’ on Developer studio ( access provided to Fiserv organization members only). ELse GitHub repo to be private.
+  * Product to be public and only few selected users to be given limited access to the markdown files. (Gated content- https://fiserv.gitbook.io/tenant-docs/how-to-use-gated-content.
+
+
