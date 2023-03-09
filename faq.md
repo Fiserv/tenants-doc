@@ -62,3 +62,10 @@
 * Is the doc tree or API explorer cached?
   * Doc tree is cached in redis
   * Api Explorer is cached in Elastic
+
+* Why few images are not loaded on UI.
+  * Some images are not uploaded temp links are associated and the repo maybe private. Hence use permanent links while uploading images if the Repo is private.
+
+* How to upload an image using a relative link in the same repo?
+  * You can use this link to verify  https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file
+
