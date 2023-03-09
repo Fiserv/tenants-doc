@@ -63,9 +63,18 @@
   * Doc tree is cached in redis
   * Api Explorer is cached in Elastic
 
+
 * Why few images are not loaded on UI.
   * Some images are not uploaded temp links are associated and the repo maybe private. Hence use permanent links while uploading images if the Repo is private.
 
 * How to upload an image using a relative link in the same repo?
   * You can use this link to verify  https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file
+
+
+* What  images are accepted in Github
+  * https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files
+ 
+
+* How do we link a GitHub repo/file so it’s downloadable in Dev Studio
+  * At the moment you can download the API specifications as a zip file and also as a postman collection from Dev Studio UI.
 
