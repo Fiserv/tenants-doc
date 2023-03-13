@@ -70,7 +70,7 @@ _<mark style="color:red;">Please note: If you do not find your product in the dr
 
 <figure><img src=".gitbook/assets/workspace_how_to_manage_7.png" alt=""><figcaption><p>API key</p></figcaption></figure>
 
-     i. Select MID from dropdown. This will be the MID associated with the API key you are creating.
+     i. Select MID from dropdown. This will be the MID associated with the API key you are creating. _This step might differ for different tenants._
 
      ii. Name the API Key you are creating
 
