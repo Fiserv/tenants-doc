@@ -5,15 +5,15 @@ We offer two ways to test services defined by OpenAPI specification in Developer
 
 ## Tenant Sandbox
 
-Developer Studio is able to connect to tenant Sandbox. The connection requirements depend on authentication scheme used by the tenant.
-
+Developer Studio can connect to a live tenant Sandbox. The connection requirements depend on authentication scheme used by the tenant.
 As an exapmle for [HMAC](https://en.wikipedia.org/wiki/HMAC) authentication scheme, Developer Studio would need:
-
     serverUrl:"https://base-url-to-be-pre-pended-to-an-endpoint"
     authenticationScheme:"HMAC"
     apiKey:"2MWVAWF2xZz0eNQUK0NVhwpWYkr7gehG"
     secret:"some secret"
     selfSignedCert:false
+
+If you want users to create their own API credentials instead of using the same, users can now also generate their own API credentials on Dev Studio using 'Workspaces'. Please refer our documentation on [Enabling Workspaces](?path=/enable-workspaces.md/) 
 
 
 ## Stoplight Prism Mock Server
