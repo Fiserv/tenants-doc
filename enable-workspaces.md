@@ -10,37 +10,63 @@ Although each workspace may have different requirements and tools, all workspace
 
 ### Create Account on Developer Studio
 
-Please refer our Create Account Guide on this.
+Please refer our [Create Account Guide](enable-workspaces.md#create-account-on-developer-studio) on this.
 
 ### Create Workspace
 
-1. **Create account** or **Log-in**
+1. **Create account** or **Log-in**&#x20;
+
+<figure><img src=".gitbook/assets/workspace_how_to_create_1.png" alt=""><figcaption><p>Login</p></figcaption></figure>
+
 2. Select **Workspaces** from global header (next to account avatar)
-3. Create a new workspace
 
-a. Enter Name
+<figure><img src=".gitbook/assets/workspace_how_to_create_2.png" alt=""><figcaption><p>Header</p></figcaption></figure>
 
-b. Enter Description
+3. Create a new workspace&#x20;
 
-c. Select Product Area from dropdown (preselected at this time)
+&#x20;      a. Enter Name
 
-d. Select Product Integration from dropdown. Please note: If you do not find your product in the dropdown, please shoot us a message using our [Support](https://github.com/fiserv/support/issues).
+&#x20;      b. Enter Description
 
-e. Hit the **Create Workspace** button
+&#x20;      c. Select Product Area from dropdown (preselected at this time)
+
+&#x20;      d. Select Product Integration from dropdown. Please note: If you do not find your product in the dropdown, please shoot us a message using our [Support](https://github.com/fiserv/support/issues).
+
+&#x20;     e. Hit the **Create Workspace** button
+
+<figure><img src=".gitbook/assets/workspace_how_to_create_3.png" alt=""><figcaption><p>Create</p></figcaption></figure>
 
 ### Manage Workspace
 
 1. **Create account** or **Log in**
+
+<figure><img src=".gitbook/assets/workspace_how_to_manage_1.png" alt=""><figcaption><p>Login</p></figcaption></figure>
+
 2. Select **Workspaces** from global header (next to account avatar)
+
+<figure><img src=".gitbook/assets/workspace_how_to_manage_2.png" alt=""><figcaption></figcaption></figure>
+
 3. Select specific workspace from the left navigation or workspace cards
+
+<figure><img src=".gitbook/assets/workspace_how_to_manage_3 (1).png" alt=""><figcaption><p>Left Nav</p></figcaption></figure>
+
 4. View workspace Summary
+
+<figure><img src=".gitbook/assets/workspace_how_to_manage_4.png" alt=""><figcaption><p>Summary</p></figcaption></figure>
+
 5. Manage Credentials
 
-a. Click **Credentials** on the tab to go to the Credentials page
+&#x20;   a. Click **Credentials** on the tab to go to the Credentials page
 
-b. View MID (Merchant Identifier) details by selecting the **View** button in MID table
+<figure><img src=".gitbook/assets/workspace_how_to_manage_5.png" alt=""><figcaption><p>Credentials</p></figcaption></figure>
 
-c. Add/Create API Key by selecting the **Create API key** button
+&#x20;   b. View MID (Merchant Identifier) details by selecting the **View** button in MID table
+
+<figure><img src=".gitbook/assets/workspace_how_to_manage_6.png" alt=""><figcaption><p>MID</p></figcaption></figure>
+
+&#x20;  c. Add/Create API Key by selecting the **Create API key** button
+
+<figure><img src=".gitbook/assets/workspace_how_to_manage_7.png" alt=""><figcaption><p>API key</p></figcaption></figure>
 
      i. Select MID from dropdown. This will be the MID associated with the API key you are creating.
 
@@ -54,9 +80,7 @@ c. Add/Create API Key by selecting the **Create API key** button
 
      vi. Download API Key details as a pdf file (this is your one chance to save the API Key details including secret)
 
-d. Add/Create CSR (Certificate Signing Requests) by selecting the **Create CSR** button
-
-&#x20;            i. Enter the common name (name your CSR)
+d. Add/Create CSR (Certificate Signing Requests) by selecting the **Create CSR** button             i. Enter the common name (name your CSR)
 
 &#x20;            ii. Select Apple Pay from wallet dropdown
 
@@ -74,13 +98,21 @@ d. Add/Create CSR (Certificate Signing Requests) by selecting the **Create CSR**
 
 &#x20;            ix. Hit **Create** button
 
+<figure><img src=".gitbook/assets/workspace_how_to_manage_10.png" alt=""><figcaption><p>Add CSR</p></figcaption></figure>
+
 e. View CSR Details by selecting the **View** button in the CSR table (only available after creating/adding a CSR)
 
+<figure><img src=".gitbook/assets/workspace_how_to_manage_11.png" alt=""><figcaption><p>CSR Detail</p></figcaption></figure>
+
 f. Download CSR and upload to Apple to complete the CSR process for your application
+
+<figure><img src=".gitbook/assets/workspace_how_to_manage_12.png" alt=""><figcaption><p>Download CSR</p></figcaption></figure>
 
 6. Update Settings
 
 a. Click **Settings** on the tab to go to the Settings page
+
+<figure><img src=".gitbook/assets/workspace_how_to_manage_13.png" alt=""><figcaption><p>Click Settings</p></figcaption></figure>
 
 b. Hit **Edit** button
 
@@ -88,4 +120,8 @@ b. Hit **Edit** button
 
    ii. Change Workspace Description
 
+<figure><img src=".gitbook/assets/workspace_how_to_manage_14.png" alt=""><figcaption><p>Edit Settings</p></figcaption></figure>
+
 c. Delete Workspace by hitting the **Delete** button
+
+<figure><img src=".gitbook/assets/workspace_how_to_manage_15.png" alt=""><figcaption><p>Delete WS</p></figcaption></figure>
