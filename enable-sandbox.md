@@ -14,7 +14,7 @@ secret:"some secret"
 selfSignedCert:false
 ```
 
-If you want users to create their own API credentials instead of using the same API key and secret, users can now also generate their own API credentials on Dev Studio using 'Workspaces'. Please refer our documentation on [Enabling Workspaces]()
+If you want users to create their own API credentials instead of using the same API key and secret, users can now also generate their own API credentials on Dev Studio using 'Workspaces'. Please refer our documentation on [Enabling Workspaces](enable-workspaces.md).
 
 ## Stoplight Prism Mock Server
 
