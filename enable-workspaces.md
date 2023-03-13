@@ -56,7 +56,7 @@ Please refer our [Create Account Guide](?path=/create-account-on-developer-studi
 
   a. Click **Credentials** on the tab to go to the Credentials page
   
-![Credentials](./workspace_how_to_manage_5.png "Credentials")
+![Credentials](./images/workspace_how_to_manage_5.png "Credentials")
   
   b. View MID (Merchant Identifier) details by selecting the **View** button in MID table
   
