@@ -23,7 +23,7 @@ Just like how you move into your apartment you can bring along your furniture (y
 
 1. You create/edit/publish your own documentation and APIs at your liesure
 2. You can provide your own live sandbox
-3. You can provide your own API management system
+3. You can provide your own API management system. Check out our docs on [Enabling Workspaces](./enable-workspaces.md)
 
 ### What must you do as a Tenant
 Because the Developer Studio is meant to unify all our products under a single portal that means there are guidelines you must follow.

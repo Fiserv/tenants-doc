@@ -4,7 +4,7 @@ tags: [Getting Started, Card Not Present, Card Present, .... etc]
 
 # Getting Started with Product Name
 
-Brif description of your Prodcut, what do you do.
+Brief description of your Product, what do you do, service provided.
 
 ---
 

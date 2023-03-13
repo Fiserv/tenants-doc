@@ -7,7 +7,7 @@
   * Anyone.  It’s for the whole company.
 
 * What is the Developer Studio on-boarding process?
-  * You can read about that here: github.com/fiserv/tenants-doc
+  * You can read about that here: [github.com/fiserv/tenants-doc](https://fiserv.gitbook.io/tenant-docs/)
 
 * Do you have insight to the corporate vision for whether https://docs.firstdata.com/ and https://developer.fiserv.com will live on in parallel or eventually converge?
   * Will converge in the end.  For now, as we transition your content you’ll have both until you get enough feature parity and then you’ll shutdown the old portal.
@@ -15,8 +15,11 @@
 * How can Tenants decide which solution/category they should choose? Does Devportal allow a Prodcut to reside on multiple solution areas?
 
 * How can Tenants integrate their Products with Developer Studio?
-   *
-   
+   * Have a GitHub account with your Fiserv email. ( https://github.com/fiserv)
+   * To request an onboarding you can fill out the On Boarding form - and provide all the information/requirements  to on board your product. On-boarding Form
+   * Please go through our Tenant document https://fiserv.gitbook.io/tenant-docs/ which will provide all the info you need to get going to onboard into the Developer Studio. 
+
+
 * How can Tenants segregate the product contents based on the customer segments?
 
 
@@ -62,3 +65,24 @@
 * Is the doc tree or API explorer cached?
   * Doc tree is cached in redis
   * Api Explorer is cached in Elastic
+
+
+* Why few images are not loaded on UI.
+  * Some images are not uploaded temp links are associated and the repo maybe private. Hence use permanent links while uploading images if the Repo is private.
+
+* How to upload an image using a relative link in the same repo?
+  * You can use this link to verify  https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file
+
+
+* What  images are accepted in Github
+  * https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files
+ 
+
+* How do we link a GitHub repo/file so it’s downloadable in Dev Studio
+  * At the moment you can download the API specifications as a zip file and also as a postman collection from Dev Studio UI.
+
+* What are the various product access associated in Developer Studio?
+  * Product to be an ‘Internal Product’ on Developer studio ( access provided to Fiserv organization members only). ELse GitHub repo to be private.
+  * Product to be public and only few selected users to be given limited access to the markdown files. (Gated content- https://fiserv.gitbook.io/tenant-docs/how-to-use-gated-content.
+
+
