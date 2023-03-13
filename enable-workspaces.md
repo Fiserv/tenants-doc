@@ -29,7 +29,7 @@ Please refer our [Create Account Guide](?path=/create-account-on-developer-studi
   c. Select Product Area from dropdown (preselected at this time)
 
   d. Select Product Integration from dropdown.
-   Please note: If you do not find your product in the dropdown, please shoot us a message using our [Support (https://github.com/fiserv/support/issues).
+   Please note: If you do not find your product in the dropdown, please shoot us a message using our [Support](https://github.com/fiserv/support/issues).
 
   e. Hit the **Create Workspace** button
 
