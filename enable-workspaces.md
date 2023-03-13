@@ -8,7 +8,7 @@ Although each workspace may have different requirements and tools, all workspace
 # Enable Workspaces for users
 
 ## Create Account on Developer Studio
-Please refer our ![Create Account Guide](/create-account-on-developer-studio.md) on this.
+Please refer our ![Create Account Guide](?path=docs/create-account-on-developer-studio.md/) on this.
 
 
 ## Create Workspace
