@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Welcome to the Tenants Documentation!](README.md)
+* [Terms of Use](terms-of-use.md)
+* [Privacy Notice](privacy-notice.md)
 * [Create Account](create-account.md)
 * [Basic Information Required For Tenants:](tenant-basics.md)
 * [Getting Started with Product Name](getting-started-template.md)
