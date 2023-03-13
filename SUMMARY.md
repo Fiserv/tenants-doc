@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to the Tenants Documentation!](README.md)
+* [Enable Workspaces](enable-workspaces.md)
 * [Basic Information Required For Tenants:](tenant-basics.md)
 * [Getting Started with Product Name](getting-started-template.md)
 * [How to use your space and modify your content.](configure-tenant.md)
