@@ -30,7 +30,9 @@ Please refer our [Create Account Guide](enable-workspaces.md#create-account-on-d
 
 &#x20;      c. Select Product Area from dropdown (preselected at this time)
 
-&#x20;      d. Select Product Integration from dropdown. Please note: If you do not find your product in the dropdown, please shoot us a message using our [Support](https://github.com/fiserv/support/issues).
+&#x20;      d. Select Product Integration from dropdown.&#x20;
+
+_<mark style="color:red;">Please note: If you do not find your product in the dropdown, please shoot us a message using our</mark>_ [Support](https://github.com/fiserv/support/issues).
 
 &#x20;     e. Hit the **Create Workspace** button
 
