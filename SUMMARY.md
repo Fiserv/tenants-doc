@@ -1,13 +1,13 @@
 # Table of contents
 
 * [Welcome to the Tenants Documentation!](README.md)
-* [Enable Workspaces](enable-workspaces.md)
 * [Basic Information Required For Tenants:](tenant-basics.md)
 * [Getting Started with Product Name](getting-started-template.md)
 * [How to use your space and modify your content.](configure-tenant.md)
 * [Product Page Content Update](update-productpage-content.md)
 * [API Explorer](api-explorer.md)
 * [Enable Sandbox](enable-sandbox.md)
+* [Enable Workspaces](enable-workspaces.md)
 * [How to Download and Test the Postman Collection](test-postman-collection.md)
 * [Product Versions](product-versions.md)
 * [How to use Gated-content](how-to-use-gated-content.md)
