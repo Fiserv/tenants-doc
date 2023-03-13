@@ -7,6 +7,7 @@ We offer two ways to test services defined by OpenAPI specification in Developer
 
 Developer Studio can connect to a live tenant Sandbox. The connection requirements depend on authentication scheme used by the tenant.
 As an exapmle for [HMAC](https://en.wikipedia.org/wiki/HMAC) authentication scheme, Developer Studio would need:
+
     serverUrl:"https://base-url-to-be-pre-pended-to-an-endpoint"
     authenticationScheme:"HMAC"
     apiKey:"2MWVAWF2xZz0eNQUK0NVhwpWYkr7gehG"
