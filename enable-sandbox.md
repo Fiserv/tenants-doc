@@ -14,7 +14,7 @@ As an exapmle for [HMAC](https://en.wikipedia.org/wiki/HMAC) authentication sche
     secret:"some secret"
     selfSignedCert:false
 
-If you want users to create their own API credentials instead of using the same, users can now also generate their own API credentials on Dev Studio using 'Workspaces'. Please refer our documentation on [Enabling Workspaces](?path=/enable-workspaces.md/) 
+If you want users to create their own API credentials instead of using the same API key and secret, users can now also generate their own API credentials on Dev Studio using 'Workspaces'. Please refer our documentation on [Enabling Workspaces](?path=/enable-workspaces.md/) 
 
 
 ## Stoplight Prism Mock Server
