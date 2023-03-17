@@ -127,3 +127,8 @@ b. Hit **Edit** button
 c. Delete Workspace by hitting the **Delete** button
 
 <figure><img src=".gitbook/assets/workspace_how_to_manage_15.png" alt=""><figcaption><p>Delete WS</p></figcaption></figure>
+
+7. Gated Content
+
+You can also use workspaces for 'Gated Content'. "Gated Content" is a mechanism developed to control file visibility and permissions on Developer Studio. Read more about this here: [Gated Content](how-to-use-gated-content.md)
+
