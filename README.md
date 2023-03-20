@@ -69,7 +69,7 @@ Checkout the [demo](demo.md) page to see demos of our features.
    * Spotlight at https://editor.swagger.io/
 5. **A tenant advocate is assigned who would act as a Github admin to help the tenant get started.**
 6. **Wait for your tenant space to be provisioned.**
-7. **Submit your info to a Tenant Advocate by creating a github issue in** [**Support**](https://bit.ly/DSonboard)**.**
+7. **Submit your info to a Tenant Advocate by creating a github issue in** [**Support**](http://rb.gy/ed7j9m)**.**
 8. **Minimum Required Documents:**
    * Getting started markdown file
    * API specification file (yaml)
