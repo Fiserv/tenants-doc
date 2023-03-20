@@ -30,4 +30,4 @@
 * [Search](search.md)
 * [How to use Global Search within Fiserv Organization](globalsearch.md)
 * [Glossary](glossary.md)
-* [workflow](workflow.md)
+* [Workflow](workflow.md)
