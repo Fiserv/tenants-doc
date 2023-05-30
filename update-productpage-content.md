@@ -40,10 +40,13 @@ This is where Tenant can showcase what are the benefits and outcomes of using th
 
 Tenants can upload the approved icons from the asset folder, by providing the relative links to the image under the section that is referred to as  in the "icons".
 
+
+
 ### Featured offerings
 
 ![featured offerings](images/featureoffering.png)
 
+"Featured offerings" is a section to choose 3 offerings from your product offerings to spotlight (think of it as "featured product offerings")
 This section is where Tenant may highlight/spotlight three of their product’s offerings/services and is defined by the Tenant on what they have to offer to users.
 
 * Tenant MUST provide 3 MIN/MAX offerings
@@ -53,11 +56,15 @@ This section is where Tenant may highlight/spotlight three of their product’s 
 
 ![featuredoffering](images/featuredoffering.png)
 
+
+
+
+
 ### Product offerings
 
 ![product offerings](images/productofferings.png)
 
-Product offerings” section will be where Tenant displays a selection of their product’s offerings. Tenant MAY NOT repeat any offerings that they have chosen for the “Featured offerings” section. This section is defined by the Tenant on what they have to offer to users.
+Product offerings” section will be where Tenant displays a selection of their product’s offerings. "Product offerings" is what you have to offer with your products (features, services, etc). Tenant MAY NOT repeat any offerings that they have chosen for the “Featured offerings” section. This section is defined by the Tenant on what they have to offer to users.
 
 * Tenant must provide a group name for their offerings.
 * Group names are Tenant defined, they may choose an existing group name or create a new one that fits their grouped offerings.
