@@ -15,13 +15,13 @@ Tenants must provide ALL content for the new product page redesign,unless stated
 For introduction, below Tenant’s name will be a description. Tenant may use their current description or provide a new one.
 
 MAX character count for description will be 510 characters, nothing more. Tenants are to provide a Get started document, which will be accessible through left navigation and “Get started” button below description.\
-_**If Tenant does not wish to provide, or does not have, the button selection will be removed from left navigation and under the description.**_
 
-![introduction](images/introductiongithub.png)
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Get Started section</p></figcaption></figure>
 
 Under introduction will be a section that is referred to as “benefits and outcomes,” with three columns of content displayed, as shown here:
 
-![benifitsandoutcome](images/benifitsandoutcomes.png)
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>Benefits section</p></figcaption></figure>
 
 This is where Tenant can showcase what are the benefits and outcomes of using their product.
 
@@ -32,22 +32,19 @@ This is where Tenant can showcase what are the benefits and outcomes of using th
   Please keep in mind that icons will be 48x48px.\
   _**If Tenant does not provide or choose icons, then a default one created by the Developer Studio design team will be chosen.**_
 
-![benefits](images/benefits.png)
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>Mapping Benefits section in product-layout.yaml</p></figcaption></figure>
 
-### Uploading the Icons:&#x20;
+### Uploading the Icons:
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Tenants can upload the approved icons from the asset folder, by providing the relative links to the image under the section that is referred to as  in the "icons".
-
-
+Tenants can upload the approved icons from the asset folder, by providing the relative links to the image under the section that is referred to as in the "icons".
 
 ### Featured offerings
 
 ![featured offerings](images/featureoffering.png)
 
-"Featured offerings" is a section to choose 3 offerings from your product offerings to spotlight (think of it as "featured product offerings")
-This section is where Tenant may highlight/spotlight three of their product’s offerings/services and is defined by the Tenant on what they have to offer to users.
+"Featured offerings" is a section to choose 3 offerings from your product offerings to spotlight (think of it as "featured product offerings") This section is where Tenant may highlight/spotlight three of their product’s offerings/services and is defined by the Tenant on what they have to offer to users.
 
 * Tenant MUST provide 3 MIN/MAX offerings
 * Title for each card will be MAX ONE LINE (30 characters)
@@ -55,10 +52,6 @@ This section is where Tenant may highlight/spotlight three of their product’s 
 * Each offering will have two links that will lead to the documentation and API explorer of said offering. Tenants must ensure they have both in order to display offering.
 
 ![featuredoffering](images/featuredoffering.png)
-
-
-
-
 
 ### Product offerings
 
