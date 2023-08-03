@@ -19,7 +19,15 @@ MAX character count for description will be 510 characters, nothing more. Tenant
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Get Started section</p></figcaption></figure>
 
+The sample code snippet below mentions the actual file path of the getting-started.md file in the docs directory.\
+`"getStartedFilePath": "<`_`Actual file path of the getting started markdown`_`>",`\
+\
+Example:\
+`"getStartedFilePath": "/docs/getting-started.md",`\
+\
 Under introduction will be a section that is referred to as “benefits and outcomes,” with three columns of content displayed, as shown here:
+
+
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>Benefits section</p></figcaption></figure>
 
