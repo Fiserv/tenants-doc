@@ -31,9 +31,11 @@ You should be ready now to make a test call.
 
 
 
-# How Tenant can enable and disable Postman download resource
+# How Tenant can disable Postman download resource
 
-## Disable Additional Resource.
+By default Additional resource will be available in Dev Studio
+
+## Disabling Additional Resource.
 Tenant can disable this feature from Github repostitory by updating tenant.json configuration file. 
 
-
+<img width="419" alt="image" src="https://raw.githubusercontent.com/Fiserv/tenants-doc/1cc2bb18afc75dbf962be60268255a64e1b5d275/images/disable-postman-download.png">
