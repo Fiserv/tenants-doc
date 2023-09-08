@@ -28,3 +28,12 @@ Next copy the downloaded APICollection.json contents and paste in the Paste Raw 
 
 ## Make a test call
 You should be ready now to make a test call. 
+
+
+
+# How Tenant can enable and disable Postman download resource
+
+## Disable Additional Resource.
+Tenant can disable this feature from Github repostitory by updating tenant.json configuration file. 
+
+
