@@ -14,7 +14,7 @@ The different levels of accesses are:
 
 
 
-## Howw Gated Content works
+## How Gated Content works
 
 
 
