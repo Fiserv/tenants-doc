@@ -188,14 +188,14 @@ fid (as pronounced) - enter a FIID in the field; a URL
 
 To avoid unnecessary usage of pronouns:
 
-1.     Use words that do not unnecessarily distinguish genders.
-2.     Rewrite to use the second person (you).
-3.     Rewrite the sentence to have a plural noun and pronoun.
-4.     Use **the** or **a** instead of a pronoun, example: instead of his/her document; use—the document.
-5.     Remove the pronoun entirely.
-6.     Refer to a person's role, example: reader, employee, customer, or client.
-7.     Use person or individual (user).
-8.     If you can't write around the problem, use a plural pronoun (they, their, or them) to refer to a single person.
+1. Use words that do not unnecessarily distinguish genders.
+2. Rewrite to use the second person (you).
+3. Rewrite the sentence to have a plural noun and pronoun.
+4. Use **the** or **a** instead of a pronoun, example: instead of his/her document; use—the document.
+5. Remove the pronoun entirely.
+6. Refer to a person's role, example: reader, employee, customer, or client.
+7. Use person or individual (user).
+8. If you can't write around the problem, use a plural pronoun (they, their, or them) to refer to a single person.
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
@@ -213,14 +213,14 @@ Bullet lists present nonsequential items in easy-to-read, parallel format. Featu
 * Contains fewer than three lines. If longer, rewrite. If all else fails, present additional information as an indent under the bullet.<br>
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
-1.     Use a lead-in or introductory line, unless you introduce the list with a heading.
-2.     Use parallel sentence construction.
-3.     Start each bullet item with a capital letter.
-4.     Period in bullet lists:<br>
- 1.     Phrase—no ending period, example: **R**=Card reissue status
- 2.     Single word—no ending period, example: **A**=Active​
- 3.     Complete sentences or two sentences—use ending period<br>
-5.     Use left justification only, not center justification.
+1. Use a lead-in or introductory line, unless you introduce the list with a heading.
+2. Use parallel sentence construction.
+3. Start each bullet item with a capital letter.
+4.  Period in bullet lists:<br>
+  1. Phrase—no ending period, example: **R**=Card reissue status
+  2. Single word—no ending period, example: **A**=Active​
+  3. Complete sentences or two sentences—use ending period<br>
+5. Use left justification only, not center justification.
 
 [Back to top](#writing-standards)
 
