@@ -1158,6 +1158,7 @@ Use the following guidelines for videos. For more information see, Video Style G
 &emsp;1. Put conditionals such as _only_ or _always_, and other modifiers next to the words they modify.<br>
 
 &emsp;2. Put long conditions after the main clause.<br>
+
 7. Write short paragraphs and include only one topic in each paragraph.
 
 &emsp;1. No more than 150 words in three to eight sentences.<br>
