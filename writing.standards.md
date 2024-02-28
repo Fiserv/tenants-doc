@@ -107,7 +107,7 @@ Apple Style Guide > [Technical notation](https://help.apple.com/applestyleguide/
 Abbreviations are a condensed form of a word. Acronyms are also abbreviations formed from the first letters of words in a phrase, but pronounced as if it were a word itself.
 
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
  1. Spell-out in first instance of use in a document or topic in modular content. Include the abbreviation or acronym in parentheses following the spelled-out term.<br>
  2. Capitalize the spelled-out version if its a proper noun or is conventionally capitalized.<br>
@@ -115,7 +115,7 @@ Abbreviations are a condensed form of a word. Acronyms are also abbreviations fo
  4. If needed due to space constraints, use in a heading or title, and then spell out in the first paragraph. However, preferred choice is to spell out in the heading or title without the abbrevation in parentheses. Example: Device updates for full service restaurant.<br>
  5. Use a lowercase **s** to make abbreviations plural or possessive case. Example: three APIs; the CEO's blog.<br>
  
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
  1. Don't spell out abbreviations familiar to your audience even in the first instance, example: USB, FAQ, and URL.<br>
  2. Don't use periods with acronyms or initialisms, example: C.E.O. or A.T.M.<br>
  3. Don't abbreviate **Drive** or **Lane** in addresses. **You can abbreviate**—Ave., Blvd., Cir., Ct., Pkwy., Rd., Sq., St., Terr.<br>
@@ -162,7 +162,7 @@ Example:
 
 ### Articles
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
 1. Use __an__ when the abbreviation or acronym has a vowel sound.
 
@@ -171,7 +171,7 @@ Examples:
 ef-AS; ef-i - an FI can opt out of AUS; an FAQ; es-ql - an SQL query; an HTML file; an hour
 fid (as pronounced) - enter a FIID in the field; a URL
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
 2. Don't use an article (a, an, the) at the start of a bulleted list or a field description. This helps to create parallel structure in sentences.
 
@@ -184,7 +184,7 @@ fid (as pronounced) - enter a FIID in the field; a URL
 
 ### Bias-free and inclusive communication
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
 To avoid unnecessary usage of pronouns:
 
@@ -197,7 +197,7 @@ To avoid unnecessary usage of pronouns:
 7.     Use person or individual (user).
 8.     If you can't write around the problem, use a plural pronoun (they, their, or them) to refer to a single person.
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
 1.     Don't use words that unnecessarily identify a person’s race, religion, physical status, social status, age, national origins, or gender.
 2.     Don't use constructions like he/she and s/he.
@@ -211,7 +211,7 @@ Bullet lists present nonsequential items in easy-to-read, parallel format. Featu
 * Contains at least two items.
 * Contains items of equal importance or those items that cannot be referred to using numbers or letters.
 * Contains fewer than three lines. If longer, rewrite. If all else fails, present additional information as an indent under the bullet.<br>
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
 1.     Use a lead-in or introductory line, unless you introduce the list with a heading.
 2.     Use parallel sentence construction.
@@ -228,7 +228,7 @@ Bullet lists present nonsequential items in easy-to-read, parallel format. Featu
 
 ### Capitalization
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div> Our preferred style is sentence-case capitalization, that is, capitalize the first word and all proper nouns, such as product names.
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div> Our preferred style is sentence-case capitalization, that is, capitalize the first word and all proper nouns, such as product names.
 
 1.     Use sentence case in:
  1.     Document title, headings, and navigation.
@@ -243,7 +243,7 @@ Bullet lists present nonsequential items in easy-to-read, parallel format. Featu
 **Examples for time and date entry formats:**
  3.     Transmission Date & Time – MMDDhhmmss
  4.     Terms & Conditions Date/Time – YYMMDDhhmm
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
 1.     Don't capitalize words that are not proper nouns, branded names, or if their capitalization contradicts our style guidelines.
 2.     Don't use all-uppercase, except in official names, in [abbreviations](https://developers.google.com/style/abbreviations) that are always written in all-caps, or when referring to code that uses all-caps.
@@ -273,7 +273,7 @@ Example:
 
 ![courier example graphic](./images/courier-example-graphic.png)
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
  
 1.     Use `<code>` in HTML or the symbol below the tilde (~) symbol on your keyboard in Markdown to apply a monospace font and other styling to code in text, inline code, and user input. That symbol is also known as acute, backtick, left quote, open quote, back quote, or backquote. 
@@ -283,9 +283,9 @@ Example:
 5.     See [Basic syntax for Markdown](http://markdownguide.org/basic-syntax/).
 6.     See [Extended syntax for Markdown](https://www.markdownguide.org/extended-syntax/).<br>
 <br>
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div> <br>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div> <br>
 1.     Don't override or modify font styles inline.
 2.     Don't use code elements such as keywords and filenames as verbs or noun, or plural or possessive.<br>
 
@@ -329,7 +329,7 @@ Shortcuts and syntax for card descriptions, comments, checklist items, and your 
 
 ### Company names and logos
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
 1.     Follow the spelling and capitalization a company prefers. Rewrite sentences so that a lowercase letter does not begin a sentence.
 
@@ -337,7 +337,7 @@ Shortcuts and syntax for card descriptions, comments, checklist items, and your 
 
 3.     When two or more companies occur in a sentence, write them alphabetically, example: American Express, Discovery, Mastercard, and Visa.
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
 1.     Don't use symbols, such as exclamation marks, plus signs or asterisks, that form contrived spellings or that are part of the logo.
 
@@ -442,7 +442,7 @@ Good to know
 
 Spell out dates in documents.
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
 1.     Dates in text: **month**, **day**, **year**, as in **July 31, 2022**.
 Example:
@@ -455,7 +455,7 @@ Example:
 
 2.     Use a numeral instead of ordinal numbers: June 1 or October 28. Always spell out the name of the month. 
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
 1.     Don't use day month year, as in 31 July 2016.Upper case: **MMDDYYYY; DDMM; MMDDYY**
 
@@ -469,13 +469,13 @@ Example:
 
 ### Error messages
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
 1.     Focus on error recognition and recovery.
 2.     Clearly state the problem, the cause, and what the customer can do to remediate or recover.
 3.     Use complete sentences with end punctuation.
    
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div> Don't use _please._
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div> Don't use _please._
 
 | Original message                                                                                                                    | Rewritten message                                                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -492,7 +492,7 @@ Example:
 
 ### Folder and file naming conventions
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
 1.     **Length**: Limit folder and file names to **25 characters**. Less is more. A URL cannot be longer than **255 characters**; as a best practice limit the folder hierarchy to 225 characters.
 
@@ -503,7 +503,7 @@ Example:
 4.     Use only standard ASCII alphanumeric characters in file and directory names.
 
 **Camel case**: Use the camel case to delimit words. Camel case, means in a word the first letter should be capital, example: TransactionData, or Transaction-Data.
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div> Don't use
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div> Don't use
 
 1.     Long file name with long file paths and URLs as they increase likelihood of error.
 
@@ -563,7 +563,7 @@ Example
 
 Use images to supplement written information. If possible, use tables and lists, to convey the information instead of images, specially in beta or unstable UI applications. A well-designed UI doesn't need an accompanying screenshot in the documentation.
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
 1.     Capture a screen shot using the light theme with your screen zoomed to 100%.
 2.     Introduce each image with a full sentence that describes its contents.
@@ -571,7 +571,7 @@ Use images to supplement written information. If possible, use tables and lists,
 4.     Use SVG file type instead of PNG, if available. SVGs stay sharp when you zoom in on the image.
 5.     Use inline image in a sentence to label a UI element, such as a toolbar icon or a button.
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
 1.     Don't use actual numbers, customer or merchant data, or PII in images. See [Inclusive names and secure data](#inclusive-names-and-secure-data).
 2.     Don't present new information in images; always provide an equivalent text explanation with the image.
@@ -596,7 +596,7 @@ In alt text:
 
 In images and examples:
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
 1.     Use names sensitive to culture, religious affiliation, holidays, traditions, politics, and business. Make sure that the name you create reflects the wide range of names used around the world.
 
@@ -604,7 +604,7 @@ In images and examples:
 
 3.     Use [test card numbers](https://docs.clover.com/docs/test-card-numbers).
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
 1.     Don't reveal personally identifiable information (PII), such as domain names, email addresses, phone numbers, people's names, project names, or credit card numbers.
 
@@ -680,7 +680,7 @@ See Developer Studio copyright on [GitHub for Fiserv](https://github.com/Fiserv/
 
 ### Links Cross references and hyperlinks
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
 * Format: Regular text: Fiserv font (#228800)
 * Link judiciously to supporting material or additional information.
@@ -718,7 +718,7 @@ Example: To create an instance with a custom hostname, run the `gcloud instances
  * ALT attribute acts as the link text.
  * ALT attribute must describe the image and it must tell the user what activating the link will do.
  
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
 1. Don't use phrases such as _this document_, _this article_, or _click here_.
 2. Don't use a URL/web address as link text. Screen readers will read each character (w-w-w-dot-h-t-t-p-colon...). Use the page title or a description of the page. Exceptions: To indicate the actual text, example: [www.eu.docs.fiserv.com](http://www.eu.docs.fiserv.com/); API reference or sandbox link.
@@ -861,12 +861,12 @@ Parallelism is a convention of sentence construction. It is indicated by the sam
 
 Parentheses are less emphatic than em dashes and more emphatic than commas.  In general, parentheses are used to insert material into a sentence, such as explanations, references, citations, examples, or ideas that are not part of the main sentence.
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
 1.     Use parentheses ( ) to clarify such as, adding examples or relaying a nuance or a small bit of clarifying data that are often subordinate to the main point.
 2.     Use em dashes (**opt**+**shft** -) to set an important phrase apart in a way that emphasizes versus subordinating it—like a wink or a nod to the reader. They are a great substitute for a semicolon—a way to make two points at once.
 3.     Use brackets [ ] to set off comments, corrections, mathematical expressions, and incidental or explanatory material. **Example**: The quoted price [$3,750] exceeds the budgeted amount.
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>Don't use parentheses, especially for complete sentences. Rewrite as a separate sentence, as a note, or use commas. For a set of words or phrases, set off with em dashes.
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>Don't use parentheses, especially for complete sentences. Rewrite as a separate sentence, as a note, or use commas. For a set of words or phrases, set off with em dashes.
 
 [Back to top](#writing-standards)
 
@@ -874,7 +874,7 @@ Parentheses are less emphatic than em dashes and more emphatic than commas.  In 
 
 ### Person
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
 1.     When you write from the point of view of the Fiserv brand, use the first person plural (we). This helps to use lesser words and avoid passive voice.<br>
 Example: We built Fiserv Dining with the input of restaurants like yours. That makes our POS custom-built for your restaurant
@@ -892,7 +892,7 @@ Example: Fiserv Dining makes taking, coursing, and updating orders fast, simple,
 |:---------------------------:|:----------------:|
 | Submission of applications. | How do I apply?  |
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>Don't mix the grammatical person within the same sentence.
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>Don't mix the grammatical person within the same sentence.
 
 [Back to top](#writing-standards)
 
@@ -952,7 +952,7 @@ Formatting conventions for many REST API elements, like endpoints, methods, para
 
 ### Spellings
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
 *  Use American spellings in all text and documents, irrespective of the region, such as US, EMEA, Canada, and so on.
 *  Set English (US) as the default language of your computer and applications.
@@ -965,7 +965,7 @@ Formatting conventions for many REST API elements, like endpoints, methods, para
  *  [Eleven Writing](https://www.elevenwriting.com/blog/british-english-vs-american-english#spelling-differences-between-british-and-american-english)
  *  [ProofReadingPal](https://proofreadingpal.com/proofreading-pulse/writing-guides/us-vs-uk-english-grammar/)
 *  In US English, double quotes are used, while UK English uses single quote marks.
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div> Do not use English (UK) spellings.
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div> Do not use English (UK) spellings.
 
 [Back to top](#writing-standards)
 
@@ -985,7 +985,7 @@ For details, go to: [Oxford International English](https://www.oxfordinternation
 
 ### Present tense
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>Use present tense rather than future tense.
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>Use present tense rather than future tense.
 
 *  The future says that an action will happen at some point in the future, raising the question - when?
 *  The present tense implies immediacy.
@@ -995,7 +995,7 @@ For details, go to: [Oxford International English](https://www.oxfordinternation
 | A predefined set of columns displays.     | Predefined set of columns will display.        |
 | The transaction contains an attempts AAV. | The transaction will contain an attempts AAV.  |
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>Avoid using **will**, **would**, **shall**, and **should.**
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>Avoid using **will**, **would**, **shall**, and **should.**
 
 Exception: When an action really does take place in the discernible future.
 Example:
@@ -1010,7 +1010,7 @@ Example:
 
 ### Text formats
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
 **Bold**
 
@@ -1043,7 +1043,7 @@ Values:
 
  5.  Error messages as they display on the UI. Example: Error message—Invalid input value—indicates the value you entered is unable to generate a certificate.
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
 1.  Avoid unnecessary font formatting. Use regular text and bold only in text.
 
@@ -1072,7 +1072,7 @@ Quick reference
 
 Tooltips identify or add supplemental information to a UI element, such as icons or fields.
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div> When writing a tooltip:
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div> When writing a tooltip:
 
 1.     Be short and concise—one word to a couple short sentences.
 
@@ -1082,7 +1082,7 @@ Tooltips identify or add supplemental information to a UI element, such as icons
 
 4.     Use present tense.
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div> Don't use _please._
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div> Don't use _please._
 
 [Back to top](#writing-standards)
 
@@ -1114,7 +1114,7 @@ Verbs tell your audience what to do. Make sure they know who does what.
 
 Use the following guidelines for videos. For more information see, Video Style Guide.
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
 1.     Link to videos created by Fiserv and ideally no longer than 4 minutes in duration.
 
@@ -1128,7 +1128,7 @@ Use the following guidelines for videos. For more information see, Video Style G
 
 6.     Explore options of creating GIFs to show simple processes that can be conveyed in 5 seconds or less. You can use an animated GIF to supplement task information or paragraph text.
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
 1.     Don't make viewing the video as a requirement to complete a task.
 
@@ -1180,7 +1180,7 @@ Use the following guidelines for videos. For more information see, Video Style G
 | If you use the start.ini file to define JVM arguments, add the javaagent argument after the --exec option. |  If you use start.ini to define JVM arguments, add javaagent after --exec. |
 | From the command line, run the following command to start your app in develop mode: yarn run start.        | Run the following to start in dev mode: yarn run start.                    |                                                   |
 
-<div class="row" style="text-align:left;" markdown=1><img src="./assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
 1.     Avoid legal, foreign, and technical jargon.
 2.     Don't use excess modifiers such as _absolutely, actually, completely, really, quite, totally_, and _very_.
