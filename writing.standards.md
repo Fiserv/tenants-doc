@@ -199,8 +199,8 @@ To avoid unnecessary usage of pronouns:
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
-1.     Don't use words that unnecessarily identify a person’s race, religion, physical status, social status, age, national origins, or gender.
-2.     Don't use constructions like he/she and s/he.
+1. Don't use words that unnecessarily identify a person’s race, religion, physical status, social status, age, national origins, or gender.
+2. Don't use constructions like he/she and s/he.
 
 [Back to top](#writing-standards)
 
