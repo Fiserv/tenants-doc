@@ -133,7 +133,7 @@ Don't spell out the term if the acronym is listed in [The American Heritage Dict
 
 |                                     Active voice                                    |                                       Passive voice                                      |
 |:-----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|
-| The team completed the project on time.                                             | The project was completed on time by the team.                                           |
+| The team completed the project on time.                                         | The project was completed on time by the team.                                       |
 | Fiserv assigns the merchant_id parameter to uniquely identify the merchant account. | The merchant_id parameter is assigned by Fiserv to uniquely identify a merchant account. |
 
 [Back to top](#writing-standards)
@@ -178,7 +178,7 @@ fid (as pronounced) - enter a FIID in the field; a URL
 |                                                                                                                                                                                           ![thumbs up](./images/thumbs-up.png)                                                                                                                                                                    |                                                                                                                                                                                        ![thumbs down](./images/thumbs-down.png)                                                                                                                                                                                         |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |**Solutions on the Fiserv platform**<br><br>The Fiserv platform provides:<br><br> • Cloud-based point of sale (POS)....<br> • Android-based POS devices.<br> • Android-based remote services (AIDL), content providers, and broadcasts through the Fiserv Services APK.<br> • Standard standard set of Android intents ...<br> • App Market for developers to publish their applications.</p>|**Solutions on the Fiserv platform**<br><br> • A cloud-based point of sale service and REST API<br> • Android-based point of sale devices<br> • Android-based remote services (AIDL), content providers, and broadcasts via the Fiserv Services APK.<br> • A standard set of Android intents that Fiserv and third-party applications can implement<br> • An App Market for developers to publish their applications. |
-| • **Merchant Name**—Name of the merchant that displays on your dashboard and Dev Kits associated with the account.<br> • **Country**—Country where the merchant operates.<br> • **ZIP/Postal/PIN code**—Postal code for the merchant.                                                                                                                                  | • **Merchant Name**—The name of the merchant, which appears in your dashboard and on DevKit's tied to the account<br> • **Country**—The country where the merchant operates<br> • **ZIP/Postal/PIN code**—A valid postal code for the merchant                                                   |
+| • **Merchant Name**—Name of the merchant that displays on your dashboard and Dev Kits associated with the account.<br> • **Country**—Country where the merchant operates.<br> • **ZIP/Postal/PIN code**—Postal code for the merchant.                                                                                                                              | • **Merchant Name**—The name of the merchant, which appears in your dashboard and on DevKit's tied to the account<br> • **Country**—The country where the merchant operates<br> • **ZIP/Postal/PIN code**—A valid postal code for the merchant                                                   |
 
 [Back to top](#writing-standards)
 
@@ -216,10 +216,10 @@ Bullet lists present nonsequential items in easy-to-read, parallel format. Featu
 1. Use a lead-in or introductory line, unless you introduce the list with a heading.
 2. Use parallel sentence construction.
 3. Start each bullet item with a capital letter.
-4.  Period in bullet lists:<br>
-  1. Phrase—no ending period, example: **R**=Card reissue status
-  2. Single word—no ending period, example: **A**=Active​
-  3. Complete sentences or two sentences—use ending period<br>
+4. Period in bullet lists:<br>
+&emsp;1. Phrase—no ending period, example: **R**=Card reissue status<br>
+&emsp;2. Single word—no ending period, example: **A**=Active​<br>
+&emsp;3. Complete sentences or two sentences—use ending period<br>
 5. Use left justification only, not center justification.
 
 [Back to top](#writing-standards)
@@ -230,25 +230,25 @@ Bullet lists present nonsequential items in easy-to-read, parallel format. Featu
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div> Our preferred style is sentence-case capitalization, that is, capitalize the first word and all proper nouns, such as product names.
 
-1.     Use sentence case in:
- 1.     Document title, headings, and navigation.
- 2.     Labels, callouts, field names, and other text in images and diagrams, even if they are in all upper case in the user interface (UI).
- 3.     Items in all types of lists and tables.
- 4.     Glossary definitions.
-2.     Use lowercase for glossary and index terms unless the term is a proper noun or requires capitalization.
-3.     Use camel case only in official names or when referring to code that uses camel case.
-4.     **Date and time**:
- 1.     Date is always in all upper case.
- 2.     Time is always in all lower case.<br>
+1. Use sentence case in:
+&emsp;1. Document title, headings, and navigation.<br>
+&emsp;2. Labels, callouts, field names, and other text in images and diagrams, even if they are in all upper case in the user interface (UI).<br>
+&emsp;3. Items in all types of lists and tables.<br>
+&emsp;4. Glossary definitions.
+2. Use lowercase for glossary and index terms unless the term is a proper noun or requires capitalization.
+3. Use camel case only in official names or when referring to code that uses camel case.
+4. **Date and time**:
+&emsp;1. Date is always in all upper case.<br>
+&emsp;2. Time is always in all lower case.<br>
 **Examples for time and date entry formats:**
- 3.     Transmission Date & Time – MMDDhhmmss
- 4.     Terms & Conditions Date/Time – YYMMDDhhmm
+&emsp;3. Transmission Date & Time – MMDDhhmmss<br>
+&emsp;4. Terms & Conditions Date/Time – YYMMDDhhmm<br>
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
-1.     Don't capitalize words that are not proper nouns, branded names, or if their capitalization contradicts our style guidelines.
-2.     Don't use all-uppercase, except in official names, in [abbreviations](https://developers.google.com/style/abbreviations) that are always written in all-caps, or when referring to code that uses all-caps.
-3.     Job titles, example: An adjustment specialist; **Exception for Fiserv**: Business Consultant
-4.     Don't capitalize any letters in a URL.
+1. Don't capitalize words that are not proper nouns, branded names, or if their capitalization contradicts our style guidelines.
+2. Don't use all-uppercase, except in official names, in [abbreviations](https://developers.google.com/style/abbreviations) that are always written in all-caps, or when referring to code that uses all-caps.
+3. Job titles, example: An adjustment specialist; **Exception for Fiserv**: Business Consultant
+4. Don't capitalize any letters in a URL.
 
 [Back to top](#writing-standards)
 
@@ -256,15 +256,15 @@ Good to know
 
 Capitalize the first letter of the following:
 
-1.     Manuals and other documentation.
-2.     Product names.
-3.     Pop-ups, menu items, screens, application pages.
-4.     Proper nouns.
-5.     Teams and departments, example: The Documentation team, The UNIX team, The Finance department.
-6.     Headings and chapter titles.
-7.     Words following colons (:) and em dash (—)
-8.     References, example: See _Chapter 7_ (but not _earlier_ in this chapter as that does not refer to a title).
-9.     Key names, example: Ctrl, Alt, Enter, Ctrl+P.
+1. Manuals and other documentation.
+2. Product names.
+3. Pop-ups, menu items, screens, application pages.
+4. Proper nouns.
+5. Teams and departments, example: The Documentation team, The UNIX team, The Finance department.
+6. Headings and chapter titles.
+7. Words following colons (:) and em dash (—)
+8. References, example: See _Chapter 7_ (but not _earlier_ in this chapter as that does not refer to a title).
+9. Key names, example: Ctrl, Alt, Enter, Ctrl+P.
 
 ### Code formats
 
@@ -276,18 +276,18 @@ Example:
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
  
-1.     Use `<code>` in HTML or the symbol below the tilde (~) symbol on your keyboard in Markdown to apply a monospace font and other styling to code in text, inline code, and user input. That symbol is also known as acute, backtick, left quote, open quote, back quote, or backquote. 
-2.     Use code blocks, `<pre>` or three back-ticks, for code samples or other blocks of code.
-3.     Use code font to mark up code, such as class names, method names, HTTP status codes, console output, and placeholders.
-4.     Use [semantic HTML](https://developers.google.com/style/semantic-tagging) to control the style of text on a page. Example: Use code tags, `<code>` or \`, instead of manually styling text with a monospace font.
-5.     See [Basic syntax for Markdown](http://markdownguide.org/basic-syntax/).
-6.     See [Extended syntax for Markdown](https://www.markdownguide.org/extended-syntax/).<br>
+1. Use `<code>` in HTML or the symbol below the tilde (~) symbol on your keyboard in Markdown to apply a monospace font and other styling to code in text, inline code, and user input. That symbol is also known as acute, backtick, left quote, open quote, back quote, or backquote. 
+2. Use code blocks, `<pre>` or three back-ticks, for code samples or other blocks of code.
+3. Use code font to mark up code, such as class names, method names, HTTP status codes, console output, and placeholders.
+4. Use [semantic HTML](https://developers.google.com/style/semantic-tagging) to control the style of text on a page. Example: Use code tags, `<code>` or \`, instead of manually styling text with a monospace font.
+5. See [Basic syntax for Markdown](http://markdownguide.org/basic-syntax/).
+6. See [Extended syntax for Markdown](https://www.markdownguide.org/extended-syntax/).<br>
 <br>
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div> <br>
-1.     Don't override or modify font styles inline.
-2.     Don't use code elements such as keywords and filenames as verbs or noun, or plural or possessive.<br>
+1. Don't override or modify font styles inline.
+2. Don't use code elements such as keywords and filenames as verbs or noun, or plural or possessive.<br>
 
 * **Attributes, commands, configuration parameters, expressions, tags**—Inline monospaced font, gray-highlighted text is used for short code samples, file paths, system messages, and user inputs.
 
@@ -319,7 +319,7 @@ Shortcuts and syntax for card descriptions, comments, checklist items, and your 
 | Strikethrough text | Command/Ctrl + Shift + S                                            | \~\~text\~\~                       |
 | Inline code        | Command/Ctrl + Shift + M                                            | \`text\`                         |
 | Links              | Command/Ctrl + K                                                    | \[text\]\(http://www.example.com\) |
-| Escaping Markdown  | For literal markdown syntax, use a backslash '\' before the symbols | \\*literal asterisks\\\*.         |
+| Escaping Markdown  | For literal markdown syntax, use a backslash '\' before the symbols | \\*literal asterisks\\\*.     |
 
 ![formatting-text1.png](./images/formatting-text1.png)
 
@@ -331,19 +331,19 @@ Shortcuts and syntax for card descriptions, comments, checklist items, and your 
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
-1.     Follow the spelling and capitalization a company prefers. Rewrite sentences so that a lowercase letter does not begin a sentence.
+1. Follow the spelling and capitalization a company prefers. Rewrite sentences so that a lowercase letter does not begin a sentence.
 
-2.     Check the trademark symbol that must be used with the first instance usage of the company name on a page or topic.
+2. Check the trademark symbol that must be used with the first instance usage of the company name on a page or topic.
 
-3.     When two or more companies occur in a sentence, write them alphabetically, example: American Express, Discovery, Mastercard, and Visa.
+3. When two or more companies occur in a sentence, write them alphabetically, example: American Express, Discovery, Mastercard, and Visa.
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
-1.     Don't use symbols, such as exclamation marks, plus signs or asterisks, that form contrived spellings or that are part of the logo.
+1. Don't use symbols, such as exclamation marks, plus signs or asterisks, that form contrived spellings or that are part of the logo.
 
-2.     Don't place Fiserv in front of group or business unit names and locations.
+2. Don't place Fiserv in front of group or business unit names and locations.
 
-3.     Don't use possessive case with company names.
+3. Don't use possessive case with company names.
 
 [Back to top](#writing-standards)
 
@@ -367,9 +367,9 @@ Shortcuts and syntax for card descriptions, comments, checklist items, and your 
 
 &emsp;&ensp;5. Precede tables and visuals with explanatory text, example:
 
-&emsp;&emsp;1.     The following diagram illustrates the standard two-phase distributed search process.
+&emsp;&emsp;1. The following diagram illustrates the standard two-phase distributed search process.
 
-&emsp;&emsp;2.     The following image displays an example of the Uploaded Apps page.
+&emsp;&emsp;2. The following image displays an example of the Uploaded Apps page.
 
 &ensp;6. Be concise—leave out unnecessary words.
 
@@ -385,46 +385,46 @@ Shortcuts and syntax for card descriptions, comments, checklist items, and your 
 
 &ensp;9. Minimize cross-references as they distract from the content flow:
 
-&emsp;&ensp;1.     Review material to remove unnecessary and cluttering cross-references.
+&emsp;&ensp;1. Review material to remove unnecessary and cluttering cross-references.
 
-&emsp;&ensp;2.     If the cross-reference text is brief, eliminate the cross-reference by including the text in the section.
+&emsp;&ensp;2. If the cross-reference text is brief, eliminate the cross-reference by including the text in the section.
 
-&emsp;&ensp;3.     If the text is elaborate, you can cross-reference.
+&emsp;&ensp;3. If the text is elaborate, you can cross-reference.
 
-&emsp;&ensp;4.     If possible, design the content to include cross-references at the bottom on the page or end of the text, instead of in the middle of the running text.
+&emsp;&ensp;4. If possible, design the content to include cross-references at the bottom on the page or end of the text, instead of in the middle of the running text.
 
-&emsp;&ensp;5.     See also: [Links—Cross-references and hyperlinks](#links-cross-references-and-hyperlinks).
+&emsp;&ensp;5. See also: [Links—Cross-references and hyperlinks](#links-cross-references-and-hyperlinks).
 
 &ensp;10. Writing factual, direct statements to help a reader understand why an option is a good idea and whether it applies to them.
 
 
 |                                                 ![thumbs up](./images/thumbs-up.png)                                                |                                                                        ![thumbs down](./images/thumbs-down.png)                                                                        |
 |:------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
-| To minimize system impact, perform this action outside of normal business hours.                 | It is recommended to perform this action outside of normal business hours.                                                                      |
-| Mask specific values in images to hide sensitive information.                                    | We recommend concealing specific values in images.                                                                                              |
+| To minimize system impact, perform this action outside of normal business hours.             | It is recommended to perform this action outside of normal business hours.                                                                  |
+| Mask specific values in images to hide sensitive information.                                | We recommend concealing specific values in images.                                                                                          |
 | Take the time to learn which indexes contain your data, the source and source type of your data. |  Fiserv recommends that you take the time to learn which indexes contain your data, the sources of your data, and the source type of that data. |
 
 [Back to top](#writing-standards)
 
 Good to remember
 
-1.     **Headings**—Descriptive, informative, and concise.
-2.     **Paragraphs and list items**—Begin with identifiable concepts as early as possible.
-3.     **Examples**—Use for the most common use cases, but not for everything.
-4.     **Linear and cumulative**—Aim for the reader to follow your documentation, linearly, from start to finish. However, this is not always possible. Use cumulative ordering to increase retrievability, such as, examples and tutorials followed by alphabetic concepts.
-5.     **Comprehensive**—Cover one concept or topic in totality so that all questions are answered in that context.
-6.     **Structure**—Organize top-down, beginning with an overview, and gradually adding details.
-7.     **Tables**—Keep tables as simple as possible. Complicated tables that contain lists or merged cells are difficult to navigate using a screen reader. 
-8.     **Links**—Include  words which describe the link itself, and never phrases like click here or this page.
-9.     **Visuals**—Use well-designed templates, diagrams with proper legends, and other visual tools to increase the effectiveness of the document, without going overboard with multiple styling.
-10.     **Quality**—Aim for correct spelling and grammar.
+1. **Headings**—Descriptive, informative, and concise.
+2. **Paragraphs and list items**—Begin with identifiable concepts as early as possible.
+3. **Examples**—Use for the most common use cases, but not for everything.
+4. **Linear and cumulative**—Aim for the reader to follow your documentation, linearly, from start to finish. However, this is not always possible. Use cumulative ordering to increase retrievability, such as, examples and tutorials followed by alphabetic concepts.
+5. **Comprehensive**—Cover one concept or topic in totality so that all questions are answered in that context.
+6. **Structure**—Organize top-down, beginning with an overview, and gradually adding details.
+7. **Tables**—Keep tables as simple as possible. Complicated tables that contain lists or merged cells are difficult to navigate using a screen reader. 
+8. **Links**—Include  words which describe the link itself, and never phrases like click here or this page.
+9. **Visuals**—Use well-designed templates, diagrams with proper legends, and other visual tools to increase the effectiveness of the document, without going overboard with multiple styling.
+10. **Quality**—Aim for correct spelling and grammar.
 
 
 ### Dashes em dash and en dash
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                    Dashes—em dash                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                           Dashes—en dash                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                     Dashes—hyphen                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![thumbs up](./images/thumbs-up.png)Use em dash: <br>1. To offset and emphasize a statement; place on each side of a phrase embedded in a sentence. Example: The information in your spreadsheet—numbers, formulas, and text—is stored in cells. <br>2. To offset text, as in a title or header, or definition, or to describe a value. Example: Processor—EPOC Activity; A—First letter in the English alphabet. <br>3. Before and after—**or**— and —**and**— when describing multiple or alternate action paths <br>4. Before and after code formatted text **with spaces**. Example:<br> ![code-formatted-with-spaces.png](./images/code-formatted-with-spaces.png)<br>5. **Format**: <br>&emsp;1. First word following em dash is not capitalized when it occurs in a sentence. <br>&emsp;2. If the em dash occurs in a title, or follows an introductory word/words in a list, or a proper noun then the first word after the em dash is capitalized. <br>&emsp;3. Don't use spaces before and after in running text. <br>&emsp;4. Use spaces before and after in code formatted text. See point **4**. | ![thumbs up](./images/thumbs-up.png)Use en dash: <br>1. To indicate a range of numbers, such as inclusive values, dates, or pages. Example: 2015–2017 <br>2. For a minus sign. Example: 12 – 3 = 9 <br>3. To indicate negative numbers. Example: –79 <br><br> ![Error](./images/thumbs-down.png) <br> Don't use spaces before and after. | ![thumbs up](./images/thumbs-up.png)Use hyphens: <br>1.     To join compound words. See [Standard word list](file:///display/TP4D/Standard+word+list). <br>2.     For a sequence of two hyphenated words with the same ending; known as: suspensive hyphenation. Example: <br>&ensp;1.     We offered 1- and 2-year contracts. <br>&ensp;2.     Both micro- and macroeconomic policies ... 3.     If a prefix ends in a vowel and the word that follows begins with the same vowel. Example: pre-exist, auto-opt, co-owner Exceptions: cooperate, coordinate. 4.     If the word that follows is capitalized - Mid-Release, Non-FI, non-XML. 5.     To join doubled prefixes. 6.     Often, you can replace a slash (/ ) with a hyphen to join equal or like terms, as in faculty-student ratio.   <br><br> ![Error](./images/thumbs-down.png) <br>1.     Don't use spaces before and after.<br>2.     Don’t hyphenate compounds formed by an adverb ending in -ly followed by an adjective or participle, example: <br>&emsp;1.     highly regulated not highly-regulated market <br>&emsp;2.     rarely used not rarely-used services |
+| ![thumbs up](./images/thumbs-up.png)Use em dash: <br>1. To offset and emphasize a statement; place on each side of a phrase embedded in a sentence. Example: The information in your spreadsheet—numbers, formulas, and text—is stored in cells. <br>2. To offset text, as in a title or header, or definition, or to describe a value. Example: Processor—EPOC Activity; A—First letter in the English alphabet. <br>3. Before and after—**or**— and —**and**— when describing multiple or alternate action paths <br>4. Before and after code formatted text **with spaces**. Example:<br> ![code-formatted-with-spaces.png](./images/code-formatted-with-spaces.png)<br>5. **Format**: <br>&emsp;1. First word following em dash is not capitalized when it occurs in a sentence. <br>&emsp;2. If the em dash occurs in a title, or follows an introductory word/words in a list, or a proper noun then the first word after the em dash is capitalized. <br>&emsp;3. Don't use spaces before and after in running text. <br>&emsp;4. Use spaces before and after in code formatted text. See point **4**. | ![thumbs up](./images/thumbs-up.png)Use en dash: <br>1. To indicate a range of numbers, such as inclusive values, dates, or pages. Example: 2015–2017 <br>2. For a minus sign. Example: 12 – 3 = 9 <br>3. To indicate negative numbers. Example: –79 <br><br> ![Error](./images/thumbs-down.png) <br> Don't use spaces before and after. | ![thumbs up](./images/thumbs-up.png)Use hyphens: <br>1. To join compound words. See [Standard word list](file:///display/TP4D/Standard+word+list). <br>2. For a sequence of two hyphenated words with the same ending; known as: suspensive hyphenation. Example: <br>&ensp;1. We offered 1- and 2-year contracts. <br>&ensp;2. Both micro- and macroeconomic policies ... 3. If a prefix ends in a vowel and the word that follows begins with the same vowel. Example: pre-exist, auto-opt, co-owner Exceptions: cooperate, coordinate. 4. If the word that follows is capitalized - Mid-Release, Non-FI, non-XML. 5. To join doubled prefixes. 6. Often, you can replace a slash (/ ) with a hyphen to join equal or like terms, as in faculty-student ratio.   <br><br> ![Error](./images/thumbs-down.png) <br>1. Don't use spaces before and after.<br>2. Don’t hyphenate compounds formed by an adverb ending in -ly followed by an adjective or participle, example: <br>&emsp;1. highly regulated not highly-regulated market <br>&emsp;2. rarely used not rarely-used services |
 
 
 
@@ -444,22 +444,22 @@ Spell out dates in documents.
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
-1.     Dates in text: **month**, **day**, **year**, as in **July 31, 2022**.
+1. Dates in text: **month**, **day**, **year**, as in **July 31, 2022**.
 Example:
 
- 1.     The final report is due January 15, 2022—a month before the product goes live.
+&emsp;1. The final report is due January 15, 2022—a month before the product goes live.
 
- 2.     We will recalibrate the system beginning on November 8, 2022.
+&emsp;2. We will recalibrate the system beginning on November 8, 2022.
 
- 3.     We’ll launch the new version in March 2023. 
+&emsp;3. We’ll launch the new version in March 2023. 
 
-2.     Use a numeral instead of ordinal numbers: June 1 or October 28. Always spell out the name of the month. 
+2. Use a numeral instead of ordinal numbers: June 1 or October 28. Always spell out the name of the month. 
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
-1.     Don't use day month year, as in 31 July 2016.Upper case: **MMDDYYYY; DDMM; MMDDYY**
+1. Don't use day month year, as in 31 July 2016.Upper case: **MMDDYYYY; DDMM; MMDDYY**
 
-2.     Don't use ordinal numbers, such as June first or October twenty-eighth for dates. Exception: 1st, 2nd .... 15th are allowed in tables
+2. Don't use ordinal numbers, such as June first or October twenty-eighth for dates. Exception: 1st, 2nd .... 15th are allowed in tables
    
 **Note**: An ordinal number indicates the position or order of something in relation to other numbers, like, first, second, third, and so on.
 
@@ -471,18 +471,18 @@ Example:
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
-1.     Focus on error recognition and recovery.
-2.     Clearly state the problem, the cause, and what the customer can do to remediate or recover.
-3.     Use complete sentences with end punctuation.
+1. Focus on error recognition and recovery.
+2. Clearly state the problem, the cause, and what the customer can do to remediate or recover.
+3. Use complete sentences with end punctuation.
    
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div> Don't use _please._
 
 | Original message                                                                                                                    | Rewritten message                                                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Max number of concurrent searches reached.                                                                                          | The maximum number of concurrent searches is reached. Decrease the number of concurrent searches or increase search concurrency limits in limits.conf.       |
-| Unable to distribute to peer named xxxx at uri `http://xxxx:8089` because peer has status = "Authentication Failed".                  | Unable to distribute to peer xxxx at `http://xxxx:8089` because authentication failed. Make sure adequate system resources are available on the target server. |
-| Max search jobs encountered.                                                                                                        | The maximum number of search jobs is reached. To reduce the number of search jobs, go to Job Inspector, and delete unneeded jobs.                            |
-| Could not load/save the object. May need to check user settings for roles and permissions. Details: An internal error has occurred. | The cloned table cannot be saved as it has the same name as the original. Rename the cloned table.                                                           |
+| Max number of concurrent searches reached.                                                                                      | The maximum number of concurrent searches is reached. Decrease the number of concurrent searches or increase search concurrency limits in limits.conf.   |
+| Unable to distribute to peer named xxxx at uri `http://xxxx:8089` because peer has status = "Authentication Failed".              | Unable to distribute to peer xxxx at `http://xxxx:8089` because authentication failed. Make sure adequate system resources are available on the target server. |
+| Max search jobs encountered.                                                                                                    | The maximum number of search jobs is reached. To reduce the number of search jobs, go to Job Inspector, and delete unneeded jobs.                        |
+| Could not load/save the object. May need to check user settings for roles and permissions. Details: An internal error has occurred. | The cloned table cannot be saved as it has the same name as the original. Rename the cloned table.                                                       |
 
  
 
@@ -494,30 +494,31 @@ Example:
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
-1.     **Length**: Limit folder and file names to **25 characters**. Less is more. A URL cannot be longer than **255 characters**; as a best practice limit the folder hierarchy to 225 characters.
+1. **Length**: Limit folder and file names to **25 characters**. Less is more. A URL cannot be longer than **255 characters**; as a best practice limit the folder hierarchy to 225 characters.
 
-2.     Use hyphens, not underscores, to separate words, in a topic name/URL, example: query-data.html
+2. Use hyphens, not underscores, to separate words, in a topic name/URL, example: query-data.html
 
-3.     Make file and directory names lowercase.
+3. Make file and directory names lowercase.
 
-4.     Use only standard ASCII alphanumeric characters in file and directory names.
+4. Use only standard ASCII alphanumeric characters in file and directory names.
 
-**Camel case**: Use the camel case to delimit words. Camel case, means in a word the first letter should be capital, example: TransactionData, or Transaction-Data.
+**Camel case**: Use the camel case to delimit words. Camel case, means in a word the first letter should be capital, example: TransactionData, or Transaction-Data.<br>
+
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div> Don't use
 
-1.     Long file name with long file paths and URLs as they increase likelihood of error.
+1. Long file name with long file paths and URLs as they increase likelihood of error.
 
-2.     Special characters in a file name. \ / : * ? " < > | [ ] & $
+2. Special characters in a file name. \ / : * ? " < > | [ ] & $
 
-3.     Spaces in File and Folder names to delimit words. Spaces are frequently translated in a Web environment to be read as "%20".
+3. Spaces in File and Folder names to delimit words. Spaces are frequently translated in a Web environment to be read as "%20".
 
-4.     Articles – "a", "an", "the"
+4. Articles – "a", "an", "the"
 
-5.     Underscores/double underscores, double hyphens - _ __ --
+5. Underscores/double underscores, double hyphens - _ __ --
 
-6.     Period (.) at the start or end
+6. Period (.) at the start or end
 
-7.     Initials, abbreviations and codes that are not commonly understood. 
+7. Initials, abbreviations and codes that are not commonly understood. 
 
 [Back to top](#writing-standards)
 
@@ -525,12 +526,12 @@ Example:
 
 ### Headings and subheadings
 
-1.     Limit heading levels to three or fewer. Any more levels may indicate your content is complex. This also makes it difficult for your audience to keep track of the document structure.
-2.     API reference headings are verbs that indicate the CRUD action.
-3.     Use sentence case.
-4.     Preferred—spell out in the heading or title without the abbrevation in parentheses, example: Device updates for full service restaurant, unless there is a space constraint.
-5.     Use informative, specific, and inclusive text.
-6.     Use **task-based text**, that is, mention the action to perform, not the name of the page or window or option. Introductory sentence should not repeat the task-based heading.
+1. Limit heading levels to three or fewer. Any more levels may indicate your content is complex. This also makes it difficult for your audience to keep track of the document structure.
+2. API reference headings are verbs that indicate the CRUD action.
+3. Use sentence case.
+4. Preferred—spell out in the heading or title without the abbrevation in parentheses, example: Device updates for full service restaurant, unless there is a space constraint.
+5. Use informative, specific, and inclusive text.
+6. Use **task-based text**, that is, mention the action to perform, not the name of the page or window or option. Introductory sentence should not repeat the task-based heading.
    
 Example:
 
@@ -538,8 +539,8 @@ Example:
 
 **Introductory sentence**—Use the Estimate Payoff option to calculate the … when or why
 
-7.     Try and limit the number of words in a heading to 6; and in subheadings 6-8 words.
-8.     Do not use gerunds at any heading level.
+7. Try and limit the number of words in a heading to 6; and in subheadings 6-8 words.
+8. Do not use gerunds at any heading level.
 
 
 |                                                                                                                                        Topic titles and Task-based procedure headings - All levels                                                                                                                                       |                                                                                                                                                         Concept topic headings -  All levels                                                                                                                                                         |
@@ -565,18 +566,18 @@ Use images to supplement written information. If possible, use tables and lists,
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
-1.     Capture a screen shot using the light theme with your screen zoomed to 100%.
-2.     Introduce each image with a full sentence that describes its contents.
-3.     Provide [alt text](https://developers.google.com/style/images#alt-text) that adequately summarizes the intent of each image. Alt text is a  concise description of the image that can replace the image when it isn't visible.
-4.     Use SVG file type instead of PNG, if available. SVGs stay sharp when you zoom in on the image.
-5.     Use inline image in a sentence to label a UI element, such as a toolbar icon or a button.
+1. Capture a screen shot using the light theme with your screen zoomed to 100%.
+2. Introduce each image with a full sentence that describes its contents.
+3. Provide [alt text](https://developers.google.com/style/images#alt-text) that adequately summarizes the intent of each image. Alt text is a  concise description of the image that can replace the image when it isn't visible.
+4. Use SVG file type instead of PNG, if available. SVGs stay sharp when you zoom in on the image.
+5. Use inline image in a sentence to label a UI element, such as a toolbar icon or a button.
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
-1.     Don't use actual numbers, customer or merchant data, or PII in images. See [Inclusive names and secure data](#inclusive-names-and-secure-data).
-2.     Don't present new information in images; always provide an equivalent text explanation with the image.
-3.     Don't repeat images unless absolutely necessary.
-4.     Don't use images of text, code samples, or terminal output. Use actual text.
+1. Don't use actual numbers, customer or merchant data, or PII in images. See [Inclusive names and secure data](#inclusive-names-and-secure-data).
+2. Don't present new information in images; always provide an equivalent text explanation with the image.
+3. Don't repeat images unless absolutely necessary.
+4. Don't use images of text, code samples, or terminal output. Use actual text.
 
 [Back to top](#writing-standards)
 
@@ -584,13 +585,13 @@ Best practices for alt text for images
 
 In alt text:
 
-1.     Use sentence case. 
-2.     Include punctuation. 
-3.     Use consistent alt text for repeated instances of an image, such as, icons.
-4.     Use full sentences in 155 characters or less.
-5.     If you need more than 155 characters,:
- 1. Include a brief summary of the image in the altattribute.
- 2. Include the `longdesc` attribute to link to a more extensive description of the image. The `longdesc` attribute value should be a link, not text.
+1. Use sentence case. 
+2. Include punctuation. 
+3. Use consistent alt text for repeated instances of an image, such as, icons.
+4. Use full sentences in 155 characters or less.
+5. If you need more than 155 characters,:
+&emsp;1. Include a brief summary of the image in the altattribute.
+&emsp;2. Include the `longdesc` attribute to link to a more extensive description of the image. The `longdesc` attribute value should be a link, not text.
 
 ### Inclusive names and secure data
 
@@ -598,31 +599,31 @@ In images and examples:
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
-1.     Use names sensitive to culture, religious affiliation, holidays, traditions, politics, and business. Make sure that the name you create reflects the wide range of names used around the world.
+1. Use names sensitive to culture, religious affiliation, holidays, traditions, politics, and business. Make sure that the name you create reflects the wide range of names used around the world.
 
-2.     Provide imaginary examples or use placeholders, like `USER_ID` or `EMAIL_ADDRESS`.
+2. Provide imaginary examples or use placeholders, like `USER_ID` or `EMAIL_ADDRESS`.
 
-3.     Use [test card numbers](https://docs.clover.com/docs/test-card-numbers).
+3. Use [test card numbers](https://docs.clover.com/docs/test-card-numbers).
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
-1.     Don't reveal personally identifiable information (PII), such as domain names, email addresses, phone numbers, people's names, project names, or credit card numbers.
+1. Don't reveal personally identifiable information (PII), such as domain names, email addresses, phone numbers, people's names, project names, or credit card numbers.
 
-2.     Don't use:
+2. Don't use:
 
- 1.     Fictional or movie characters, your own name, or the name of friends or family members
+&emsp;1. Fictional or movie characters, your own name, or the name of friends or family members
 
- 2.     Actual domain names
+&emsp;2. Actual domain names
 
- 3.     Actual merchant names
+&emsp;3. Actual merchant names
 
- 4.     Actual addresses
+&emsp;4. Actual addresses
 
- 5.     Actual card, account, or PIN numbers
+&emsp;5. Actual card, account, or PIN numbers
 
- 6.     Actual phone numbers
+&emsp;6. Actual phone numbers
 
- 7.     IP addresses
+&emsp;7. IP addresses
 
 [Back to top](#writing-standards)
 
@@ -633,7 +634,7 @@ Recommended replacements for PII
 | First name             | Alex, Amal, Chris, Dana, Hao, Kai, Kim, Kiran, Lee, Nur, Sasha, Taylor, Wei, Yuri                                          |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | Last name              | Smith, Public, Doe, Martin, Patel, Garcia, Paulo, Zhang                                                                    |
-| Domain name            | example.com example.org <br>example.net <br>example.io <br><br>For more information, see [Reserved domains](https://www.iana.org/domains/reserved).                                 |
+| Domain name            | example.com example.org <br>example.net <br>example.io <br><br>For more information, see [Reserved domains](https://www.iana.org/domains/reserved).                             |
 | Email addresses        | .... example.com <br>alex@example.com <br>developers@example.com <br>yuri.smith@example.com <br>test.merchant@example.com <br>info@example.com |
 | Company names          | Example Organization <br>Enterprise Example Organization <br>Startup Example Organization                                          |
 | US phone numbers       | From (800) 555-0100 through (800) 555-0199                                                                                 |
@@ -650,9 +651,9 @@ Recommended replacements for PII
 
 Informal tone is used mostly in eLearnings, announcements, blogs, and FAQ. Procedures and technical concepts or references should be formal and straight to the point. Lead-in lines or topic sentences may use some informal tone in the introduction.
 
-1.     _Write as you talk_ is a common rule of writing that is readable; however don't use slangs or jargons; or too casual a tone. 
-2.     Use contractions—Let's, isn't, don't, and can't—but with discretion, and where they sound natural.
-3.     Be cautious. When in doubt, use a formal tone.
+1. _Write as you talk_ is a common rule of writing that is readable; however don't use slangs or jargons; or too casual a tone. 
+2. Use contractions—Let's, isn't, don't, and can't—but with discretion, and where they sound natural.
+3. Be cautious. When in doubt, use a formal tone.
 
 [Back to top](#writing-standards)
 
@@ -773,9 +774,9 @@ Split up long lines of code with line breaks so that the lines of code fit withi
 |                   Term                  |                                                                                                            Usage                                                                                                            |
 |:---------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | mouse pointer/cursor                    | Use _pointer_. If needed, use _cursor_ only for a technical audience or to describe the point on the screen to insert a text or graphic.   ![mouse.png](./images/mouse.png)                                                                                 |
-| mouse button                            | Use to indicate the left mouse button. Use right mouse button, only if it is needed, example: Click the right mouse button to display the shortcut menu.                                                                    |
+| mouse button                            | Use to indicate the left mouse button. Use right mouse button, only if it is needed, example: Click the right mouse button to display the shortcut menu.                                                                |
 | drag                                    | Use _drag_, not click and drag or drag-and-drop for moving a file from one place to another. Drag-and-drop is used as an adjective. Example: Drag the folder to the desktop. Moving the folder is a drag-and-drop operation. |
-| mouse over or move the mouse pointer to | Do not use. Use _hover over_.                                                                                                                                                                                                 |
+| mouse over or move the mouse pointer to | Do not use. Use _hover over_.                                                                                                                                                                                             |
 
 [Back to top](#writing-standards)
 
@@ -807,15 +808,14 @@ Numbered lists are used to list a series of items or steps in order of priority,
 
 **Spelling out numbers in paragraphs**
 
-1.     Spell out numbers one through nine if a paragraph has only numbers **nine and below**. 
+1. Spell out numbers one through nine if a paragraph has only numbers **nine and below**. 
 
-2.     If you have number 10 and also numbers below 10, then use the digits for all numbers.
+2. If you have number 10 and also numbers below 10, then use the digits for all numbers.
 
-3.     If a sentence has a mixture of values 1–9 and greater than 9, use numbers for all the values. Example: This procedure supports sections 1, 6, 10, and 15 of the policy.Exceptions: units of measurement, time, input. Example:
+3. If a sentence has a mixture of values 1–9 and greater than 9, use numbers for all the values. Example: This procedure supports sections 1, 6, 10, and 15 of the policy.Exceptions: units of measurement, time, input. Example:
 
- 1. In text—One institution, four sandwiches, nine skateboards.
-
- 2. Units of measurement—1 inch; 7 feet; 4pm; 5-digit; Enter 6 in the field.
+&emsp;1. In text—One institution, four sandwiches, nine skateboards.<br.
+&emsp;2. Units of measurement—1 inch; 7 feet; 4pm; 5-digit; Enter 6 in the field.<br>
 
 **Using numeric in tables**
 
@@ -863,9 +863,9 @@ Parentheses are less emphatic than em dashes and more emphatic than commas.  In 
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
-1.     Use parentheses ( ) to clarify such as, adding examples or relaying a nuance or a small bit of clarifying data that are often subordinate to the main point.
-2.     Use em dashes (**opt**+**shft** -) to set an important phrase apart in a way that emphasizes versus subordinating it—like a wink or a nod to the reader. They are a great substitute for a semicolon—a way to make two points at once.
-3.     Use brackets [ ] to set off comments, corrections, mathematical expressions, and incidental or explanatory material. **Example**: The quoted price [$3,750] exceeds the budgeted amount.
+1. Use parentheses ( ) to clarify such as, adding examples or relaying a nuance or a small bit of clarifying data that are often subordinate to the main point.
+2. Use em dashes (**opt**+**shft** -) to set an important phrase apart in a way that emphasizes versus subordinating it—like a wink or a nod to the reader. They are a great substitute for a semicolon—a way to make two points at once.
+3. Use brackets [ ] to set off comments, corrections, mathematical expressions, and incidental or explanatory material. **Example**: The quoted price [$3,750] exceeds the budgeted amount.
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>Don't use parentheses, especially for complete sentences. Rewrite as a separate sentence, as a note, or use commas. For a set of words or phrases, set off with em dashes.
 
 [Back to top](#writing-standards)
@@ -876,16 +876,16 @@ Parentheses are less emphatic than em dashes and more emphatic than commas.  In 
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
-1.     When you write from the point of view of the Fiserv brand, use the first person plural (we). This helps to use lesser words and avoid passive voice.<br>
+1. When you write from the point of view of the Fiserv brand, use the first person plural (we). This helps to use lesser words and avoid passive voice.<br>
 Example: We built Fiserv Dining with the input of restaurants like yours. That makes our POS custom-built for your restaurant
-2.     To communicate with/to our merchants, use the second person (plural or singular).
+2. To communicate with/to our merchants, use the second person (plural or singular).
 
 Example: Our POS is custom-built for your restaurant. Your menu. Your staff. Your floor plan.
-3.     To write about our products and services, use the 3rd person singular (it).
+3. To write about our products and services, use the 3rd person singular (it).
 
 Example: Fiserv Dining makes taking, coursing, and updating orders fast, simple, and accurate.
-4.     State in the beginning of the document who the user is and use you for the user.
-5.     In a question-and-answer format, assume that the user is asking the questions. Use _I_ in the questions to refer to the user. Use we in the responses to represent your agency.
+4. State in the beginning of the document who the user is and use you for the user.
+5. In a question-and-answer format, assume that the user is asking the questions. Use _I_ in the questions to refer to the user. Use we in the responses to represent your agency.
 
 
 |              ![thumbs up](./images/thumbs-up.png)              |         ![thumbs down](./images/thumbs-down.png)        |
@@ -909,7 +909,7 @@ When documenting the UI, use the following prepositions.
 | Preposition | UI element                               | Recommended                                                                                                                                                                                                                                   |
 |-------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | in          | dialogs fields lists menus panes windows | In the Alert dialog, click **OK**. <br>In the Name field, enter `wsfc-1`. <br>In the Item list, select **Desktop**. <br>In the File menu, click **Tools**. <br>In the Metrics pane, click **New**. <br>In the Task window, click **Start**. <br>In the Terminal, run the following command: |
-| on          | pages tabs toolbars                      | On the Create an instance page, click **Add**. <br>On the Edit tab, click **Save**. <br>On the Dashboard toolbar, click **Edit**.                                                                                                                                 |
+| on          | pages tabs toolbars                      | On the Create an instance page, click **Add**. <br>On the Edit tab, click **Save**. <br>On the Dashboard toolbar, click **Edit**.                                                                                                                             |
 
 [Back to top](#writing-standards)
 
@@ -919,11 +919,11 @@ When documenting the UI, use the following prepositions.
 
 |  Punctuation  |                                                                                                                                                                                                                                                                                       Usage                                                                                                                                                                                                                                                                                       |
 |:-------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| General rules | • Limit the usage of exclamation mark (!) and double (" ") (') or single quotations, unless referring to an actual quotation. <br>• Place periods and commas within the quotation marks. <br>• Place question marks and exclamation points inside the quotation marks if they are part of the quote and outside the quotation marks if they apply to the entire sentence. <br>• Place semicolons and colons outside the quotation marks.<br>• Use only one space after any punctuation marks within a sentence.                                                                                    |
-| Colon         | • Colon indicates what follows the punctuation is to explain, illustrate, or add details. <br>• Use to set off a list or series, such as before the word example: or _do one of the following_:  <br> • Capitalize the first word following a colon. <br> • Use commas or colons before direct, complete quotations.                                                                                                                                                                                                                                                                                      |
+| General rules | • Limit the usage of exclamation mark (!) and double (" ") (') or single quotations, unless referring to an actual quotation. <br>• Place periods and commas within the quotation marks. <br>• Place question marks and exclamation points inside the quotation marks if they are part of the quote and outside the quotation marks if they apply to the entire sentence. <br>• Place semicolons and colons outside the quotation marks.<br>• Use only one space after any punctuation marks within a sentence.                                                                                |
+| Colon         | • Colon indicates what follows the punctuation is to explain, illustrate, or add details. <br>• Use to set off a list or series, such as before the word example: or _do one of the following_:  <br> • Capitalize the first word following a colon. <br> • Use commas or colons before direct, complete quotations.                                                                                                                                                                                                                                                                                  |
 | Comma         | • Use commas in numbers of four or more digits. <br>• Set off the clause or phrase with a comma when a sentence begins with—when, if, during, although, because, before, after, according to, since, or similar words. <br>• Use a comma between two independent clauses connected by conjunctions—and, or, but, for, nor  <br>• Serial or oxford comma—In a series of three or more items, use a comma before the final _and_ or _or_. <br> • Example: <br>&emsp;• The software automatically generates reports, letters, and customer statements. <br>&emsp;• This training covers adding, modifying, and deleting client information. |
-| Semi-colon    | Avoid. Try to rewrite the sentence by splitting it up or breaking up the series of clauses or phrases into a list. Semi-colons are used instead of commas when a sentence has a series of long clauses.                                                                                                                                                                                                                                                                                                                                                                           |
-| Periods       | • Place the period inside the closing parentheses, if the entire sentence is enclosed by parentheses. <br>• Place the period at the end of the closing parentheses, when it encloses a partial sentence towards the end. If possible, use an em dash to eliminate the parentheses.                                                                                                                                                                                                                                                                                                |
+| Semi-colon    | Avoid. Try to rewrite the sentence by splitting it up or breaking up the series of clauses or phrases into a list. Semi-colons are used instead of commas when a sentence has a series of long clauses.                                                                                                                                                                                                                                                                                                                                                                       |
+| Periods       | • Place the period inside the closing parentheses, if the entire sentence is enclosed by parentheses. <br>• Place the period at the end of the closing parentheses, when it encloses a partial sentence towards the end. If possible, use an em dash to eliminate the parentheses.                                                                                                                                                                                                                                                                                            |
 
 [Back to top](#writing-standards)
 
@@ -936,10 +936,10 @@ Formatting conventions for many REST API elements, like endpoints, methods, para
 |                     Element                    |                                                                                                                                                        Format                                                                                                                                                        |
 |:----------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Capitalization rules - in all instances        | API names, methods, endpoints - always use the actual upper/lower letter casing even in headings or any other references. Example: dateFunded endpoint has lower case d, so in Titles, headings, or field name columns use the actual camel case. This prevents ambiguity and conforms with the rule of consistency. |
-| API names                                      | No formatting. Use the actual upper/lower letter casing in all instances - text, headings, and so on.                                                                                                                                                                                                                |
-| Endpoints, Class, Objects, Methods, Parameters | Regular font in running text. Inline Courier font in code samples with gray-highlight. Use the actual upper/lower letter casing in all instances - text, headings, and so on.                                                                                                                                        |
+| API names                                      | No formatting. Use the actual upper/lower letter casing in all instances - text, headings, and so on.                                                                                                                                                                                                            |
+| Endpoints, Class, Objects, Methods, Parameters | Regular font in running text. Inline Courier font in code samples with gray-highlight. Use the actual upper/lower letter casing in all instances - text, headings, and so on.                                                                                                                                    |
 | HTTP methods                                   | All upper case letters, inline Courier font, depending on use                                                                                                                                                                                                                                                        |
-| REST API methods                               | No formatting; Request name is in all upper case letters.                                                                                                                                                                                                                                                            |
+| REST API methods                               | No formatting; Request name is in all upper case letters.                                                                                                                                                                                                                                                        |
 | JSON bodies                                    | Courier font block                                                                                                                                                                                                                                                                                                   |
 | REST API requests and responses                | Courier font block                                                                                                                                                                                                                                                                                                   |
 | REST response body                             | Courier font block                                                                                                                                                                                                                                                                                                   |
@@ -954,29 +954,29 @@ Formatting conventions for many REST API elements, like endpoints, methods, para
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
-*  Use American spellings in all text and documents, irrespective of the region, such as US, EMEA, Canada, and so on.
-*  Set English (US) as the default language of your computer and applications.
-*  In MS Word, select **Review** > **Language** > **English** (US).
-*  In Google Docs, select **Review** > **Language** > **English** (US).
-*  For differences in American and British grammar, go to:
- *  [Preply.com](https://preply.com/en/blog/differences-in-grammar-in-american-and-british-english/)
- *  [Learn English by British Council](https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/british-english-and-american-english)
- *  [ProWritingAid](https://prowritingaid.com/art/1610/what-are-the-four-biggest-differences-in-british-and-american-english.aspx)
- *  [Eleven Writing](https://www.elevenwriting.com/blog/british-english-vs-american-english#spelling-differences-between-british-and-american-english)
- *  [ProofReadingPal](https://proofreadingpal.com/proofreading-pulse/writing-guides/us-vs-uk-english-grammar/)
-*  In US English, double quotes are used, while UK English uses single quote marks.
+* Use American spellings in all text and documents, irrespective of the region, such as US, EMEA, Canada, and so on.
+* Set English (US) as the default language of your computer and applications.
+* In MS Word, select **Review** > **Language** > **English** (US).
+* In Google Docs, select **Review** > **Language** > **English** (US).
+* For differences in American and British grammar, go to:
+&emsp;*  [Preply.com](https://preply.com/en/blog/differences-in-grammar-in-american-and-british-english/)
+&emsp;*  [Learn English by British Council](https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/british-english-and-american-english)
+&emsp;*  [ProWritingAid](https://prowritingaid.com/art/1610/what-are-the-four-biggest-differences-in-british-and-american-english.aspx)
+&emsp;*  [Eleven Writing](https://www.elevenwriting.com/blog/british-english-vs-american-english#spelling-differences-between-british-and-american-english)
+&emsp;*  [ProofReadingPal](https://proofreadingpal.com/proofreading-pulse/writing-guides/us-vs-uk-english-grammar/)
+* In US English, double quotes are used, while UK English uses single quote marks.
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div> Do not use English (UK) spellings.
 
 [Back to top](#writing-standards)
 
 Spelling variations - US versus UK English
 
-|: Rule                                                                                                                                                                                                                                                                                                                                                                                                                                                                |: BRITISH                       |: US                                                  |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------------------------------|
+| Rule                                                                                                                                                                                                                                                                                                                                                                                                                                                                | BRITISH                       | US                                                  |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------|:-----------------------------------------------------|
 | **-our vs -or** <br>Most words ending in ‘-our’ in UK English end in ‘-or’ in US English, xcept for contour, velour, paramour, and troubadour                                                                                                                                                                                                                                                                                                                               | colour                        | color, flavor, honor, neighbor, rumor, labor, humor |
 | **-ise vs -ize**<br>Words ending in ‘-ise’. US English changes most of these to ‘-ize’ and ‘-yse’                                                                                                                                                                                                                                                                                                                                                                           | organize or organise          | organize, recognize, analyze                        |
 | **-re vs -er**                                                                                                                                                                                                                                                                                                                                                                                                                                                          | centre                        | center, kilometer, theater, caliber, fiber          |
-| **-ll  vs -l**<br>In UK English, ‘L’ is doubled in verbs ending in a vowel plus ‘L’. In US English, the ‘L’ is not doubled.                                                                                                                                                                                                                                                                                                                                                  | travelled, travelling         | traveled, traveling                                 |
+| **-ll  vs -l**<br>In UK English, ‘L’ is doubled in verbs ending in a vowel plus ‘L’. In US English, the ‘L’ is not doubled.                                                                                                                                                                                                                                                                                                                                              | travelled, travelling         | traveled, traveling                                 |
 | **-ce vs -se**<br> Both UK and US English use ‘advice’ as a noun and ‘advise’ as a verb, but US English has abandoned the ‘licence’/‘license’ and ‘practice’/‘practise’ distinction and uses ‘practice’ and ‘license’ for both meanings. Americans use ‘defense’ and ‘offense’, while Brits write ‘defence’ and ‘offence’. ‘Defensive’ and ‘offensive’ always have an ‘s’. Hence, some nouns that end with ‘ence’ in British English are spelled ‘ense in American English. | licence                       | license                                             |
 | **-ogue vs og or ogue**                                                                                                                                                                                                                                                                                                                                                                                                                                                 | analogue, catalogue, dialogue | analog, catalog, dialog                             |
 | **-ae, -oe vs -e**<br>Words written with ‘ae’/‘oe’ in UK English have a single ‘e’ in US English                                                                                                                                                                                                                                                                                                                                                                            | anaemia, paediatric           | anemia, pediatric                                   |
@@ -987,12 +987,12 @@ For details, go to: [Oxford International English](https://www.oxfordinternation
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>Use present tense rather than future tense.
 
-*  The future says that an action will happen at some point in the future, raising the question - when?
+* The future says that an action will happen at some point in the future, raising the question - when?
 *  The present tense implies immediacy.
 
 |                    ![thumbs up](./images/thumbs-up.png)                    |                    ![thumbs down](./images/thumbs-down.png)(avoid)                    |
 |:-----------------------------------------:|:----------------------------------------------:|
-| A predefined set of columns displays.     | Predefined set of columns will display.        |
+| A predefined set of columns displays. | Predefined set of columns will display.    |
 | The transaction contains an attempts AAV. | The transaction will contain an attempts AAV.  |
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>Avoid using **will**, **would**, **shall**, and **should.**
@@ -1000,9 +1000,9 @@ For details, go to: [Oxford International English](https://www.oxfordinternation
 Exception: When an action really does take place in the discernible future.
 Example:
 
-*  In this training, we will learn. 
+* In this training, we will learn. 
 
-*  We will discuss the other tabs later in this lesson.
+* We will discuss the other tabs later in this lesson.
 
 [Back to top](#writing-standards)
 
@@ -1018,41 +1018,44 @@ Example:
 
 Example:
 
-  *  On the home screen, tap **Orders**.
-  *  Click the **Inventory** tab to add modifiers.
-  *  Select the **Approved** checkbox.
-  *  Select **Yes**.
+&emsp;* On the home screen, tap **Orders**.
+&emsp;* Click the **Inventory** tab to add modifiers.
+&emsp;* Select the **Approved** checkbox.
+&emsp;* Select **Yes**.
+
 * Values when followed by a definition.
 
 Example:
 
 Values:
 
-  * **A** = Active
-  * **C** = Closed
-  * **R** = Rejected
+&emsp;* **A** = Active
+&emsp;* **C** = Closed
+&emsp;* **R** = Rejected
 
 **Italics**—Use italics formatting, `<i>` or `_`
- 1.  Variable text, such as folder names or ID values that are different for each user.
 
- 2.  Text references to exact headings and titles unless they're part of a link.
+1. Variable text, such as folder names or ID values that are different for each user.
 
- 3.  Mathematical variables and version variables. Example: x + y = 3, version 1.4.x.
+2. Text references to exact headings and titles unless they're part of a link.
 
- 4.  Words that are offset from the meaning of your sentence. Example: Search for Query tables on the Microsoft website.
+3. Mathematical variables and version variables. Example: x + y = 3, version 1.4.x.
 
- 5.  Error messages as they display on the UI. Example: Error message—Invalid input value—indicates the value you entered is unable to generate a certificate.
+4. Words that are offset from the meaning of your sentence. Example: Search for Query tables on the Microsoft website.
+
+5. Error messages as they display on the UI. Example: Error message—Invalid input value—indicates the value you entered is unable to generate a certificate.
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
-1.  Avoid unnecessary font formatting. Use regular text and bold only in text.
+1. Avoid unnecessary font formatting. Use regular text and bold only in text.
 
-2.  Don't use underlines.
-3.  Don't force line breaks or hard returns within sentences and paragraphs. Line breaks may not work well in resized windows or with enlarged text.
+2. Don't use underlines.
 
-4.  Avoid use of exclamation marks, quotation marks, and question marks, and semicolons.
+3. Don't force line breaks or hard returns within sentences and paragraphs. Line breaks may not work well in resized windows or with enlarged text.
 
-5.  For more details, including command line formats, see the Formatting Guidelines document.
+4. Avoid use of exclamation marks, quotation marks, and question marks, and semicolons.
+
+5. For more details, including command line formats, see the Formatting Guidelines document.
 
 [Back to top](#writing-standards)
 
@@ -1061,12 +1064,12 @@ Quick reference
 
 |                                                  Element                                                 |                                                                                        Format                                                                                        |
 |:--------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Button names icons & keys                                                                                | Bold. <br>•  Select **Save**. (Preferred usage) <br>• Press **Ctrl** + **P**. <br>• Tap **OK**.                                                                                                                         |
-| Links and tab names                                                                                      | Bold only in an action sentence. <br>• Select the **T&C** link. <br>• Select the **Home** tab.                                                                                                           |
+| Button names icons & keys                                                                                | Bold. <br>•  Select **Save**. (Preferred usage) <br>• Press **Ctrl** + **P**. <br>• Tap **OK**.                                                                                                                     |
+| Links and tab names                                                                                      | Bold only in an action sentence. <br>• Select the **T&C** link. <br>• Select the **Home** tab.                                                                                                       |
 | Value entered in a field, selected from a list, or option, and the checkbox name                         | Bold. <br>•  Select **A**=Active from the Status drop-down list. <br>• Select **Yes** from the Permit option. <br>• Select the **Activate** checkbox. <br>• Select the Date and Time options—**Date range** or **Specific Date**. |
-| Screen or page name Pop-up; dialog Menu or submenu names                                                 | Regular.                                                                                                                                                                             |
-| Fields, drop-down list name                                                                              | Regular.                                                                                                                                                                             |
-| <br>• Messages that display on the screen. <br>• Values that display in fields. <br>• Exact book names and chapter titles. | Italics <br>• The field displays _N/A_.<br>• A message appears—_Your password is changed_. <br>• See _Getting Started_ for more information.                                                                |
+| Screen or page name Pop-up; dialog Menu or submenu names                                                 | Regular.                                                                                                                                                                         |
+| Fields, drop-down list name                                                                              | Regular.                                                                                                                                                                         |
+| <br>• Messages that display on the screen. <br>• Values that display in fields. <br>• Exact book names and chapter titles. | Italics <br>• The field displays _N/A_.<br>• A message appears—_Your password is changed_. <br>• See _Getting Started_ for more information.                                                            |
 
 ### Tooltips
 
@@ -1074,13 +1077,13 @@ Tooltips identify or add supplemental information to a UI element, such as icons
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div> When writing a tooltip:
 
-1.     Be short and concise—one word to a couple short sentences.
+1. Be short and concise—one word to a couple short sentences.
 
-2.     Use sentence-style capitalization.
+2. Use sentence-style capitalization.
 
-3.     Use a period to punctuate full sentences, unless it is one word, a short phrase, or the name of a tool or icon.
+3. Use a period to punctuate full sentences, unless it is one word, a short phrase, or the name of a tool or icon.
 
-4.     Use present tense.
+4. Use present tense.
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div> Don't use _please._
 
@@ -1092,21 +1095,21 @@ Tooltips identify or add supplemental information to a UI element, such as icons
 
 Verbs tell your audience what to do. Make sure they know who does what. 
 
-1.     Use singular nouns and verbs.
+1. Use singular nouns and verbs.
 
-2.     Use present tense - the simplest and strongest form of a verb. 
+2. Use present tense - the simplest and strongest form of a verb. 
 
 | ![thumbs up](./images/thumbs-up.png)                                            | ![thumbs down](./images/thumbs-down.png)                               |  |
 |--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----|
 | Developers must set up their sandbox environment with unique user IDs and passwords. | You must set up the sandbox environment with a unique user ID and password. |    |
 
-3.     In reference documentation, you tell the developers what the method does (_gets_, _lists_, _creates_, _searches_), rather than what they should do (_get_, _list_, _create_, _search_).
+3. In reference documentation, you tell the developers what the method does (_gets_, _lists_, _creates_, _searches_), rather than what they should do (_get_, _list_, _create_, _search_).
 
 | ![thumbs up](./images/thumbs-up.png)                    | ![thumbs down](./images/thumbs-down.png)               |
 |--------------------------------------------------------------|-------------------------------------------------------------|
 | tasks.insert: Creates a new task on the specified task list. | tasks.insert: Create a new task on the specified task list. |
 
-4.     In a specification, for API implementation, you tell the developers what their implementation of the method should do, so use the verb form without the -s (create a new task)
+4. In a specification, for API implementation, you tell the developers what their implementation of the method should do, so use the verb form without the -s (create a new task)
 
 [Back to top](#writing-standards)
 
@@ -1116,23 +1119,23 @@ Use the following guidelines for videos. For more information see, Video Style G
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
-1.     Link to videos created by Fiserv and ideally no longer than 4 minutes in duration.
+1. Link to videos created by Fiserv and ideally no longer than 4 minutes in duration.
 
-2.     Include your video in an appropriate HTML tag. Example: `<video>`, `<embed>`, `<iframe>`, or `<object>`.
+2. Include your video in an appropriate HTML tag. Example: `<video>`, `<embed>`, `<iframe>`, or `<object>`.
 
-3.     Always include captions and transcripts with videos.
+3. Always include captions and transcripts with videos.
 
-4.     Synchronize captions with the video and include all dialogue and important sound effects.
+4. Synchronize captions with the video and include all dialogue and important sound effects.
 
-5.     If your video covers important visual details, make sure to describe them in your voice over.
+5. If your video covers important visual details, make sure to describe them in your voice over.
 
-6.     Explore options of creating GIFs to show simple processes that can be conveyed in 5 seconds or less. You can use an animated GIF to supplement task information or paragraph text.
+6. Explore options of creating GIFs to show simple processes that can be conveyed in 5 seconds or less. You can use an animated GIF to supplement task information or paragraph text.
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
-1.     Don't make viewing the video as a requirement to complete a task.
+1. Don't make viewing the video as a requirement to complete a task.
 
-2.     Don't use actual numbers, customer or merchant data, or PII in images. See [Inclusive names and secure data](#inclusive-names-and-secure-data).
+2. Don't use actual numbers, customer or merchant data, or PII in images. See [Inclusive names and secure data](#inclusive-names-and-secure-data).
 
 [Back to top](#writing-standards)
 
@@ -1140,56 +1143,58 @@ Use the following guidelines for videos. For more information see, Video Style G
 
 ### Words and sentences
 
-1.     Use words and terms consistently throughout your documents.
+1. Use words and terms consistently throughout your documents.
 
-2.     Omit information that the audience doesn’t need to know. An SME may want to include technical information. Keep your focus on what the audience needs.
+2. Omit information that the audience doesn’t need to know. An SME may want to include technical information. Keep your focus on what the audience needs.
 
-3.     Watch out for _of_, _to_, _on_, and other prepositions. They often mark phases you can reduce to one or two words.
+3. Watch out for _of_, _to_, _on_, and other prepositions. They often mark phases you can reduce to one or two words.
 
-4.     Express only one idea in each sentence. 
+4. Express only one idea in each sentence. 
 
-5.     Start with your main idea – don’t start with an exception.
+5. Start with your main idea – don’t start with an exception.
 
-6.     Keep subject, verb, and object close together.
+6. Keep subject, verb, and object close together.
 
- 1.     Put conditionals such as _only_ or _always_, and other modifiers next to the words they modify.
+&emsp;1. Put conditionals such as _only_ or _always_, and other modifiers next to the words they modify.<br>
 
- 2.     Put long conditions after the main clause.
-7.     Write short paragraphs and include only one topic in each paragraph.
+&emsp;2. Put long conditions after the main clause.<br>
+7. Write short paragraphs and include only one topic in each paragraph.
 
-  1.     No more than 150 words in three to eight sentences.
+&emsp;1. No more than 150 words in three to eight sentences.<br>
 
-  2.     Never longer than 250 words.
+&emsp;2. Never longer than 250 words.<br>
 
-  3.     Occasional one sentence paragraph is okay.
+&emsp;3. Occasional one sentence paragraph is okay.<br>
  
-8.     Use positive words and avoid double negatives. Watch out for these words when they appear after _not—unless, fail to, notwithstanding, except, other than, unlawful (un- words), disallowed (dis- words), terminate, void, insufficient,_ and so on. 
-9.     Transition words or phrases tell the reader whether the paragraph expands on the paragraph before, contrasts with it, or takes a completely different direction. 
+8. Use positive words and avoid double negatives. Watch out for these words when they appear after _not—unless, fail to, notwithstanding, except, other than, unlawful (un- words), disallowed (dis- words), terminate, void, insufficient,_ and so on. 
+9. Transition words or phrases tell the reader whether the paragraph expands on the paragraph before, contrasts with it, or takes a completely different direction. 
 
-  1.     Pointing words—_this_, _that_, _these_, _those_, and _the_—refer directly to something already mentioned.
+&emsp;1. Pointing words—_this_, _that_, _these_, _those_, and _the_—refer directly to something already mentioned.<br>
 
-  2.     Explicit connectives—further, also, therefore— provide transitions between sentences and paragraphs can be overdone.
-  3.     If needed, when sequencing ideas, in text—_First_, _Second_, _Third_, _Finally_.
-10.     Choose clarity over conciseness, as necessary.
+&emsp;2. Explicit connectives—further, also, therefore— provide transitions between sentences and paragraphs can be overdone.<br>
+
+&emsp;3. If needed, when sequencing ideas, in text—_First_, _Second_, _Third_, _Finally_.<br>
+
+10. Choose clarity over conciseness, as necessary.
 
 |                                                      ![thumbs up](./images/thumbs-up.png)                                                     |                                      ![thumbs down](./images/thumbs-down.png)                                     |
 |:----------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------|
-| Submit a GET request.                                                                                      | Do a GET.                                                                  |
-| Use the map_get() function to extract nested values from the attributes field.                             | The map_get() extracts nested values from attributes.                      |
-| The auth header is included by default, unless the noAuth flag is set.                                     |  Auth header is included by default, unless noAuth is set.                 |
+| Submit a GET request.                                                                                  | Do a GET.                                                              |
+| Use the map_get() function to extract nested values from the attributes field.                         | The map_get() extracts nested values from attributes.                  |
+| The auth header is included by default, unless the noAuth flag is set.                                 |  Auth header is included by default, unless noAuth is set.             |
 | If you use the start.ini file to define JVM arguments, add the javaagent argument after the --exec option. |  If you use start.ini to define JVM arguments, add javaagent after --exec. |
-| From the command line, run the following command to start your app in develop mode: yarn run start.        | Run the following to start in dev mode: yarn run start.                    |                                                   |
+| From the command line, run the following command to start your app in develop mode: yarn run start.    | Run the following to start in dev mode: yarn run start.                |                                                   |
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
-1.     Avoid legal, foreign, and technical jargon.
-2.     Don't use excess modifiers such as _absolutely, actually, completely, really, quite, totally_, and _very_.
+1. Avoid legal, foreign, and technical jargon.
+2. Don't use excess modifiers such as _absolutely, actually, completely, really, quite, totally_, and _very_.
 
-3.     Avoid directional language - above, below.
+3. Avoid directional language - above, below.
 
-4.     Don't use _that_ and _which_ interchangeably. That introduces an essential clause; which introduces a nonessential clause and is preceded by a comma.
+4. Don't use _that_ and _which_ interchangeably. That introduces an essential clause; which introduces a nonessential clause and is preceded by a comma.
 
-5.     Don't use that for a person. Use—who.
+5. Don't use that for a person. Use—who.
 
 [Back to top](#writing-standards)
 
