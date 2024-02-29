@@ -271,7 +271,7 @@ Capitalize the first letter of the following:
 **Font**—<span style="font-family:'Courier New'">Courier</span> monospace font type is used in Windows command prompt, Mac terminal, every IDE, and most editors. The font type makes it easy to signify code and user input strings.
 Example:
 
-![courier example graphic](./images/courier-example-graphic.png)
+![font-graphic](./images/font-graphic.png)
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
 
