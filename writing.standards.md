@@ -84,10 +84,6 @@ On this page:
 
 [Sample code]((https://confluence.corp.clover.com/display/DEVREL/Sample+code)
 
-[Video Style Guide]file:///display/DEVREL/Video+Style+Guide
-
-[Standard word list](#standard-word-list)
-
 [Active product list](https://fiservcorp.sharepoint.com/sites/fuel/toolbox/color-me-orange/Documents/Naming/Active%20Product%20List.pdf)—updated monthly—approved Fiserv product and service names with trademark symbols
 
 ## Recommended resources
