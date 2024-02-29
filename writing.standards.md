@@ -282,8 +282,6 @@ Example:
 4. Use [semantic HTML](https://developers.google.com/style/semantic-tagging) to control the style of text on a page. Example: Use code tags, `<code>` or \`, instead of manually styling text with a monospace font.
 5. See [Basic syntax for Markdown](http://markdownguide.org/basic-syntax/).
 6. See [Extended syntax for Markdown](https://www.markdownguide.org/extended-syntax/).<br>
-<br>
-<div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div>
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div> <br>
 1. Don't override or modify font styles inline.
