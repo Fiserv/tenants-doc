@@ -349,7 +349,7 @@ Shortcuts and syntax for card descriptions, comments, checklist items, and your 
 
 ### Content organization
 
-&ensp;1. Start writing your document by developing the headings, and structuring them to your audience’s concerns. This helps to reveal major groupings of information. See also: [Headings](#headings).
+&ensp;1. Start writing your document by developing the headings, and structuring them to your audience’s concerns. This helps to reveal major groupings of information. See also: [Headings and subheadings](#headings-and-subheadings).
 
 &ensp;2. Put information in a logical order.
 
@@ -675,8 +675,6 @@ Best practices for data handling
 Fiserv Data Loss Prevention <dlpinfo@fiserv.com>
 [Cyber Risk Manager](https://fiservcorp.sharepoint.com/sites/fuel/corp/general-services/Pages/Cyber-Risk-Managers.aspx) (CRM) - For additional questions regarding classifications.
 
-See Developer Studio copyright on [GitHub for Fiserv](https://github.com/Fiserv/sample-tenant-server/blob/main/api/layout/pagelayout_response.go).
-
 ### Links Cross references and hyperlinks
 
 <div class="row" style="text-align:left;" markdown=1><img src="./images/checkmark-graphic.png"  width="40"/></div>
@@ -771,7 +769,7 @@ Split up long lines of code with line breaks so that the lines of code fit withi
 
 |                   Term                  |                                                                                                            Usage                                                                                                            |
 |:---------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| mouse pointer/cursor                    | Use _pointer_. If needed, use _cursor_ only for a technical audience or to describe the point on the screen to insert a text or graphic.   ![mouse.png](./images/mouse.png)                                                                                 |
+| mouse pointer/cursor                    | Use _pointer_. If needed, use _cursor_ only for a technical audience or to describe the point on the screen to insert a text or graphic.   ![mouse graphic](./images/mouse-graphic.png)                                                                                 |
 | mouse button                            | Use to indicate the left mouse button. Use right mouse button, only if it is needed, example: Click the right mouse button to display the shortcut menu.                                                                |
 | drag                                    | Use _drag_, not click and drag or drag-and-drop for moving a file from one place to another. Drag-and-drop is used as an adjective. Example: Drag the folder to the desktop. Moving the folder is a drag-and-drop operation. |
 | mouse over or move the mouse pointer to | Do not use. Use _hover over_.                                                                                                                                                                                             |
@@ -957,11 +955,11 @@ Formatting conventions for many REST API elements, like endpoints, methods, para
 * In MS Word, select **Review** > **Language** > **English** (US).
 * In Google Docs, select **Review** > **Language** > **English** (US).
 * For differences in American and British grammar, go to:
-&emsp;*  [Preply.com](https://preply.com/en/blog/differences-in-grammar-in-american-and-british-english/)
-&emsp;*  [Learn English by British Council](https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/british-english-and-american-english)
-&emsp;*  [ProWritingAid](https://prowritingaid.com/art/1610/what-are-the-four-biggest-differences-in-british-and-american-english.aspx)
-&emsp;*  [Eleven Writing](https://www.elevenwriting.com/blog/british-english-vs-american-english#spelling-differences-between-british-and-american-english)
-&emsp;*  [ProofReadingPal](https://proofreadingpal.com/proofreading-pulse/writing-guides/us-vs-uk-english-grammar/)
+&emsp;*  [Preply.com](https://preply.com/en/blog/differences-in-grammar-in-american-and-british-english/)<br>
+&emsp;*  [Learn English by British Council](https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/british-english-and-american-english)<br>
+&emsp;*  [ProWritingAid](https://prowritingaid.com/art/1610/what-are-the-four-biggest-differences-in-british-and-american-english.aspx)<br>
+&emsp;*  [Eleven Writing](https://www.elevenwriting.com/blog/british-english-vs-american-english#spelling-differences-between-british-and-american-english)<br>
+&emsp;*  [ProofReadingPal](https://proofreadingpal.com/proofreading-pulse/writing-guides/us-vs-uk-english-grammar/)<br>
 * In US English, double quotes are used, while UK English uses single quote marks.
 <div class="row" style="text-align:left;" markdown=1><img src="./images/red-x-graphic.png"  width="40"/></div> Do not use English (UK) spellings.
 
