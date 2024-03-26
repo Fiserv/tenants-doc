@@ -55,8 +55,8 @@ Checkout the [demo](demo.md) page to see demos of our features.
 ## Below are the steps you need to follow:
 
 1. **Decide your integration level:**
-   * Full Service Tenant (Open API YAML file, Markdown Documentation and Live Sandbox Integration)
-   * Doc Only Tenant (Open API YAML file, Markdown Documentation and [Prism Mock Server Integration](enable-sandbox.md)
+   * Full Service Tenant (Open API YAML file, Markdown Documentation and Live Sandbox Integration/[Prism Mock Server Integration](enable-sandbox.md))
+   * Doc Only Tenant (Markdown Documentation only)
    * Linkout Tenant (External link to the Tenant Developer Portal). [Basic Tenant Information](tenant-basics.md)
 2. **Get your info together:**
    * Open API Spec file in YAML format (Version 3.0.0 and above)
