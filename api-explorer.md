@@ -2,28 +2,21 @@
 
 On the API Explorer page a Developer can view endpoint URL, request, response schema, response codes.
 
-https://user-images.githubusercontent.com/79716732/166037754-545cf73c-46e9-4e55-a1ce-5a8975d0055e.mp4
+![API explorer](assets/videos/API-explorer.mp4)
 
 
-
-The RunBox on the right side of the pagee allows a Developer to veiw an end-point request and response payloads in convenient JSON format. 
+The Runbox on the right side of the page allows a Developer to view an end-point request and response payloads in convenient JSON format. 
 It also supports experimentation by allowing a developer to edit request payload and visualize the results.
 
+![api explorer page](assets/images/api-explorer-page.png "api explorer page")
 
+Another feature of the Runbox is the generation of code snippets in a variety of programming languages.
 
-![api explorer page](assets/images/api-explorer-page.png)
+![code snippet](assets/images/code-snippet-lang-selection.png "code snippet")
 
+API Explorer supports the ability to download API specification in openapi 3.0 format and as Postman collection.
 
-
-Another feature of the RunBox is the generation of code snippets in a variety of programming languages.
-
-![code snippet](./images/code-snippet-lang-selection.png)
-
-
-
-API Explorer supports the ability to download API specification in openapi 3.0 format and Postman collection.
-
-![download buttons](./images/download-buttons.png)
+![download buttons](assets/images/download-buttons.png "download buttons")
 
 
 ## OpenAPI Specification
@@ -49,11 +42,17 @@ OpenAPI Document (or set of documents) defines or describes an API. An OpenAPI d
           }
         ],
 
-![api specs](./images/multiple-api-specs.png)
+![api specs](assets/images/multiple-api-specs.png)
 
+In the `apiversions` array, you may list any number of API versions you support on your product. Each version will pull the API spec yamls from their respective version number (i.e. version `11.0.0` will pull files from `reference/11.0.0/` with each file/subdirectory being indicated in `apiSpecFileNames`). 
+
+Each product can only have one `versionType: 'major'` but can list as many `minor` versions for archiving or tracking older versions as needed.
+
+For each API version, we require a separate `releaseNotesPath` to have updated release notes available for any customers to view in cases of API updates as to prevent unexpected business disruptions.
+
+There is no limit on how many spec files/APIs you can list under a certain version. It is advisable to split APIs into categories/separate files for easy handling by other team members of your product in the future plus ease of indexing/debugging spec in case of misconfiguration. Any spec file not listed under `apiSpecFileNames` will **not** be indexed and shown on Developer Studio. You can use this functionality to have API spec files that are *hidden* to be viewed only by your team members on Github.
 
 ### OpenAPI Document Structure
-
 
 It is required that OpenAPI document follows [JSON Schema](https://json-schema.org/)
 
@@ -91,15 +90,13 @@ Last three fields are used to group API end-points into meaningful features, whe
               x-group-name: API end-point group
               x-child-product-name: parent group of API end-point group
               
-![api groups](./images/api-groups.png)
+![api groups](assets/images/api-groups.png)
 
-
-[Enable Sandbox](./enable-sandbox.md)
+[Enable Sandbox](enable-sandbox.md)
 
 
 ### Default Example
 
+Enhance experience for tenants so they can set default example that can be viewed in runbox by default.
 
-Enhance experience for tenants so they can set default example that can be viewed in run box by default.
-
-![default-example](./images/default-example.png)
+![default-example](assets/images/default-example.png)
