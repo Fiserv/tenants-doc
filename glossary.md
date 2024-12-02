@@ -1,5 +1,5 @@
 ## Tenant
-Is a product that onboards onto the Fiserv Developer Portal (this is our Project PORTAL) to show case it’s APIs and documentation.  For example, Commerce Hub or Business Track.
+Is a product that onboards onto the Fiserv Developer Portal (this is our Project PORTAL) to show case it's APIs and documentation.  For example, Commerce Hub or Business Track.
 
 Note: Tenant use to just mean Carat.  But Carat is a brand not a product as we learned later.
 

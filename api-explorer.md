@@ -11,7 +11,7 @@ It also supports experimentation by allowing a developer to edit request payload
 
 
 
-![api explorer page](./images/api-explorer-page.png)
+![api explorer page](assets/images/api-explorer-page.png)
 
 
 
@@ -21,7 +21,7 @@ Another feature of the RunBox is the generation of code snippets in a variety of
 
 
 
-API Exploreer supports the ability to download API specification in openapi 3.0 format and Postman collection.
+API Explorer supports the ability to download API specification in openapi 3.0 format and Postman collection.
 
 ![download buttons](./images/download-buttons.png)
 
@@ -50,7 +50,6 @@ OpenAPI Document (or set of documents) defines or describes an API. An OpenAPI d
         ],
 
 ![api specs](./images/multiple-api-specs.png)
-
 
 
 ### OpenAPI Document Structure
@@ -84,10 +83,9 @@ Sample of
               x-group-name: Address Service
               x-proxy-name: Add Address
               x-child-product-name: Accountholder
-             
 
 
-Last three fields are used to group API end-points into meaningfull features, where
+Last three fields are used to group API end-points into meaningful features, where
 
               x-proxy-name: API end-point name
               x-group-name: API end-point group

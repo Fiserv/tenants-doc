@@ -6,7 +6,7 @@
 
 This “Privacy Notice” describes the practices of Open Banking…Fiserv, Inc. and its subsidiaries and affiliates (collectively, “Fiserv”, “we”, “us”, or “our”) and the rights and choices available to individuals, regarding personal data. Personal data means any information that relates to an identifiable individual.
 
-Fiserv may provide additional or supplemental privacy notices to individuals at the time we collect their data, which will govern how we may process the information provided at that time. We may alter this Privacy Notice as needed to abide by local laws or regulations around the world, such as by providing supplemental information in certain countries. This Privacy Notice does not apply to Fiserv’s processing of the personal data of its personnel, such as employees and contractors.
+Fiserv may provide additional or supplemental privacy notices to individuals at the time we collect their data, which will govern how we may process the information provided at that time. We may alter this Privacy Notice as needed to abide by local laws or regulations around the world, such as by providing supplemental information in certain countries. This Privacy Notice does not apply to Fiserv's processing of the personal data of its personnel, such as employees and contractors.
 
 ### The personal data we collect
 
@@ -19,19 +19,19 @@ We may collect personal data directly from Developers (including prospective cus
 * Contact information of the business entity and its personnel who interact with us, such as name, job title, address, telephone number, and email address
 * Profile information, such as username and password that an individual may establish on one of our websites or mobile applications, along with any other information that an individual enters into their account profile
 * Demographic details, such as date of birth, country of citizenship and/or country of residence
-* Information about individuals’ affiliation with a legal entity, such as an individual’s role, and whether he or she is a beneficial owner or authorized signatory
-* Government-issued identification numbers (to the extent permitted under applicable law), such as a national identification number (e.g., a Social Security Number, tax identification number, or passport number), state or local identification number (e.g., a Driver’s License or other government-issued identification number), and a copy of your government-issued identification card
+* Information about individuals' affiliation with a legal entity, such as an individual's role, and whether he or she is a beneficial owner or authorized signatory
+* Government-issued identification numbers (to the extent permitted under applicable law), such as a national identification number (e.g., a Social Security Number, tax identification number, or passport number), state or local identification number (e.g., a Driver's License or other government-issued identification number), and a copy of your government-issued identification card
 * Feedback and correspondence, such as information you provide when you request information from us, receive customer support, or otherwise correspond with us, including by interacting with our pages on social networking online sites or services
 * Financial account information, such as payment card or bank account details
 * Information about Developers, such as Developer name, Developer ID and Developer location
-* Information related to a Developer’s use of Fiserv products or services
+* Information related to a Developer's use of Fiserv products or services
 * Marketing information, such as your preferences for receiving marketing communications, Developer surveys, and details about how you engage with our marketing communications
 
 _B. Information that we collect from private and publicly accessible sources_
 
 We and our service providers may collect information about individuals that is publicly available, including by searching publicly accessible government lists of restricted or sanctioned persons (such as the Specially Designated Nationals And Blocked Persons List), public records databases (such as company registries and regulatory filings), and by searching media and the internet. We and or our third party verification providers may also collect information from private or commercially available sources, such as by requesting reports or information from credit reference and fraud prevention agencies, to the extent permitted under applicable law.
 
-We may also maintain pages for our company and our products and services on a variety of third-party platforms, such as LinkedIn, Facebook, Twitter, Google+, YouTube, Instagram, and other social networking services. When individuals interact with our pages on those third-party platforms, the third-party’s privacy policy will govern your interactions on the relevant platform. If the third-party platform provides us with information about our pages on those platforms or your interactions with them, we will treat that information in accordance with this Privacy Notice.
+We may also maintain pages for our company and our products and services on a variety of third-party platforms, such as LinkedIn, Facebook, Twitter, Google+, YouTube, Instagram, and other social networking services. When individuals interact with our pages on those third-party platforms, the third-party's privacy policy will govern your interactions on the relevant platform. If the third-party platform provides us with information about our pages on those platforms or your interactions with them, we will treat that information in accordance with this Privacy Notice.
 
 _C. Information collected via automated means_
 
@@ -41,7 +41,7 @@ Our service providers and business partners may collect this type of information
 
 _D. Sensitive personal data_
 
-In limited circumstances and when permitted by law, we may collect a Developer’s and/or their employee’s biometric data to confirm a Developer’s and/or their employee’s identity, such as when they authenticate a payment or sign into their Fiserv device using their fingerprint. In some circumstances, we may collect information that may reveal health or medical information, such as when we process transactions at health or medical facilities or pharmacies. In the context of processing employment applications, we may also request sensitive information, such as racial or ethnic origin, where required or permitted by law of the country in which you are applying for employment.
+In limited circumstances and when permitted by law, we may collect a Developer's and/or their employee's biometric data to confirm a Developer's and/or their employee's identity, such as when they authenticate a payment or sign into their Fiserv device using their fingerprint. In some circumstances, we may collect information that may reveal health or medical information, such as when we process transactions at health or medical facilities or pharmacies. In the context of processing employment applications, we may also request sensitive information, such as racial or ethnic origin, where required or permitted by law of the country in which you are applying for employment.
 
 Outside of these contexts or otherwise as we specifically request, we ask that you not provide us with any sensitive personal data (meaning information revealing racial or ethnic origin, political opinions, religion or philosophical beliefs, trade union membership, genetic, health, or biometric information, information about sex life or sexual orientation, or criminal convictions or offenses) through our websites or mobile applications, or otherwise to us.
 
@@ -56,7 +56,7 @@ _A. Providing our products and services, which includes:_
 * Carrying out our obligations, and exercising our rights, under our agreement with you or your company
 * Communicating with you regarding your account with us, if you have one, including by sending you service-related emails or messages (e.g., messages regarding account verification, changes or updates to the functionality of our products or services, technical and security notices and alerts, and support and administrative messages)
 * Personalizing the manner in which we provide our products and services
-* Checking for fraud or money laundering and/or managing either our or Developers’ risk
+* Checking for fraud or money laundering and/or managing either our or Developers' risk
 * Administering and protecting our business
 * Providing support and maintenance for our products and services, including responding to your service-related requests, questions, and feedback
 
@@ -71,7 +71,7 @@ _C. Marketing_
 
 We may use your personal data to form a view on what products or services we think you may want or need, or what may be of interest to you.
 
-We may contact Developers and Developer’s personnel with marketing communications using the personal data that the Developer provided to us if the Developer actively expresses interest in making a purchase of Fiserv products or services or have made a purchase from us and, in any case, have not opted out of receiving that marketing, to the extent permitted by applicable law.
+We may contact Developers and Developer's personnel with marketing communications using the personal data that the Developer provided to us if the Developer actively expresses interest in making a purchase of Fiserv products or services or have made a purchase from us and, in any case, have not opted out of receiving that marketing, to the extent permitted by applicable law.
 
 Where required by law, we will get your express opt-in consent before we share your personal data with any company outside the Fiserv group for marketing purposes.
 
@@ -139,11 +139,11 @@ In this section, we describe the rights and choices available to all users.
 
 _A. Marketing communications_
 
-You can ask us to stop sending you marketing messages at any time by contacting us or clicking on the opt-out link included in each marketing message. You may continue to receive service-related and other non-marketing messages. You may unsubscribe from a specific Developers’ communications sent to you via Fiserv’s technology by clicking “Unfollow” (or a similarly-titled opt-out link).
+You can ask us to stop sending you marketing messages at any time by contacting us or clicking on the opt-out link included in each marketing message. You may continue to receive service-related and other non-marketing messages. You may unsubscribe from a specific Developers' communications sent to you via Fiserv's technology by clicking “Unfollow” (or a similarly-titled opt-out link).
 
 _B. Targeted online advertising_
 
-Some of the business partners that collect information about users’ activities on our websites or in our mobile applications may be members of organizations or programs that provide choices to individuals regarding the use of their browsing behavior or mobile application usage for purposes of targeted advertising. Users may opt out of receiving targeted advertising on websites through participating members of the following organizations or programs:
+Some of the business partners that collect information about users' activities on our websites or in our mobile applications may be members of organizations or programs that provide choices to individuals regarding the use of their browsing behavior or mobile application usage for purposes of targeted advertising. Users may opt out of receiving targeted advertising on websites through participating members of the following organizations or programs:
 
 * [Network Advertising Initiative (USA)](https://optout.networkadvertising.org/?c=1)
 * [Digital Advertising Alliance (USA)](https://optout.aboutads.info/?c=2\&lang=EN)
@@ -152,7 +152,7 @@ Some of the business partners that collect information about users’ activities
 * [Australian Digital Advertising Alliance (Australia)](https://youronlinechoices.com.au/)
 * [Data Driven Advertising Initiative (Japan)](https://www.fiserv.com/en/about-fiserv/privacy-notice.html)
 
-Users of mobile applications may opt out of receiving targeted advertising in mobile applications through participating members of the Digital Advertising Alliance by installing the AppChoices mobile application, available here, and selecting the user’s choices. In addition, your mobile device settings may provide functionality to limit our, or our partners’, ability to engage in ad tracking or targeted advertising using the Google Advertising ID or Apple ID for Advertising associated with your mobile device.
+Users of mobile applications may opt out of receiving targeted advertising in mobile applications through participating members of the Digital Advertising Alliance by installing the AppChoices mobile application, available here, and selecting the user's choices. In addition, your mobile device settings may provide functionality to limit our, or our partners', ability to engage in ad tracking or targeted advertising using the Google Advertising ID or Apple ID for Advertising associated with your mobile device.
 
 Please note that we also may work with companies that offer their own opt-out mechanisms and may not participate in the opt-out mechanisms that we linked above.
 
@@ -186,7 +186,7 @@ We have put in place procedures to deal with any suspected personal data breach 
 
 ### Links to other websites
 
-We may link to third-party websites, mobile applications, and other content. Fiserv is not responsible for the privacy practices of any third party, and this privacy notice does not apply to such third party’s websites, mobile applications, or other content. Fiserv does not guarantee, approve, or endorse any information, material, services, or products contained on or available through any linked third-party website, mobile application, or other content. Fiserv is not responsible for any content on third-party properties to which we link. Fiserv provides links to third-party properties or content as a convenience, and visiting or using linked third-party properties or content is at your own risk.
+We may link to third-party websites, mobile applications, and other content. Fiserv is not responsible for the privacy practices of any third party, and this privacy notice does not apply to such third party's websites, mobile applications, or other content. Fiserv does not guarantee, approve, or endorse any information, material, services, or products contained on or available through any linked third-party website, mobile application, or other content. Fiserv is not responsible for any content on third-party properties to which we link. Fiserv provides links to third-party properties or content as a convenience, and visiting or using linked third-party properties or content is at your own risk.
 
 ### Changes to this Privacy Notice
 

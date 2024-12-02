@@ -13,7 +13,7 @@ Although, the docs will always get updated on Dev Studio UI due to GitHub webhoo
 In case of issues, it will be either taken care later on during our production release or as part of an emergency CHG , as needed.
  
  
-Let’s take a look into our upcoming release dates:
+Let's take a look into our upcoming release dates:
 Production :- Kindly keep your main GitHub branches synced, before our release window starts so that our release process runs smoothly. In case you miss this window, your updates would be taken care as part of the next production release cycle.
 Stage : 
 Production : 

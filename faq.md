@@ -4,13 +4,13 @@
   * You provide the doc & apis & the Studio provides everything else.  You use regular markdown or our flavor of markdown to draft your documents. https://developer.fiserv.com/support/docs/?path=docs/md/basic-syntax.md
 
 * Who is eligible to post their APIs on the Developer Studio?
-  * Anyone.  It’s for the whole company.
+  * Anyone.  It's for the whole company.
 
 * What is the Developer Studio on-boarding process?
   * You can read about that here: [github.com/fiserv/tenants-doc](https://fiserv.gitbook.io/tenant-docs/)
 
 * Do you have insight to the corporate vision for whether https://docs.firstdata.com/ and https://developer.fiserv.com will live on in parallel or eventually converge?
-  * Will converge in the end.  For now, as we transition your content you’ll have both until you get enough feature parity and then you’ll shutdown the old portal.
+  * Will converge in the end.  For now, as we transition your content you'll have both until you get enough feature parity and then you'll shutdown the old portal.
 
 * How can Tenants decide which solution/category they should choose? Does Devportal allow a Prodcut to reside on multiple solution areas?
 
@@ -78,11 +78,11 @@
   * https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files
  
 
-* How do we link a GitHub repo/file so it’s downloadable in Dev Studio
+* How do we link a GitHub repo/file so it's downloadable in Dev Studio
   * At the moment you can download the API specifications as a zip file and also as a postman collection from Dev Studio UI.
 
 * What are the various product access associated in Developer Studio?
-  * Product to be an ‘Internal Product’ on Developer studio ( access provided to Fiserv organization members only). ELse GitHub repo to be private.
+  * Product to be an ‘Internal Product' on Developer studio ( access provided to Fiserv organization members only). ELse GitHub repo to be private.
   * Product to be public and only few selected users to be given limited access to the markdown files. (Gated content- https://fiserv.gitbook.io/tenant-docs/how-to-use-gated-content.
 
 

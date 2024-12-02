@@ -14,7 +14,7 @@ Here are some of the details which we would need to add your product to Develope
     
 **Product Tags:**  This would help anyone to search your product on Developer Studio
 
-* _Region:_     Your product’s region of operation: APAC/ EMAEA/ LATAM /NA
+* _Region:_     Your product's region of operation: APAC/ EMAEA/ LATAM /NA
 
 * _Channel Type:_   Card Present / Card Not Present / OMNI
 

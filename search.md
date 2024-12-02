@@ -1,5 +1,5 @@
 # Search
-Developer Studio will do a full text search on tenant’s data by using Elastic Search in the back end. Dev Studio users can query and filter the data in many forms, such as Customer Segments, Integration Types, etc...
+Developer Studio will do a full text search on tenant's data by using Elastic Search in the back end. Dev Studio users can query and filter the data in many forms, such as Customer Segments, Integration Types, etc...
 
 
 # Indexing

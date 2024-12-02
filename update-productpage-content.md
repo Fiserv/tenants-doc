@@ -4,7 +4,7 @@ As part of our revamp and redesigning we have been upgrading all the primary pag
 
 Tenants should add/update the listed contents to the Product-Layout yaml file. Detailed description for the requirement and the sections where contents can be added is mentioned below.
 
-Tenants must provide ALL content for the new product page redesign,unless stated otherwise in this document. If no content or information is provided, “Lorem Ipsum” will be used and displayed on tenant’s final product page for sections that require content. Below are the sections where tenants need to provide the information.
+Tenants must provide ALL content for the new product page redesign,unless stated otherwise in this document. If no content or information is provided, “Lorem Ipsum” will be used and displayed on tenant's final product page for sections that require content. Below are the sections where tenants need to provide the information.
 
 ![product page](images/productpage.png)
 
@@ -12,7 +12,7 @@ Tenants must provide ALL content for the new product page redesign,unless stated
 
 ![introduction](images/introduction.png)
 
-For introduction, below Tenant’s name will be a description. Tenant may use their current description or provide a new one.
+For introduction, below Tenant's name will be a description. Tenant may use their current description or provide a new one.
 
 MAX character count for description will be 510 characters, nothing more. Tenants are to provide a Get started document, which will be accessible through left navigation and “Get started” button below description.\
 
@@ -52,7 +52,7 @@ Tenants can upload the approved icons from the asset folder, by providing the re
 
 ![featured offerings](images/featureoffering.png)
 
-"Featured offerings" is a section to choose 3 offerings from your product offerings to spotlight (think of it as "featured product offerings") This section is where Tenant may highlight/spotlight three of their product’s offerings/services and is defined by the Tenant on what they have to offer to users.
+"Featured offerings" is a section to choose 3 offerings from your product offerings to spotlight (think of it as "featured product offerings") This section is where Tenant may highlight/spotlight three of their product's offerings/services and is defined by the Tenant on what they have to offer to users.
 
 * Tenant MUST provide 3 MIN/MAX offerings
 * Title for each card will be MAX ONE LINE (30 characters)
@@ -65,7 +65,7 @@ Tenants can upload the approved icons from the asset folder, by providing the re
 
 ![product offerings](images/productofferings.png)
 
-Product offerings” section will be where Tenant displays a selection of their product’s offerings. "Product offerings" is what you have to offer with your products (features, services, etc). Tenant MAY NOT repeat any offerings that they have chosen for the “Featured offerings” section. This section is defined by the Tenant on what they have to offer to users.
+Product offerings” section will be where Tenant displays a selection of their product's offerings. "Product offerings" is what you have to offer with your products (features, services, etc). Tenant MAY NOT repeat any offerings that they have chosen for the “Featured offerings” section. This section is defined by the Tenant on what they have to offer to users.
 
 * Tenant must provide a group name for their offerings.
 * Group names are Tenant defined, they may choose an existing group name or create a new one that fits their grouped offerings.
@@ -88,7 +88,7 @@ Guides section will be where Tenant may display their guides.
 * Tenant can provide up to a MAX of THREE guides
 * Each guide title will be MAX ONE LINE (25 characters)
 * Description for each will have a MAX character count of 73 characters, nothing more.
-* Each guide will have a link that will lead users to the guide’s documentation.\
+* Each guide will have a link that will lead users to the guide's documentation.\
   If applicable, Tenant may create guides if they currently do not have any.
 
 _**If Tenant does not provide any guides, then this section will not be displayed.**_
@@ -107,7 +107,7 @@ The Product API catalog section displays all available APIs within the Tenant.
 * Description will have a MAX character count of 140 characters, nothing more.
 * Tenants may choose applicable tags for use case, out of their existing tags.
 * Each use case will have a link that will lead users to the documentation of the use case.
-* They may also use this opportunity to create Use Cases for APIs if they don’t have
+* They may also use this opportunity to create Use Cases for APIs if they don't have
 
 **Other than Use Cases, Tenant DOES NOT have to provide any information or content for this section.**
 
