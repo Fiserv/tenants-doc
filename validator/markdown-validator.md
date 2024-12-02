@@ -12,23 +12,23 @@ In order to protect Dev Studio and maintain standards amoung all Dev Studio tena
 
 ## Markdown Validator Job
 
-![Git Action](../images/markdown-validator.png)
+![Git Action](.assets/images/markdown-validator.png)
 
 
 ## API Validator Successful Activity
 
 Checking every single API. Once validated logs will display name of the spec file and status. 
-![Git Action](../images/markdown-validator-pass.png)
+![Git Action](.assets/images/markdown-validator-pass.png)
 
 
 ## API Validator failed Job
 
-![Git Action](../images/failed-api-validator-action.png)
+![Git Action](.assets/images/failed-api-validator-action.png)
 
 
 ## API Validator failed Activity
 
 Checking every single API. Once validated logs will display name of the spec file and status. 
-![Git Action](../images/failed-api-validator-activity.png)
+![Git Action](.assets/images/failed-api-validator-activity.png)
 
 Help: Please connect with DevStudio team for more information and questions related with Validators. 

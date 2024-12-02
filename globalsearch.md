@@ -15,7 +15,7 @@ To start a search, in the top-left corner of the screen, in the search bar, type
 
 For eg: On Fiserv repo's homepage, type your search term into the search box on the top left. 
 
-![global search](./images/globalsearch.png)
+![global search](assets/images/globalsearch.png)
 
 
 When you're on a repository page, you'll see an indication "in this repository" that you're searching that repository. 

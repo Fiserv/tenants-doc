@@ -6,12 +6,12 @@ Primary output of every validator is generated in individual Action Job output l
 
 ### `Sucessful` Job Output: 
 
-![Git Action Job Output](../images/api-validator-pass.png)
+![Git Action Job Output](.assets/images/api-validator-pass.png)
 
 
 ### `Failed` Job Output:
 
-![Git Action Job Output](../images/action_error_logs.png)
+![Git Action Job Output](.assets/images/action_error_logs.png)
 
 
 ## Resolve errors from the logs

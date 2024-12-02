@@ -11,7 +11,7 @@
 dev, qa, stage evironment **require** authentication credentials. Your tenant advocate will provide them.
 In general **authentication credentials are not to be shared** with external clients. Please consult with your tenant advocate.
 
-<img src="./images/signin-auth.png" alt="signin auth" style="max-width: 50%;" width="400">
+<img src="assets/images/signin-auth.png" alt="signin auth" style="max-width: 50%;" width="400">
 
 ### Git branches
 
@@ -27,7 +27,7 @@ The following two branches are for product versioning
   - previous
 
 
-![git branches](./images/gitHubBranches.png "git branches")
+![git branches](assets/images/gitHubBranches.png "git branches")
 
 
 ### Developer Studio Release Schedule 

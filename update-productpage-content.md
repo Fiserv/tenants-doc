@@ -6,11 +6,11 @@ Tenants should add/update the listed contents to the Product-Layout yaml file. D
 
 Tenants must provide ALL content for the new product page redesign,unless stated otherwise in this document. If no content or information is provided, “Lorem Ipsum” will be used and displayed on tenant's final product page for sections that require content. Below are the sections where tenants need to provide the information.
 
-![product page](images/productpage.png)
+![product page](assets/images/productpage.png)
 
 ### Introduction
 
-![introduction](images/introduction.png)
+![introduction](assets/images/introduction.png)
 
 For introduction, below Tenant's name will be a description. Tenant may use their current description or provide a new one.
 
@@ -50,7 +50,7 @@ Tenants can upload the approved icons from the asset folder, by providing the re
 
 ### Featured offerings
 
-![featured offerings](images/featureoffering.png)
+![featured offerings](assets/images/featureoffering.png)
 
 "Featured offerings" is a section to choose 3 offerings from your product offerings to spotlight (think of it as "featured product offerings") This section is where Tenant may highlight/spotlight three of their product's offerings/services and is defined by the Tenant on what they have to offer to users.
 
@@ -59,11 +59,11 @@ Tenants can upload the approved icons from the asset folder, by providing the re
 * Description for each will have a MAX character count of 280 characters, nothing more.
 * Each offering will have two links that will lead to the documentation and API explorer of said offering. Tenants must ensure they have both in order to display offering.
 
-![featuredoffering](images/featuredoffering.png)
+![featuredoffering](assets/images/featuredoffering.png)
 
 ### Product offerings
 
-![product offerings](images/productofferings.png)
+![product offerings](assets/images/productofferings.png)
 
 Product offerings” section will be where Tenant displays a selection of their product's offerings. "Product offerings" is what you have to offer with your products (features, services, etc). Tenant MAY NOT repeat any offerings that they have chosen for the “Featured offerings” section. This section is defined by the Tenant on what they have to offer to users.
 
@@ -77,11 +77,11 @@ Product offerings” section will be where Tenant displays a selection of their 
 * Tenant may provide up to a MAX of THREE groups (each group consisting of 3 MIN/MAX offerings).
 * MAX that can be displayed will be 3x3 total offerings (total of 9 offerings).
 
-![githubproductoffering](images/githubproductoffering.png)
+![githubproductoffering](assets/images/githubproductoffering.png)
 
 ### Guides
 
-![guides](images/guides.png)
+![guides](assets/images/guides.png)
 
 Guides section will be where Tenant may display their guides.
 
@@ -93,11 +93,11 @@ Guides section will be where Tenant may display their guides.
 
 _**If Tenant does not provide any guides, then this section will not be displayed.**_
 
-![guidesgithub](images/guidesgithub.png)
+![guidesgithub](assets/images/guidesgithub.png)
 
 ### Product API catalog
 
-![productapicatalog](images/productapicatlog.png)
+![productapicatalog](assets/images/productapicatlog.png)
 
 The Product API catalog section displays all available APIs within the Tenant.
 
@@ -111,4 +111,4 @@ The Product API catalog section displays all available APIs within the Tenant.
 
 **Other than Use Cases, Tenant DOES NOT have to provide any information or content for this section.**
 
-![github-usecase](images/gtihub-usecase.png)
+![github-usecase](assets/images/gtihub-usecase.png)
