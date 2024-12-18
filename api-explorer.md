@@ -87,7 +87,7 @@ Sample of
              
 
 
-Last three fields are used to group API end-points into meaningfull features, where
+Last three fields are used to group API end-points into meaningful categories, where
 
               x-proxy-name: API end-point name
               x-group-name: API end-point group

@@ -1,18 +1,19 @@
 # Get Support
 
-Developer Studio has [Support pages](https://developer.fiserv.com/support)
+The Developer Studio team has Teams channels for tenants to ask questions and provide feedback. They are *General* and *Feedback & Help!*
+<img src="./images/DevStudioTeamsChannels.png" alt="Teams Channels" style="max-width: 50%;">
 
-Every page has **Help** button in the right bottom corner. 
+These channels are monitored regularly. Please use these channels to communicate with the Developer Studio team.
 
-<img src="./images/help.png" alt="Help Button" style="max-width: 50%;" width="400">
+In addition, every Developer Studio page has a **Get Assistance** button in the right bottom corner. 
 
+<img src="./images/GetAssistance.png" alt="Get Assistance Button" style="max-width: 50%;" width="400">
 
-When expanded **Help Center** contains links to our [Git Support](https://github.com/Fiserv/Support).
+It can be used to visit the **Support** page, to create a **Support Issue**, or to **contact sales**
 
-<img src="./images/help-center.png" alt="Help Center" style="max-width: 50%;" width="400">
+Finally, Developer Studio has a GitHub [Support pages](https://developer.fiserv.com/support)
 
-
-To create an issue you need a github account.
+To create an issue from the GutHub **Support pages**, you need a github account.
 
   * Go to Support and click on **New Issue**
   
