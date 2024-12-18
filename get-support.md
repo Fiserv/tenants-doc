@@ -1,6 +1,7 @@
 # Get Support
 
 The Developer Studio team has Teams channels for tenants to ask questions and provide feedback. They are *General* and *Feedback & Help!*
+
 <img src="./images/DevStudioTeamsChannels.png" alt="Teams Channels" style="max-width: 50%;">
 
 These channels are monitored regularly. Please use these channels to communicate with the Developer Studio team.
