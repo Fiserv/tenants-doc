@@ -7,11 +7,17 @@ The following location must be used for tenant release notes: **repo-name/docs/r
 
 We strongly encourage the use of below template to document content changes.
   
-# Release Notes (title of the document is always the same)
+## Release Notes (title of the document is always the same)
 
-### March 30 2022 (publication date)
+### May 21 2022 (latest deployment/update date)
 
-v1.0.0 (the version of openAPI Document that defines an API containing the change)
+#### Fixed
+- Notes for something fixed since last release, possibly from known issues list (which should be strikethrough for reference)
+
+#### Enhancements
+- New enhancement
+
+### March 30 2022
 
 #### What's New
 - Something new that was added or introduced like a documents or a services.
@@ -20,7 +26,7 @@ v1.0.0 (the version of openAPI Document that defines an API containing the chang
 - Description of an improvement or a change.
 
 #### Fixed
-- github issue that was fixed. [Possible github issue link ](https://github.com/Fiserv/Support/issues)
+- Github issue that was fixed. [Possible github issue link ](https://github.com/Fiserv/Support/issues)
 
 #### Known Issues
 - A persistent issue that's known and not fixed.
@@ -28,3 +34,5 @@ v1.0.0 (the version of openAPI Document that defines an API containing the chang
 #### Deprecated
 - An endpoint or a payload field regarded as obsolete and best avoided.
 
+### Feburary 01 2022 (publication date)
+  ...

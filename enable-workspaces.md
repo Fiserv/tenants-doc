@@ -10,65 +10,63 @@ Although each workspace may have different requirements and tools, all workspace
 
 ### Create Account on Developer Studio
 
-Please refer our [Create Account Guide](enable-workspaces.md#create-account-on-developer-studio) on this.
+Please refer our [Create Account Guide](create-account.md) on this.
 
 ### Create Workspace
 
-1. **Create account** or **Log-in**&#x20;
+1. **Create account** or **Log-in**;
 
-<figure><img src="images/workspace_how_to_create_1 (1).png" alt=""><figcaption><p>Login</p></figcaption></figure>
+![Signin](assets/images/workspaces/login.png "Create account / Login")
 
 2. Select **Workspaces** from global header (next to account avatar)
 
-<figure><img src="images/workspace_how_to_1.png" alt=""><figcaption><p>Header</p></figcaption></figure>
+![Workspace button](assets/images/workspaces/workspace_link.png "Workspace link")
 
-3. Create a new workspace&#x20;
+3. Create a new workspace;
 
-&#x20;      a. Enter Name
-
-&#x20;      b. Enter Description
-
-&#x20;      c. Select Product Area from dropdown (preselected at this time)
-
-&#x20;      d. Select Product Integration from dropdown.&#x20;
+    a. Enter Name
+    b. Enter Description
+    c. Select Product Area from dropdown (preselected at this time)
+    d. Select Product Integration from dropdown.
 
 _<mark style="color:red;">Please note: If you do not find your product in the dropdown, please shoot us a message using our</mark>_ [Support](https://github.com/fiserv/support/issues).
 
-&#x20;     e. Hit the **Create Workspace** button
+    e. Hit the **Create Workspace** button
 
-<figure><img src="images/workspace_how_to_create_3.png" alt=""><figcaption><p>Create</p></figcaption></figure>
+![Create workspace button](assets/images/workspaces/creation_flow.png "Create workspace")
+
 
 ### Manage Workspace
 
 1. **Create account** or **Log in**
 
-<figure><img src="images/workspace_how_to_create_1.png" alt=""><figcaption><p>Login</p></figcaption></figure>
+![Signin](assets/images/workspaces/login.png "Create account / Login")
 
 2. Select **Workspaces** from global header (next to account avatar)
 
-<figure><img src="images/workspace_how_to_1 (1).png" alt=""><figcaption></figcaption></figure>
+![Workspace button](assets/images/workspaces/workspace_link.png "Workspace link")
 
 3. Select specific workspace from the left navigation or workspace cards
 
-<figure><img src="images/workspace_how_to_manage_3 (1).png" alt=""><figcaption><p>Left Nav</p></figcaption></figure>
+![Workspace selection](assets/images/workspaces/dashboard.png "Workspace selection")
 
 4. View workspace Summary
 
-<figure><img src="images/workspace_how_to_manage_4.png" alt=""><figcaption><p>Summary</p></figcaption></figure>
+![Summary](assets/images/workspaces/summary-tag.png "Summary")
 
 5. Manage Credentials
 
 &#x20;   a. Click **Credentials** on the tab to go to the Credentials page
 
-<figure><img src="images/workspace_how_to_manage_13 (1).png" alt=""><figcaption><p>Credentials</p></figcaption></figure>
+![Credentials](assets/images/workspaces/credentials-tab.png "Credentials")
 
 &#x20;   b. View MID (Merchant Identifier) details by selecting the **View** button in MID table
 
-<figure><img src="images/workspace_how_to_manage_6.png" alt=""><figcaption><p>MID</p></figcaption></figure>
+![MID](assets/images/workspaces/manage_mids.png "MID")
 
 &#x20;  c. Add/Create API Key by selecting the **Create API key** button
 
-<figure><img src="images/workspace_how_to_manage_7.png" alt=""><figcaption><p>API key</p></figcaption></figure>
+![Create API key](assets/images/workspaces/create_api.png "Create API key")
 
      i. Select MID from dropdown. This will be the MID associated with the API key you are creating. _This step might differ for different tenants._
 
@@ -100,21 +98,25 @@ d. Add/Create CSR (Certificate Signing Requests) by selecting the **Create CSR**
 
 &#x20;            ix. Hit **Create** button
 
-<figure><img src="images/workspace_how_to_manage_10.png" alt=""><figcaption><p>Add CSR</p></figcaption></figure>
+![Create CSR](assets/images/workspaces/create_csr.png "Create CSR")
+
+![Add CSR](assets/images/workspaces/create_csr_flow.png "Add CSR")
 
 e. View CSR Details by selecting the **View** button in the CSR table (only available after creating/adding a CSR)
 
-<figure><img src="images/workspace_how_to_manage_11.png" alt=""><figcaption><p>CSR Detail</p></figcaption></figure>
+![CSR details](assets/images/workspaces/csr.png "CSR details")
 
 f. Download CSR and upload to Apple to complete the CSR process for your application
 
-<figure><img src="images/workspace_how_to_manage_12.png" alt=""><figcaption><p>Download CSR</p></figcaption></figure>
+![Download CSR](assets/images/workspaces/download_csr.png "Download CSR")
 
 6. Update Settings
 
 a. Click **Settings** on the tab to go to the Settings page
 
-<figure><img src="images/workspace_how_to_manage_13.png" alt=""><figcaption><p>Click Settings</p></figcaption></figure>
+![Settings](assets/images/workspaces/settings-tab.png "Settings")
+
+![Settings page](assets/images/workspaces/settings.png "Settings page")
 
 b. Hit **Edit** button
 
@@ -122,13 +124,12 @@ b. Hit **Edit** button
 
    ii. Change Workspace Description
 
-<figure><img src="images/workspace_how_to_manage_14.png" alt=""><figcaption><p>Edit Settings</p></figcaption></figure>
+![Settings](assets/images/workspaces/settings_edit.png "Settings")
 
 c. Delete Workspace by hitting the **Delete** button
 
-<figure><img src="images/workspace_how_to_manage_15 (1).png" alt=""><figcaption><p>Delete WS</p></figcaption></figure>
+![Delete workspace](assets/images/workspaces/deletion.png "Delete workspace")
 
 7. Gated Content
 
 You can also use workspaces for 'Gated Content'. "Gated Content" is a mechanism developed to control file visibility and permissions on Developer Studio. Read more about this here: [Gated Content](how-to-use-gated-content.md)
-
