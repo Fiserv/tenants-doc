@@ -36,7 +36,7 @@ This Client 360 inquiry will be responded by our on-call support team, either vi
     ![Product](assets/images/product.png "Product")
 
   * Description: More information about your business and the solution needed to quickly get a response for the API and services support you need.
-    ![Description](assets/images/description-2.png "Description")
+    ![Description](assets/images/description-1.png "Description")
 
 ## Github support
 To create an issue you need a github account and access to our [Github Support page](https://github.com/Fiserv/Support/issues)
@@ -82,4 +82,9 @@ Priority defines the order in which we should resolve a defect. 
 
 **Minor:** The defect affects minor functionality or non-critical data. It has an easy workaround. Example: A minor feature that is not functional in one module but the same task is easily doable from another module. 
 
-**Trivial:** The defect does not affect functionality or data. It does not even need a workaround. It does not impact productivity or efficiency. It is merely an inconvenience. Example: Petty layout discrepancies, spelling/grammatical errors. 
+**Trivial:** The defect does not affect functionality or data. It does not even need a workaround. It does not impact productivity or efficiency. It is merely an inconvenience. Example: Petty layout discrepancies, spelling/grammatical errors.
+
+## Feedback
+If you have any other feedback, concerns, or compliments, please feel free to use the `Feedback` button on DevStudio or reach out to us on Teams directly! We love to receive all your inputs for our engineers to continue improving the platform for everyone.
+
+![Feedback](assets/images/feedback.png)

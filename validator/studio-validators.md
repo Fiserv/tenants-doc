@@ -26,25 +26,25 @@ GitHub Actions are individual tasks that you can combine to create jobs and cust
 
 2. Click on Actions from Top Menu option
 
-![Git Action](.assets/images/action-path.png)
+![Git Action](/assets/images/action-path.png)
 
 3. List of Actions workflow
 
-![Git Action Overview](.assets/images/overview-actions.png)
+![Git Action Overview](/assets/images/overview-actions.png)
 
 4. Select latest workflow run
  
 In order to see activity about the latest workflow job.
 
-![Git Action workflow](.assets/images/workflow-job.png)
+![Git Action workflow](/assets/images/workflow-job.png)
 
 5. List of triggered Job
 
-![Git Action Jobs](.assets/images/action-jobs.png)
+![Git Action Jobs](/assets/images/action-jobs.png)
 
 6. Activity from the Job
 
-![Git Action Job Activity](.assets/images/action-job-activity.png)
+![Git Action Job Activity](/assets/images/action-job-activity.png)
 
 
 # Tenant's responsitbility when Validators throw errors
@@ -59,12 +59,12 @@ Primary output of every validator is generated in individual Action Job output l
 
 ### `Sucessful` Job Output: 
 
-![Git Action Job Output](.assets/images/api-validator-pass.png)
+![Git Action Job Output](/assets/images/api-validator-pass.png)
 
 
 ### `Failed` Job Output:
 
-![Git Action Job Output](.assets/images/action_error_logs.png)
+![Git Action Job Output](/assets/images/action_error_logs.png)
 
 
 ## Resolve errors from the logs

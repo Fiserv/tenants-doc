@@ -22,6 +22,8 @@ Files under **config** directory define tenant/product setup, documentation tree
 
 **config/document-explorer-definition.yaml** defines documetation tree on left navigation panel
 
+![document-explorer-definition.yaml](assets/images/documentExplorer.png "document-explorer-definition.yaml")
+
 ![doc tree](assets/images/docs-tree.png "doc tree")
 
 
