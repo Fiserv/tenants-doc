@@ -14,6 +14,8 @@ Tenants must provide ALL content for the new product page redesign, unless state
 
 For introduction, below Tenant's name will be a description. Tenant may use their current description or provide a new one.
 
+![description](assets/images/product-description.png)
+
 MAX character count for description will be 510 characters, nothing more. Tenants are to provide a Get started document, which will be accessible through left navigation and “Get started” button below description.
 
 ![Get started](assets/images/get-started-link.png)

@@ -14,10 +14,11 @@
   * [Release notes template](release-notes-template.md)
 * [Validators](validator/studio-validators.md)
   * [API specification file validator](validator/api-validator.md)
+  * [Markdown linter](validator/markdown-linter.md)
   * [Markdown validator](validator/markdown-validator.md)
-  * [studio validators](validator/studio-validators.md)
-  * [tenant-config-validator](validator/tenant-config-validator.md)
-  * [validator-output](validator/validator-output.md)
+  * [Config validator](validator/tenant-config-validator.md)
+  * [Release notes validator](validator/release-notes-validator.md)
+  * [File access validator](validator/file-access-validator.md)
 
 ## Additional Configurations
 * [Enable sandbox](enable-sandbox.md)

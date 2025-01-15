@@ -6,29 +6,29 @@ In order to protect Dev Studio and maintain standards amoung all Dev Studio tena
 
 - Valid markdown file extension and formatting
 - Links to downloadable files and embedded images should link to respective files in the Github repository
-  - Images should be embedded such as `![image name](/assets/images/image.png)`
+  - Images should be embedded such as `![image name](/assets/images/validators/image.png)`
   - Downloadable docs should be formatted as `[downloadable file](download/assets/files/download.zip)`
+- Files/images being linked to should exist in repository
 
 
 ## Markdown Validator Job
 
-![Git Action](.assets/images/markdown-validator.png)
+![Git Action](/assets/images/validators/markdown-validator.png)
 
 
-## API Validator Successful Activity
+## Markdown Validator Successful Activity
 
-Checking every single API. Once validated logs will display name of the spec file and status. 
-![Git Action](.assets/images/markdown-validator-pass.png)
-
-
-## API Validator failed Job
-
-![Git Action](.assets/images/failed-api-validator-action.png)
+Checking every markdown file. Once validated logs will display name of the markdown file and status. 
+![Git Action](/assets/images/validators/markdown-validator-pass.png)
 
 
-## API Validator failed Activity
+## Markdown Validator failed Job
 
-Checking every single API. Once validated logs will display name of the spec file and status. 
-![Git Action](.assets/images/failed-api-validator-activity.png)
+![Git Action](/assets/images/validators/failed-markdown-validator-action.png)
 
-Help: Please connect with DevStudio team for more information and questions related with Validators. 
+
+## Markdown Validator failed Activity
+This will list the failures along with the failed filename.
+![Git Action](/assets/images/validators/failed-markdown-validator-activity.png)
+
+**Help:** Please connect with DevStudio team for more information and questions related with Validators via our Teams channel.
