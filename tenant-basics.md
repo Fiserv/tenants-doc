@@ -2,31 +2,38 @@
 
 Here are some of the details which we would need to add your product to Developer Studio.
 
-**Name of your Product:**   ”Product Name to be Displayed"
+## Generic Information
+**Name of your product:** Product Name to be Displayed
 
-**Description:**     (max 800 chars)
+**Short Description:** A short description to be displayed in top-level DevStudio menu (max **112** chars)
 
-**Who Is It For:**    Product tags Industry
+**Type of Tenant:** Full service, Doc only, or Link out. For more information, see [here](README.md#below-are-the-steps-you-need-to-follow).
 
-**Solution Name:**  Where do you want to stay in Merchants solution or Financial Institutions category ( based on the services your product serves)
+## Contact information
+**Team members:** List of Github ID for team members you would like to have Write access to your repository upon creation. You may request for more to be added later.
 
-**External Link:** external link to your site for *Linked out tenants*.
-    
-**Product Tags:**  This would help anyone to search your product on Developer Studio
+**Bug, feedback, and enhancement reporting:**  Github ID of team members who should be point of contact for these types of inquiries/requests.
 
-* _Region:_     Your product’s region of operation: APAC/ EMAEA/ LATAM /NA
+**External link:** External link to your site for *Linked out tenants* only.
 
-* _Channel Type:_   Card Present / Card Not Present / OMNI
+**Sales Contact** _(optional)_**:** For if you have an email or Client360 assignment group to handle sales inquiry of customers who visit DevStudio and need help with integrating/purchasing.
 
-* _Integration Type:_  Restful/ SOAP/ SDK/ XML
+## Categorization
+**Internal tenant:** Indicate whether you want your product to only be viewable by signed in **Fiserv** users on DevStudio (requires account creation with valid email domain).
 
-* _Customer Segment:_    
+**Product of Carat:**  Indicate whether you're a product under Carat (most are not)
 
-        * Merchants: Small Medium Business (SMB) / Enterprise. 
-        * Financial Institutions: Bank / Credit Union / Large FI.
- 
-* _Industry:_     Which industry(s) does it belongs to? Is it Retail, Banking, Hospitality, Money Transfer, Insurance, Telecommunications, etc
+## Product tags for searching and filtering
+**Solution Area:** Customers your product generally serves (`Payments`, `Banking`, or both). Select at least one.
+* **Customer Segment:** Sub-category of the selected Solution Area.
+* **Capabilities:** List of suggested capabilities handled by the selected Solution Area.
 
-* _Feature:_     What kind of features does your product provide? Is it Electronic Payments, Gift Cards, Electronic Funds Transfer (EFT), Authorization, Refunds, Settlements, etc
+**Region of operation:** Your product's region of operation (`North America`, `Europe, the Middle East and Africa`, `Latin America`, and/or `Asia Pacific`)
 
- And as always you can check us out here at https://developer.fiserv.com/ 
+## Feature
+Information for `Full service` tenants who would like to utilize our [API Explorer](api-explorer.md) feature.
+
+**Mock Sandbox:** What kind of API sandbox you need for your API spec rendering examples.
+* Developer Studio Prism Server: We will use our own hosted Prism mock server to render mock responses using your provided Openapi spec yamls.
+* Tenant Provided Sandbox Environment: You have a mock sandbox endpoint and will provide us with the URL and auth information to allow users to send requests there, originating from our API explorer.
+* N/A: For `doc only` or `link out` tenants

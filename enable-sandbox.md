@@ -4,7 +4,7 @@ We offer two ways to test services defined by OpenAPI specification in Developer
 
 ## Tenant Sandbox
 
-Developer Studio can connect to a live tenant Sandbox. The connection requirements depend on authentication scheme used by the tenant. As an exapmle for [HMAC](https://en.wikipedia.org/wiki/HMAC) authentication scheme, Developer Studio would need:
+Developer Studio can connect to a live tenant Sandbox. The connection requirements depend on authentication scheme used by the tenant. As an example for [HMAC](https://en.wikipedia.org/wiki/HMAC) authentication scheme, Developer Studio would need:
 
 ```
 serverUrl:"https://base-url-to-be-pre-pended-to-an-endpoint"
@@ -16,6 +16,18 @@ selfSignedCert:false
 
 If you want users to create their own API credentials instead of using the same API key and secret, users can now also generate their own API credentials on Dev Studio using 'Workspaces'. Please refer our documentation on [Enabling Workspaces](enable-workspaces.md).
 
+In addition, many tenants prefer using the [BASIC](https://swagger.io/docs/specification/v3_0/authentication/basic-authentication/) authentication scheme, Developer Studio would need:
+
+```
+serverUrl:"https://base-url-to-be-pre-pended-to-an-endpoint"
+authenticationScheme:"BASIC"
+username:"username"
+password:"password"
+selfSignedCert:false
+```
+
+We will do the base64 encoding on our end. When a runbox request is sent from Developer Studio to the provided endpoint URL, the header will include `Authorization: Basic ENCodedUSERname:password==`
+
 ## Stoplight Prism Mock Server
 
 There are couple of steps to follow for the prism mock server to work.
@@ -24,7 +36,7 @@ There are couple of steps to follow for the prism mock server to work.
 
 Below is a sample of how to add examples in your spec file and how examples gets mapped on Developer Studio UI.
 
-![api example](images/api-example.png)
+![api example](assets/images/api-example.png "api example")
 
 2. To install and run Stoplight Prism locally refere to the following command
 
@@ -36,16 +48,42 @@ Below is a sample of how to add examples in your spec file and how examples gets
 
 4. Once prism has started, all the endpoints will be listed from the yaml file provided. Postman could be used to send a request and receive a response. To specify a prefered example for a particular endpoint use **Prefer** header with value `example=EndPointSample`
 
-![start prism locally](images/prism-postman-run.png)
+![start prism locally](assets/images/prism-postman-run.png)
 
 4. Finally once you are done updating the spec files please let us know we would need to setup up an actual mock server.
-5.  To enable the Run Button, product sandbox & feature sandbox has to be set in **config/tenant.json** file:
+5. To enable the Run Button, `product.sandbox` and `product.feature - sandbox` has to be set in **config/tenant.json** file:
 
     ```
           "sandbox": "/v1/sandboxrun/<tenant name>",
           "feature":[
-           {
-             "name": "sandBox",
-             "value": true
-           },
+            {
+              "name": "sandBox",
+              "value": true
+            },
+            ...
+          ]
     ```
+6. To dictate whether you want to allow the user to change the parameters to be sent in the request,  `editParameterAPIExplorer` has to be set in **config/tenant.json - product.feature**:
+
+    ```
+          "feature":[
+            {
+              "name": "editParameterAPIExplorer",
+              "value": true
+            },
+            ...
+          ]
+    ```
+7. To enable/disable our automatic OpenAPI and postman collection generation + download buttons,  `downloadPostman` can to be set in **config/tenant.json - product.feature**:
+
+    ```
+          "feature":[
+            {
+              "name": "downloadPostman",
+              "value": true
+            },
+            ...
+          ]
+    ```
+
+![tenant sandbox config](assets/images/tenant-sandbox-config.png "tenant sandbox options")
