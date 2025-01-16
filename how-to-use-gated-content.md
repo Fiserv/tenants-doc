@@ -19,7 +19,7 @@ The different levels of accesses are:
 
 ## Gated Content access for Markdown files
 
-The document-explorer-definition.yaml in the config folder defines documentation tree on left navigation panel and this is where the file accesses need to be added. If a file has "access: public" defined for it, then everyone can see it.
+The `file-access-definition.yaml` in the config folder defines asset files that have unique downloadable accessibility configurations. If a file has "access: public" defined for it, then everyone can see/download it.
 
 ![Public access](assets/images/GC_public_access.png)
 

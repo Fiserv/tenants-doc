@@ -10,13 +10,13 @@
   * You can read about that here: [github.com/fiserv/tenants-doc](https://fiserv.gitbook.io/tenant-docs/)
 
 ### Do you have insight to the corporate vision for whether https://docs.firstdata.com/ and https://developer.fiserv.com will live on in parallel or eventually converge?
-  * Will converge in the end. For now, as we transition your content you'll have both until you get enough feature parity and then you'll shutdown the old portal.
+  * Will converge in the end and DevStudio will host all of Fiserv/FirstData documentation in the future. Once you are happy with the level and quality of documentation on Developer Studio compared to your old docs portal, you should request for the previous to shutdown to save cost.
 
-### How can Tenants decide which business type they should choose? Does Devportal allow a Product to reside on multiple business types?
+### How can Tenants decide which capability/business type they should choose? Does Devportal allow a Product to reside on multiple types?
   * Yes, you may select as many business types as you feel like your product reaches. These tags will help businesses and customers apply as filters when searching for a solution to fit their needs.
 
 ### How can Tenants integrate their Products with Developer Studio?
-  * Have a GitHub account with your Fiserv email. (https://github.com/Fiserv)
+  * Have a GitHub account associated with your Fiserv email or create one. (https://github.com/Fiserv)
   * To request an onboarding you can fill out the [Onboarding form](https://github.com/Fiserv/Support/issues/new?assignees=russnicoletti%2Cminh-pham1&labels=Onboard+New+Tenant&projects=&template=onboard_new_tenant.yml&title=Onboard+a+new+tenant) - and provide all the information/requirements  to on board your product. On-boarding Form
   * Please go through our Tenant document https://fiserv.gitbook.io/tenant-docs/ which will provide all the info you need to get going to onboard into the Developer Studio. 
 
@@ -25,13 +25,13 @@
 
 ### What do you mean by Available services & Popular services?
   * Available service means the range of the service/facilities the product provides.
-  * Popular service means the frequently usd/demanded service/facilities of the product.
+  * Popular service means the frequently used/demanded service/facilities of the product.
 
 ### How and where can Tenants provide tags for their product? is it in GitHub?
-  * You can request it to be added via Github Ticket. However, most of our `beta` tenants refer to experiment products with documentation and APIs revolving around new AI or innovation trends rather than just products whose documentation are still WIP.
+  * You can request it to be added via Github Issue ticket. However, most of our `beta` tenants refer to experiment products with documentation and APIs revolving around new AI or innovation trends rather than just products whose documentation are still WIP.
 
-### How can Tenants administer the GitHub repository?
-  * Initially Tenant team will only have write access. Once everything is more content within Tenant repo, Tenant Advocate may provide github repo maintainer access to Tenant Team upon request and proper justification. This is for security and standardization reasons to ensure content is properly validated and secured within DevStudio.
+### How can Tenants maintain/admin their GitHub repository?
+  * Initially Tenant team will only have write access. If the repository has reached a production ready and stable state with known record of quality code changes, Tenant Advocate may provide github repo maintainer access to Tenant Team upon request and proper justification. This is for security and standardization reasons to ensure content is properly validated and secured within DevStudio.
 
 ### How do Tenants get access to Prism Mock server and make them work?
   * Prism Mock Server is integrated within Dev Studio architecture. Tenant won't have any access to Prism Mock Server. Tenant developer can test the Prism mock server functionality by installing on development machine via https://github.com/stoplightio/prism.
@@ -52,7 +52,10 @@
   * Updated documents are refelcted immediately via Github webhooks.
   * APIs are updated on different interval per environment. Please check under [Frequency of updates](search.md#frequency-of-updates)
 
-### Can we automate so that new APIs get discovered?
+### Are new APIs added to our API spec files automatically added to DevStudio?
+  * Yes, once you add a new API spec yaml or version (or simply a new endpoint on an existing version/yaml), our automated indexing will pick it along with all the other APIs listed under `tenant.json - apiVersions` and added to DevStudio for everyone to view.
+
+### Can we automate so that new APIs get discovered by customers?
   * While we have no process for this, `release-notes` is the primary way for standard practice and you may also change the Featured API on your `product-layout` which defines the homepage of your product.
 
 ### Is there a way to quickly convert my swagger 2.0 specs to OpenAPI spec?

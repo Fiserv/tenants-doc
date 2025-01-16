@@ -12,7 +12,7 @@ To start a search, in the top-left corner of the screen, in the search bar, type
 
 - The third suggested result will be tagged "All Github".
 
-For eg: On Fiserv repo's homepage, type your search term into the search box on the top left. 
+For example: On Fiserv repo's homepage, type your search term into the search box on the top left. 
 
 ![global search](assets/images/globalsearch.png)
 
