@@ -16,4 +16,4 @@ Product and API Versioning has been enabled to view Active, Preview, and Previou
   * PREVIEW - Tech-preview branch to be merged into develop branch, for users to check upcoming WIP documentation and API changes; This branch is synced across all of DevStudio environments
   * PREVIOUS - Archived branch previously released from develop, rarely used but can be maintained for historical data if API version does not suffice for version control; This branch is synced across all of DevStudio environments
 
-![version branches](assets/images/version-branches.png)
+![version branches](assets/images/github/version-branches.png)

@@ -28,7 +28,7 @@ The following two branches are for product versioning which is shared across all
   - previous
 
 
-![git branches](assets/images/github-branches.png "git branches")
+![git branches](assets/images/github/github-branches.png "git branches")
 
 
 ### Developer Studio Release Schedule 
