@@ -62,7 +62,7 @@ Checkout the [demo](demo.md) page to see demos of our features.
    * Product Description
    * Markdown Documentation
    * OpenAPI Spec file in YAML format (Version 3.0.0 and above)
-   * Who is it for description
+   * Who is it for description (for link out tenants)
    * 1-3 UseCases/Popular Services
 3. **Signup for a free** [**github**](https://github.com) **account:**
    * Each tenant needs to register into github using their Fiserv email address and create an account. Once an account is created, please provide the Github username/registered email address to Developer studio team/Tenant Advocate.
@@ -106,7 +106,7 @@ If you need help, spot bugs, need enhancements, or just want to chat you've got 
 * [How to Get Support](get-support.md)
 * Bugs / Enhancements / Questions
   * Go to our [Support](https://github.com/fiserv/support/issues)
-* All of the above or want to chat with the team
+* All of the above or to chat with the team
   * Go to MS Teams and search for `Developer Studio from Fiserv`
 
 Ok, let's get started!
