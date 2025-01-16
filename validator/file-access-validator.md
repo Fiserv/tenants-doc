@@ -41,16 +41,13 @@ The yaml should be a list of objects containing the name, access level, and allo
 
 ## File Access Validator Job
 
-![Git Action](/assets/images/validators/file-access-validator.png)
-
-
-## File Access Validator failed Job
-
-![Git Action](/assets/images/validators/failed-file-access-validator-action.png)
-
+![File Access Validator](/assets/images/validators/file-access-validator.png)
 
 ## File Access Validator failed Activity
-This will list the failures along with the failed filename.
-![Git Action](/assets/images/validators/failed-file-access-validator-activity.png)
+This will list the failures along with the failed filename. In this screenshot example, various files listed in the `file-access-definition.yaml` have one or more errors associated. 
+
+We'll try to print all the validation errors for each files but it does get cluttered and may need multiple runs to properly validate every overlapping check.
+
+![Validator failures](/assets/images/validators/failed-file-access-validator-activity.png)
 
 **Help:** Please connect with DevStudio team for more information and questions related with Validators via our Teams channel.
