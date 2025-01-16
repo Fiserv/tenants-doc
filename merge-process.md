@@ -2,6 +2,8 @@
 
 This guide will briefly explain how to use Github for changing files and the proper method to commit changes to the `develop`, `stage`, and `main` branch.
 
+Since these 3 branches are utilized by Developer Studio to display your content, we do not allow direct pushes to them. Instead, you will need to make feature branches to commit to these base branches to allow our validators to validate all new changes and create accountability if any documentation or API specs encounter any issue.
+
 We highly recommend making changes to the `develop` branch and merge `develop -> stage -> main` in sequence as per standard Git versioning process. For those using the `preview` branch feature, you would do `preview -> develop` first.
 
 ![git branches](assets/images/github/github-branches.png "git branches")
