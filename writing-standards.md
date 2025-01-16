@@ -103,7 +103,7 @@ Apple Style Guide > [Technical notation](https://help.apple.com/applestyleguide/
 Abbreviations are a condensed form of a word. Acronyms are also abbreviations formed from the first letters of words in a phrase, but pronounced as if it were a word itself.
 
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
  1. Spell-out in first instance of use in a document or topic in modular content. Include the abbreviation or acronym in parentheses following the spelled-out term.<br>
  2. Capitalize the spelled-out version if its a proper noun or is conventionally capitalized.<br>
@@ -111,7 +111,7 @@ Abbreviations are a condensed form of a word. Acronyms are also abbreviations fo
  4. If needed due to space constraints, use in a heading or title, and then spell out in the first paragraph. However, preferred choice is to spell out in the heading or title without the abbrevation in parentheses. Example: Device updates for full service restaurant.<br>
  5. Use a lowercase **s** to make abbreviations plural or possessive case. Example: three APIs; the CEO's blog.<br>
  
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>
  1. Don't spell out abbreviations familiar to your audience even in the first instance, example: USB, FAQ, and URL.<br>
  2. Don't use periods with acronyms or initialisms, example: C.E.O. or A.T.M.<br>
  3. Don't abbreviate **Drive** or **Lane** in addresses. **You can abbreviate**—Ave., Blvd., Cir., Ct., Pkwy., Rd., Sq., St., Terr.<br>
@@ -158,7 +158,7 @@ Example:
 
 ### Articles
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
 1. Use __an__ when the abbreviation or acronym has a vowel sound.
 
@@ -167,11 +167,11 @@ Examples:
 ef-AS; ef-i - an FI can opt out of AUS; an FAQ; es-ql - an SQL query; an HTML file; an hour
 fid (as pronounced) - enter a FIID in the field; a URL
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>
 
 2. Don't use an article (a, an, the) at the start of a bulleted list or a field description. This helps to create parallel structure in sentences.
 
-|                                                                                                                                                                                           ![thumbs up](assets/images/thumbs-up.png)                                                                                                                                                                    |                                                                                                                                                                                        ![thumbs down](assets/images/thumbs-down.png)                                                                                                                                                                                         |
+|                                                                                                                                                                                           ![thumbs up](assets/images/writing-standards/thumbs-up.png)                                                                                                                                                                    |                                                                                                                                                                                        ![thumbs down](assets/images/writing-standards/thumbs-down.png)                                                                                                                                                                                         |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |**Solutions on the Fiserv platform**<br><br>The Fiserv platform provides:<br><br> • Cloud-based point of sale (POS)....<br> • Android-based POS devices.<br> • Android-based remote services (AIDL), content providers, and broadcasts through the Fiserv Services APK.<br> • Standard standard set of Android intents ...<br> • App Market for developers to publish their applications.</p>|**Solutions on the Fiserv platform**<br><br> • A cloud-based point of sale service and REST API<br> • Android-based point of sale devices<br> • Android-based remote services (AIDL), content providers, and broadcasts via the Fiserv Services APK.<br> • A standard set of Android intents that Fiserv and third-party applications can implement<br> • An App Market for developers to publish their applications. |
 | • **Merchant Name**—Name of the merchant that displays on your dashboard and Dev Kits associated with the account.<br> • **Country**—Country where the merchant operates.<br> • **ZIP/Postal/PIN code**—Postal code for the merchant.                                                                                                                              | • **Merchant Name**—The name of the merchant, which appears in your dashboard and on DevKit's tied to the account<br> • **Country**—The country where the merchant operates<br> • **ZIP/Postal/PIN code**—A valid postal code for the merchant                                                   |
@@ -180,7 +180,7 @@ fid (as pronounced) - enter a FIID in the field; a URL
 
 ### Bias-free and inclusive communication
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
 To avoid unnecessary usage of pronouns:
 
@@ -193,7 +193,7 @@ To avoid unnecessary usage of pronouns:
 7. Use person or individual (user).
 8. If you can't write around the problem, use a plural pronoun (they, their, or them) to refer to a single person.
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>
 
 1. Don't use words that unnecessarily identify a person's race, religion, physical status, social status, age, national origins, or gender.
 2. Don't use constructions like he/she and s/he.
@@ -207,7 +207,7 @@ Bullet lists present nonsequential items in easy-to-read, parallel format. Featu
 * Contains at least two items.
 * Contains items of equal importance or those items that cannot be referred to using numbers or letters.
 * Contains fewer than three lines. If longer, rewrite. If all else fails, present additional information as an indent under the bullet.<br>
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
 1. Use a lead-in or introductory line, unless you introduce the list with a heading.
 2. Use parallel sentence construction.
@@ -224,7 +224,7 @@ Bullet lists present nonsequential items in easy-to-read, parallel format. Featu
 
 ### Capitalization
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div> Our preferred style is sentence-case capitalization, that is, capitalize the first word and all proper nouns, such as product names.
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div> Our preferred style is sentence-case capitalization, that is, capitalize the first word and all proper nouns, such as product names.
 
 1. Use sentence case in:
 &emsp;1. Document title, headings, and navigation.<br>
@@ -239,7 +239,7 @@ Bullet lists present nonsequential items in easy-to-read, parallel format. Featu
 **Examples for time and date entry formats:**
 &emsp;3. Transmission Date & Time – MMDDhhmmss<br>
 &emsp;4. Terms & Conditions Date/Time – YYMMDDhhmm<br>
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>
 
 1. Don't capitalize words that are not proper nouns, branded names, or if their capitalization contradicts our style guidelines.
 2. Don't use all-uppercase, except in official names, in [abbreviations](https://developers.google.com/style/abbreviations) that are always written in all-caps, or when referring to code that uses all-caps.
@@ -267,9 +267,9 @@ Capitalize the first letter of the following:
 **Font**—<span style="font-family:'Courier New'">Courier</span> monospace font type is used in Windows command prompt, Mac terminal, every IDE, and most editors. The font type makes it easy to signify code and user input strings.
 Example:
 
-![font-graphic](assets/images/font-graphic.png)
+![font-graphic](assets/images/writing-standards/font-graphic.png)
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
  
 1. Use `<code>` in HTML or the symbol below the tilde (~) symbol on your keyboard in Markdown to apply a monospace font and other styling to code in text, inline code, and user input. That symbol is also known as acute, backtick, left quote, open quote, back quote, or backquote. 
@@ -279,7 +279,7 @@ Example:
 5. See [Basic syntax for Markdown](http://markdownguide.org/basic-syntax/).
 6. See [Extended syntax for Markdown](https://www.markdownguide.org/extended-syntax/).<br>
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div> <br>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div> <br>
 1. Don't override or modify font styles inline.
 2. Don't use code elements such as keywords and filenames as verbs or noun, or plural or possessive.<br>
 
@@ -289,9 +289,9 @@ Example:
 
 Open a web browser and navigate to <span style="font-family:'Courier New'">http://localhost:8080</span>.
 
-![courier-example-graphic1.png](assets/images/courier-example-graphic1.png)
+![courier-example-graphic1.png](assets/images/writing-standards/courier-example-graphic1.png)
 
-![courier-example-graphic2.png](assets/images/courier-example-graphic2.png)
+![courier-example-graphic2.png](assets/images/writing-standards/courier-example-graphic2.png)
 
 * **Curly braces**—Variable text is enclosed in braces. This text varies based on users and needs to be replaced with values unique to an environment. Example: Each merchant has a unique identifier, so it is indicated with a placeholder: `{mId}` or `{merchantId}`. When copying sample code that includes bracketed values, replace both the brackets and sample values with your data.
 
@@ -315,15 +315,15 @@ Shortcuts and syntax for card descriptions, comments, checklist items, and your 
 | Links              | Command/Ctrl + K                                                    | \[text\]\(http://www.example.com\) |
 | Escaping Markdown  | For literal markdown syntax, use a backslash '\' before the symbols | \\*literal asterisks\\\*.     |
 
-![formatting-text1.png](assets/images/formatting-text1.png)
+![formatting-text1.png](assets/images/writing-standards/formatting-text1.png)
 
-![formatting-text2.png](assets/images/formatting-text2.png)
+![formatting-text2.png](assets/images/writing-standards/formatting-text2.png)
 
-![table-formatting.png](assets/images/table-formatting.png)
+![table-formatting.png](assets/images/writing-standards/table-formatting.png)
 
 ### Company names and logos
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
 1. Follow the spelling and capitalization a company prefers. Rewrite sentences so that a lowercase letter does not begin a sentence.
 
@@ -331,7 +331,7 @@ Shortcuts and syntax for card descriptions, comments, checklist items, and your 
 
 3. When two or more companies occur in a sentence, write them alphabetically, example: American Express, Discovery, Mastercard, and Visa.
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>
 
 1. Don't use symbols, such as exclamation marks, plus signs or asterisks, that form contrived spellings or that are part of the logo.
 
@@ -392,7 +392,7 @@ Shortcuts and syntax for card descriptions, comments, checklist items, and your 
 &ensp;10. Writing factual, direct statements to help a reader understand why an option is a good idea and whether it applies to them.
 
 
-|                                                 ![thumbs up](assets/images/thumbs-up.png)                                                |                                                                        ![thumbs down](assets/images/thumbs-down.png)                                                                        |
+|                                                 ![thumbs up](assets/images/writing-standards/thumbs-up.png)                                                |                                                                        ![thumbs down](assets/images/writing-standards/thumbs-down.png)                                                                        |
 |:------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
 | To minimize system impact, perform this action outside of normal business hours.             | It is recommended to perform this action outside of normal business hours.                                                                  |
 | Mask specific values in images to hide sensitive information.                                | We recommend concealing specific values in images.                                                                                          |
@@ -418,7 +418,7 @@ Good to remember
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                    Dashes—em dash                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                           Dashes—en dash                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                     Dashes—hyphen                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![thumbs up](assets/images/thumbs-up.png)Use em dash: <br>1. To offset and emphasize a statement; place on each side of a phrase embedded in a sentence. Example: The information in your spreadsheet—numbers, formulas, and text—is stored in cells. <br>2. To offset text, as in a title or header, or definition, or to describe a value. Example: Processor—EPOC Activity; A—First letter in the English alphabet. <br>3. Before and after—**or**— and —**and**— when describing multiple or alternate action paths <br>4. Before and after code formatted text **with spaces**. Example:<br> ![code-formatted-with-spaces.png](assets/images/code-formatted-with-spaces.png)<br>5. **Format**: <br>&emsp;1. First word following em dash is not capitalized when it occurs in a sentence. <br>&emsp;2. If the em dash occurs in a title, or follows an introductory word/words in a list, or a proper noun then the first word after the em dash is capitalized. <br>&emsp;3. Don't use spaces before and after in running text. <br>&emsp;4. Use spaces before and after in code formatted text. See point **4**. | ![thumbs up](assets/images/thumbs-up.png)Use en dash: <br>1. To indicate a range of numbers, such as inclusive values, dates, or pages. Example: 2015–2017 <br>2. For a minus sign. Example: 12 – 3 = 9 <br>3. To indicate negative numbers. Example: –79 <br><br> ![Error](assets/images/thumbs-down.png) <br> Don't use spaces before and after. | ![thumbs up](assets/images/thumbs-up.png)Use hyphens: <br>1. To join compound words. <br>2. For a sequence of two hyphenated words with the same ending; known as: suspensive hyphenation. Example: <br>&ensp;1. We offered 1- and 2-year contracts. <br>&ensp;2. Both micro- and macroeconomic policies ... 3. If a prefix ends in a vowel and the word that follows begins with the same vowel. Example: pre-exist, auto-opt, co-owner Exceptions: cooperate, coordinate. 4. If the word that follows is capitalized - Mid-Release, Non-FI, non-XML. 5. To join doubled prefixes. 6. Often, you can replace a slash (/ ) with a hyphen to join equal or like terms, as in faculty-student ratio.   <br><br> ![Error](assets/images/thumbs-down.png) <br>1. Don't use spaces before and after.<br>2. Don't hyphenate compounds formed by an adverb ending in -ly followed by an adjective or participle, example: <br>&emsp;1. highly regulated not highly-regulated market <br>&emsp;2. rarely used not rarely-used services |
+| ![thumbs up](assets/images/writing-standards/thumbs-up.png)Use em dash: <br>1. To offset and emphasize a statement; place on each side of a phrase embedded in a sentence. Example: The information in your spreadsheet—numbers, formulas, and text—is stored in cells. <br>2. To offset text, as in a title or header, or definition, or to describe a value. Example: Processor—EPOC Activity; A—First letter in the English alphabet. <br>3. Before and after—**or**— and —**and**— when describing multiple or alternate action paths <br>4. Before and after code formatted text **with spaces**. Example:<br> ![code-formatted-with-spaces.png](assets/images/writing-standards/code-formatted-with-spaces.png)<br>5. **Format**: <br>&emsp;1. First word following em dash is not capitalized when it occurs in a sentence. <br>&emsp;2. If the em dash occurs in a title, or follows an introductory word/words in a list, or a proper noun then the first word after the em dash is capitalized. <br>&emsp;3. Don't use spaces before and after in running text. <br>&emsp;4. Use spaces before and after in code formatted text. See point **4**. | ![thumbs up](assets/images/writing-standards/thumbs-up.png)Use en dash: <br>1. To indicate a range of numbers, such as inclusive values, dates, or pages. Example: 2015–2017 <br>2. For a minus sign. Example: 12 – 3 = 9 <br>3. To indicate negative numbers. Example: –79 <br><br> ![Error](assets/images/writing-standards/thumbs-down.png) <br> Don't use spaces before and after. | ![thumbs up](assets/images/writing-standards/thumbs-up.png)Use hyphens: <br>1. To join compound words. <br>2. For a sequence of two hyphenated words with the same ending; known as: suspensive hyphenation. Example: <br>&ensp;1. We offered 1- and 2-year contracts. <br>&ensp;2. Both micro- and macroeconomic policies ... 3. If a prefix ends in a vowel and the word that follows begins with the same vowel. Example: pre-exist, auto-opt, co-owner Exceptions: cooperate, coordinate. 4. If the word that follows is capitalized - Mid-Release, Non-FI, non-XML. 5. To join doubled prefixes. 6. Often, you can replace a slash (/ ) with a hyphen to join equal or like terms, as in faculty-student ratio.   <br><br> ![Error](assets/images/writing-standards/thumbs-down.png) <br>1. Don't use spaces before and after.<br>2. Don't hyphenate compounds formed by an adverb ending in -ly followed by an adjective or participle, example: <br>&emsp;1. highly regulated not highly-regulated market <br>&emsp;2. rarely used not rarely-used services |
 
 
 
@@ -436,7 +436,7 @@ Good to know
 
 Spell out dates in documents.
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
 1. Dates in text: **month**, **day**, **year**, as in **July 31, 2022**.
 Example:
@@ -449,7 +449,7 @@ Example:
 
 2. Use a numeral instead of ordinal numbers: June 1 or October 28. Always spell out the name of the month. 
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>
 
 1. Don't use day month year, as in 31 July 2016.Upper case: **MMDDYYYY; DDMM; MMDDYY**
 
@@ -463,13 +463,13 @@ Example:
 
 ### Error messages
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
 1. Focus on error recognition and recovery.
 2. Clearly state the problem, the cause, and what the customer can do to remediate or recover.
 3. Use complete sentences with end punctuation.
    
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div> Don't use _please._
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div> Don't use _please._
 
 | Original message                                                                                                                    | Rewritten message                                                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -486,7 +486,7 @@ Example:
 
 ### Folder and file naming conventions
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
 1. **Length**: Limit folder and file names to **25 characters**. Less is more. A URL cannot be longer than **255 characters**; as a best practice limit the folder hierarchy to 225 characters.
 
@@ -498,7 +498,7 @@ Example:
 
 **Camel case**: Use the camel case to delimit words. Camel case, means in a word the first letter should be capital, example: TransactionData, or Transaction-Data.<br>
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div> Don't use
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div> Don't use
 
 1. Long file name with long file paths and URLs as they increase likelihood of error.
 
@@ -547,7 +547,7 @@ Example:
 
 Example
 
-| ![toc.png](assets/images/toc.png) | ![credits.png](assets/images/credits.png) |
+| ![toc.png](assets/images/writing-standards/toc.png) | ![credits.png](assets/images/writing-standards/credits.png) |
 |------------------------------|--------------------------------------| 
 
 
@@ -558,7 +558,7 @@ Example
 
 Use images to supplement written information. If possible, use tables and lists, to convey the information instead of images, specially in beta or unstable UI applications. A well-designed UI doesn't need an accompanying screenshot in the documentation.
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
 1. Capture a screen shot using the light theme with your screen zoomed to 100%.
 2. Introduce each image with a full sentence that describes its contents.
@@ -566,7 +566,7 @@ Use images to supplement written information. If possible, use tables and lists,
 4. Use SVG file type instead of PNG, if available. SVGs stay sharp when you zoom in on the image.
 5. Use inline image in a sentence to label a UI element, such as a toolbar icon or a button.
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>
 
 1. Don't use actual numbers, customer or merchant data, or PII in images. See [Inclusive names and secure data](#inclusive-names-and-secure-data).
 2. Don't present new information in images; always provide an equivalent text explanation with the image.
@@ -591,7 +591,7 @@ In alt text:
 
 In images and examples:
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
 1. Use names sensitive to culture, religious affiliation, holidays, traditions, politics, and business. Make sure that the name you create reflects the wide range of names used around the world.
 
@@ -599,7 +599,7 @@ In images and examples:
 
 3. Use [test card numbers](https://docs.clover.com/docs/test-card-numbers).
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>
 
 1. Don't reveal personally identifiable information (PII), such as domain names, email addresses, phone numbers, people's names, project names, or credit card numbers.
 
@@ -659,7 +659,7 @@ Using proper classification ensures that all document sharing is handled efficie
 
 |                                                                            |                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |:----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![information-classification.png](assets/images/information-classification.png) | Set up Document Properties, example: in Microsoft Word, Excel, PowerPoint, Visio, and so on, as follows: | 1. Open a document. 2. Click **File** > **Info**. 3. Select the drop-down arrow next to Properties, and then click **Advanced Properties**. 4. Select the **Custom** tab. 5. Do one of the following: &emsp; • **Add**—Enter Confidentiality in the Name field, enter appropriate document classification in the Value field, and click **Add**. &emsp; • **Modify**—Click **Confidentiality** in the Properties field, enter appropriate document classification in the Value field, and click **Modify**. 6. Click OK. |
+| ![information-classification.png](assets/images/writing-standards/information-classification.png) | Set up Document Properties, example: in Microsoft Word, Excel, PowerPoint, Visio, and so on, as follows: | 1. Open a document. 2. Click **File** > **Info**. 3. Select the drop-down arrow next to Properties, and then click **Advanced Properties**. 4. Select the **Custom** tab. 5. Do one of the following: &emsp; • **Add**—Enter Confidentiality in the Name field, enter appropriate document classification in the Value field, and click **Add**. &emsp; • **Modify**—Click **Confidentiality** in the Properties field, enter appropriate document classification in the Value field, and click **Modify**. 6. Click OK. |
 
 [Back to top](#writing-standards)
 
@@ -673,7 +673,7 @@ Fiserv Data Loss Prevention <dlpinfo@fiserv.com>
 
 ### Links Cross references and hyperlinks
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
 * Format: Regular text: Fiserv font (#228800)
 * Link judiciously to supporting material or additional information.
@@ -711,7 +711,7 @@ Example: To create an instance with a custom hostname, run the `gcloud instances
  * ALT attribute acts as the link text.
  * ALT attribute must describe the image and it must tell the user what activating the link will do.
  
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>
 
 1. Don't use phrases such as _this document_, _this article_, or _click here_.
 2. Don't use a URL/web address as link text. Screen readers will read each character (w-w-w-dot-h-t-t-p-colon...). Use the page title or a description of the page. Exceptions: To indicate the actual text, example: [www.eu.docs.fiserv.com](http://www.eu.docs.fiserv.com/); API reference or sandbox link.
@@ -754,7 +754,7 @@ Split up long lines of code with line breaks so that the lines of code fit withi
 5. Before or after any equation symbol, such as *, /, +, >, <, or - 7.
 6. After a dot, such as in a URL
 
-![after-a-dot.png](assets/images/after-a-dot.png)
+![after-a-dot.png](assets/images/writing-standards/after-a-dot.png)
 
 
 [Back to top](#writing-standards)
@@ -765,7 +765,7 @@ Split up long lines of code with line breaks so that the lines of code fit withi
 
 |                   Term                  |                                                                                                            Usage                                                                                                            |
 |:---------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| mouse pointer/cursor                    | Use _pointer_. If needed, use _cursor_ only for a technical audience or to describe the point on the screen to insert a text or graphic.   ![mouse graphic](assets/images/mouse-graphic.png)                                                                                 |
+| mouse pointer/cursor                    | Use _pointer_. If needed, use _cursor_ only for a technical audience or to describe the point on the screen to insert a text or graphic.   ![mouse graphic](assets/images/writing-standards/mouse-graphic.png)                                                                                 |
 | mouse button                            | Use to indicate the left mouse button. Use right mouse button, only if it is needed, example: Click the right mouse button to display the shortcut menu.                                                                |
 | drag                                    | Use _drag_, not click and drag or drag-and-drop for moving a file from one place to another. Drag-and-drop is used as an adjective. Example: Drag the folder to the desktop. Moving the folder is a drag-and-drop operation. |
 | mouse over or move the mouse pointer to | Do not use. Use _hover over_.                                                                                                                                                                                             |
@@ -841,7 +841,7 @@ Example:
 
 Parallelism is a convention of sentence construction. It is indicated by the same grammatical form and applies to verbs, nouns, adjectives, and every other part of a sentence. In technical documentation, parallelism provides uniformity in bullet lists and step-by-step instructions—namely, putting the action-word first, followed by the steps.
 
-|                                        ![thumbs up](assets/images/thumbs-up.png)                                        |                                                      ![thumbs down](assets/images/thumbs-down.png)                                                     |
+|                                        ![thumbs up](assets/images/writing-standards/thumbs-up.png)                                        |                                                      ![thumbs down](assets/images/writing-standards/thumbs-down.png)                                                     |
 |:-------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|
 | • Enter client ID. <br>• Select **View EJ Data**. <br>• Enter a terminal ID. <br>• Select **View Balance**. | • Enter the client ID. <br>• Make sure **View EJ Data*• is selected. <br>• Terminal ID must be entered. <br>• Select **View Balance**. |
 
@@ -853,12 +853,12 @@ Parallelism is a convention of sentence construction. It is indicated by the sam
 
 Parentheses are less emphatic than em dashes and more emphatic than commas.  In general, parentheses are used to insert material into a sentence, such as explanations, references, citations, examples, or ideas that are not part of the main sentence.
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
 1. Use parentheses ( ) to clarify such as, adding examples or relaying a nuance or a small bit of clarifying data that are often subordinate to the main point.
 2. Use em dashes (**opt**+**shft** -) to set an important phrase apart in a way that emphasizes versus subordinating it—like a wink or a nod to the reader. They are a great substitute for a semicolon—a way to make two points at once.
 3. Use brackets [ ] to set off comments, corrections, mathematical expressions, and incidental or explanatory material. **Example**: The quoted price [$3,750] exceeds the budgeted amount.
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>Don't use parentheses, especially for complete sentences. Rewrite as a separate sentence, as a note, or use commas. For a set of words or phrases, set off with em dashes.
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>Don't use parentheses, especially for complete sentences. Rewrite as a separate sentence, as a note, or use commas. For a set of words or phrases, set off with em dashes.
 
 [Back to top](#writing-standards)
 
@@ -866,7 +866,7 @@ Parentheses are less emphatic than em dashes and more emphatic than commas.  In 
 
 ### Person
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
 1. When you write from the point of view of the Fiserv brand, use the first person plural (we). This helps to use lesser words and avoid passive voice.<br>
 Example: We built Fiserv Dining with the input of restaurants like yours. That makes our POS custom-built for your restaurant
@@ -880,11 +880,11 @@ Example: Fiserv Dining makes taking, coursing, and updating orders fast, simple,
 5. In a question-and-answer format, assume that the user is asking the questions. Use _I_ in the questions to refer to the user. Use we in the responses to represent your agency.
 
 
-|              ![thumbs up](assets/images/thumbs-up.png)              |         ![thumbs down](assets/images/thumbs-down.png)        |
+|              ![thumbs up](assets/images/writing-standards/thumbs-up.png)              |         ![thumbs down](assets/images/writing-standards/thumbs-down.png)        |
 |:---------------------------:|:----------------:|
 | Submission of applications. | How do I apply?  |
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>Don't mix the grammatical person within the same sentence.
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>Don't mix the grammatical person within the same sentence.
 
 [Back to top](#writing-standards)
 
@@ -944,7 +944,7 @@ Formatting conventions for many REST API elements, like endpoints, methods, para
 
 ### Spellings
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
 * Use American spellings in all text and documents, irrespective of the region, such as US, EMEA, Canada, and so on.
 * Set English (US) as the default language of your computer and applications.
@@ -957,7 +957,7 @@ Formatting conventions for many REST API elements, like endpoints, methods, para
 &emsp;*  [Eleven Writing](https://www.elevenwriting.com/blog/british-english-vs-american-english#spelling-differences-between-british-and-american-english)<br>
 &emsp;*  [ProofReadingPal](https://proofreadingpal.com/proofreading-pulse/writing-guides/us-vs-uk-english-grammar/)<br>
 * In US English, double quotes are used, while UK English uses single quote marks.
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div> Do not use English (UK) spellings.
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div> Do not use English (UK) spellings.
 
 [Back to top](#writing-standards)
 
@@ -977,17 +977,17 @@ For details, go to: [Oxford International English](https://www.oxfordinternation
 
 ### Present tense
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>Use present tense rather than future tense.
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>Use present tense rather than future tense.
 
 * The future says that an action will happen at some point in the future, raising the question - when?
 *  The present tense implies immediacy.
 
-|                    ![thumbs up](assets/images/thumbs-up.png)                    |                    ![thumbs down](assets/images/thumbs-down.png)(avoid)                    |
+|                    ![thumbs up](assets/images/writing-standards/thumbs-up.png)                    |                    ![thumbs down](assets/images/writing-standards/thumbs-down.png)(avoid)                    |
 |:-----------------------------------------:|:----------------------------------------------:|
 | A predefined set of columns displays. | Predefined set of columns will display.    |
 | The transaction contains an attempts AAV. | The transaction will contain an attempts AAV.  |
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>Avoid using **will**, **would**, **shall**, and **should.**
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>Avoid using **will**, **would**, **shall**, and **should.**
 
 Exception: When an action really does take place in the discernible future.
 Example:
@@ -1002,7 +1002,7 @@ Example:
 
 ### Text formats
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>
 
 **Bold**
 
@@ -1037,7 +1037,7 @@ Values:
 
 5. Error messages as they display on the UI. Example: Error message—Invalid input value—indicates the value you entered is unable to generate a certificate.
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>
 
 1. Avoid unnecessary font formatting. Use regular text and bold only in text.
 
@@ -1067,7 +1067,7 @@ Quick reference
 
 Tooltips identify or add supplemental information to a UI element, such as icons or fields.
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div> When writing a tooltip:
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div> When writing a tooltip:
 
 1. Be short and concise—one word to a couple short sentences.
 
@@ -1077,7 +1077,7 @@ Tooltips identify or add supplemental information to a UI element, such as icons
 
 4. Use present tense.
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div> Don't use _please._
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div> Don't use _please._
 
 [Back to top](#writing-standards)
 
@@ -1091,13 +1091,13 @@ Verbs tell your audience what to do. Make sure they know who does what.
 
 2. Use present tense - the simplest and strongest form of a verb. 
 
-| ![thumbs up](assets/images/thumbs-up.png)                                            | ![thumbs down](assets/images/thumbs-down.png)                               |  |
+| ![thumbs up](assets/images/writing-standards/thumbs-up.png)                                            | ![thumbs down](assets/images/writing-standards/thumbs-down.png)                               |  |
 |--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----|
 | Developers must set up their sandbox environment with unique user IDs and passwords. | You must set up the sandbox environment with a unique user ID and password. |    |
 
 3. In reference documentation, you tell the developers what the method does (_gets_, _lists_, _creates_, _searches_), rather than what they should do (_get_, _list_, _create_, _search_).
 
-| ![thumbs up](assets/images/thumbs-up.png)                    | ![thumbs down](assets/images/thumbs-down.png)               |
+| ![thumbs up](assets/images/writing-standards/thumbs-up.png)                    | ![thumbs down](assets/images/writing-standards/thumbs-down.png)               |
 |--------------------------------------------------------------|-------------------------------------------------------------|
 | tasks.insert: Creates a new task on the specified task list. | tasks.insert: Create a new task on the specified task list. |
 
@@ -1109,7 +1109,7 @@ Verbs tell your audience what to do. Make sure they know who does what.
 
 Use the following guidelines for videos. For more information see, Video Style Guide.
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/checkmark-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/checkmark-graphic.png"  width="40"/></div>
 
 1. Link to videos created by Fiserv and ideally no longer than 4 minutes in duration.
 
@@ -1123,7 +1123,7 @@ Use the following guidelines for videos. For more information see, Video Style G
 
 6. Explore options of creating GIFs to show simple processes that can be conveyed in 5 seconds or less. You can use an animated GIF to supplement task information or paragraph text.
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>
 
 1. Don't make viewing the video as a requirement to complete a task.
 
@@ -1170,7 +1170,7 @@ Use the following guidelines for videos. For more information see, Video Style G
 
 10. Choose clarity over conciseness, as necessary.
 
-|                                                      ![thumbs up](assets/images/thumbs-up.png)                                                     |                                      ![thumbs down](assets/images/thumbs-down.png)                                     |
+|                                                      ![thumbs up](assets/images/writing-standards/thumbs-up.png)                                                     |                                      ![thumbs down](assets/images/writing-standards/thumbs-down.png)                                     |
 |:----------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------|
 | Submit a GET request.                                                                                  | Do a GET.                                                              |
 | Use the map_get() function to extract nested values from the attributes field.                         | The map_get() extracts nested values from attributes.                  |
@@ -1178,7 +1178,7 @@ Use the following guidelines for videos. For more information see, Video Style G
 | If you use the start.ini file to define JVM arguments, add the javaagent argument after the --exec option. |  If you use start.ini to define JVM arguments, add javaagent after --exec. |
 | From the command line, run the following command to start your app in develop mode: yarn run start.    | Run the following to start in dev mode: yarn run start.                |                                                   |
 
-<div class="row" style="text-align:left;" markdown=1><img src="assets/images/red-x-graphic.png"  width="40"/></div>
+<div class="row" style="text-align:left;" markdown=1><img src="assets/images/writing-standards/red-x-graphic.png"  width="40"/></div>
 
 1. Avoid legal, foreign, and technical jargon.
 2. Don't use excess modifiers such as _absolutely, actually, completely, really, quite, totally_, and _very_.
@@ -1193,6 +1193,6 @@ Use the following guidelines for videos. For more information see, Video Style G
 
 Remove redundancy
 
-|                                                                                                                                                                                    ![thumbs up](assets/images/thumbs-up.png)                                                                                                                                                                                    |                                                                                                                     ![thumbs down](assets/images/thumbs-down.png)                                                                                                                     |
+|                                                                                                                                                                                    ![thumbs up](assets/images/writing-standards/thumbs-up.png)                                                                                                                                                                                    |                                                                                                                     ![thumbs down](assets/images/writing-standards/thumbs-down.png)                                                                                                                     |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ·       a number of<br> ·       a sufficient<br> ·       number of<br> ·       at this point in time<br> ·       is able to<br> ·       on a monthly basis<br> ·       on the ground that<br> ·       an amount of X<br> ·       be responsible for<br> ·       in order to<br> ·       no fewer than<br> ·       at present<br> ·       have been<br> ·       have the option to<br> ·       is able to<br> ·       if you want to<br> | ·       several, a few<br> ·       many<br> ·       enough<br> ·       now<br> ·       can<br> ·       monthly<br> ·       because<br> ·       X<br> ·       must<br> ·       to<br> ·       at least<br> ·       now; currently<br> ·       are<br> ·       can<br> ·       can<br> ·       optional |
