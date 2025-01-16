@@ -12,6 +12,7 @@
 * [Product page content update](update-productpage-content.md)
 * [Release notes guidelines](release-notes-guidelines.md)
   * [Release notes template](release-notes-template.md)
+* [Merge process](merge-process.md)
 * [Validators](validator/studio-validators.md)
   * [API specification file validator](validator/api-validator.md)
   * [Markdown linter](validator/markdown-linter.md)

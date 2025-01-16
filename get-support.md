@@ -1,11 +1,12 @@
 # Get Support
 
-Developer Studio has [Support pages](https://developer.fiserv.com/support)
+The Developer Studio team has Teams channels for tenants to ask questions and provide feedback. They are *General* and *Feedback & Help!*
 
-Every page has **Get assistance** button in the right bottom corner. 
+<img src="assets/images/DevStudioTeamsChannels.png" alt="Teams Channels" style="max-width: 50%;">
+
+In addition, every Developer Studio page has a **Get Assistance** button in the bottom right corner.
 
 <img src="assets/images/help.png" alt="Help Button" style="max-width: 50%;" width="400">
-
 
 When expanded **Help Center** contains links to various help resources.
 
