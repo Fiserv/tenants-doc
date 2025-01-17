@@ -38,7 +38,7 @@
 * [Frequently Asked Questions](faq.md)
 * [Get support](get-support.md)
 * [Glossary](glossary.md)
-* [Workflow](workflow.md)
 * [Writing standards](writing-standards.md)
 * [Terms of Use](terms-of-use.md)
 * [Privacy Notice](privacy-notice.md)
+* [Infrequently Asked Questions](infrequently-asked-questions.md)

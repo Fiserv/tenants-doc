@@ -17,7 +17,8 @@ Most of Dev Studio tenant are API enabled tenants. In order to protect Dev Studi
 
 ## API Validator Successful Activity
 
-Checking every single API. Once validated logs will display name of the spec file and status. 
+Checking every single API. Once validated logs will display name of the spec file and status.
+
 ![Git Action](/assets/images/validators/api-validator-pass.png)
 
 ## API Validator failed Job
@@ -26,7 +27,8 @@ Checking every single API. Once validated logs will display name of the spec fil
 
 ## API Validator failed Activity
 
-Checking every single API. Once validated logs will display name of the spec file and status. 
+Checking every single API. Once validated logs will display name of the spec file and status.
+
 ![Git Action](/assets/images/validators/failed-api-validator-activity.png)
 
 Help: Please connect with DevStudio team for more information and questions related with Validators via our Teams channel.

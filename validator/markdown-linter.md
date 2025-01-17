@@ -11,19 +11,19 @@ Please feel free to reach out to us on Teams or Github if you have any suggestio
 ## Markdown Linter Job
 
 Please note that there is **no** `Required` tag, indicating that it will not block you even when failed.
+
 ![Git Action](/assets/images/validators/markdown-linter.png)
 
 
 ## Markdown Linter Successful Activity
 
 Checking every single markdown file. Once validated logs will display name of the markdown file and status.
-![Git Action](/assets/images/validators/markdown-linter-pass.png)
 
+![Git Action](/assets/images/validators/markdown-linter-pass.png)
 
 ## Markdown Linter failed Job
 
 ![Git Action](/assets/images/validators/failed-markdown-linter-action.png)
-
 
 ## Markdown Linter failed Activity
 

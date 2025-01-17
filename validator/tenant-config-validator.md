@@ -26,7 +26,8 @@ Ensure existence of the following fields/definitions:
 
 ## Config Validator Successful Activity
 
-Checking every single API. Once validated logs will display name of the markdown file and status. 
+Checking every single API. Once validated logs will display name of the markdown file and status.
+
 ![Git Action](/assets/images/validators/config-validator-pass.png)
 
 
@@ -38,6 +39,7 @@ Checking every single API. Once validated logs will display name of the markdown
 ## Config Validator failed Activity
 
 Display error logs for the various failures from the checks listed above
+
 ![Git Action](/assets/images/validators/failed-config-validator-activity.png)
 
 **Help:** Please connect with DevStudio team for more information and questions related with Validators via our Teams channel.
