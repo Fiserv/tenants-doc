@@ -24,11 +24,12 @@ Here are some of the details which we would need to add your product to Develope
 **Product of Carat:**  Indicate whether you're a product under Carat (most are not)
 
 ## Product tags for searching and filtering
-**Solution Area:** Customers your product generally serves (`Payments`, `Banking`, or both). Select at least one.
-* **Customer Segment:** Sub-category of the selected Solution Area.
-* **Capabilities:** List of suggested capabilities handled by the selected Solution Area.
+* **Business Type:** Customers your product generally serves (`Payments`, `Banking`, or both). Select at least one.
+* **Customer Segment:** Sub-category of the selected Business Type.
+* **Capabilities:** List of suggested capabilities handled by the selected business category.
+* **Region of operation:** Your product's region of operation (`North America`, `Europe, the Middle East and Africa`, `Latin America`, and/or `Asia Pacific`)
 
-**Region of operation:** Your product's region of operation (`North America`, `Europe, the Middle East and Africa`, `Latin America`, and/or `Asia Pacific`)
+![Product tags](assets/images/product-tags.png "Product tags")
 
 ## Feature
 Information for `Full service` tenants who would like to utilize our [API Explorer](api-explorer.md) feature.

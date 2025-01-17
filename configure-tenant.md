@@ -33,12 +33,12 @@ Files under **config** directory define tenant/product setup, documentation tree
 
 
 **config/tenant.yaml** defines product configuration such as 
-  - name, 
-  - industry or solution. Tenant is able to belong to multiple solutions.
-  - API version, 
-  - featured branches, 
-  - sandbox features, 
-  - support contact for tenant specific issues.
+  - Name, 
+  - Industry/business type. Tenant can have multiple business types.
+  - API version(s), 
+  - Featured branches, 
+  - Sandbox features, 
+  - Support contact for tenant specific issues.
 
 ![tenant config](assets/images/tenant-config.png)
 ![api version](assets/images/api-version.png)

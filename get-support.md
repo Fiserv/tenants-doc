@@ -36,7 +36,7 @@ This Client 360 inquiry will be responded by our on-call support team, either vi
   * Product: Pick the product from the list that you want to get integration help with (`Others` is the default for people who aren't sure, though we'll usually tell them to use our Search tool or the official Fiserv form at https://www.fiserv.com/en/about-fiserv/contact-us.html)
     ![Product](assets/images/product.png "Product")
 
-  * Description: More information about your business and the solution needed to quickly get a response for the API and services support you need.
+  * Description: More information about your business and the point of contact needed to quickly get a response for the API and services support you need.
     ![Description](assets/images/description-1.png "Description")
 
 ## Github support
