@@ -14,7 +14,7 @@ Ensure existence of the following fields/definitions:
 - `product.description`: String; 0 < length < 112 characters
 - `getStartedFilePath`: String
 - `resourcesFilePath`: String (optional)
-- `solution`: List
+- `solution`: List (mapped to our `business type`)
 - `apiVersion`: List
 - `apiVersion.?.releaseNotesPath`: String (release note MD for each apiVersion defined)
 - `apiVersion.?.version`: Check that there is 1 MIN/MAX `major` (latest) apiVersion

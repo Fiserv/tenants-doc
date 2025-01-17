@@ -31,7 +31,7 @@ Just like how you move into your apartment you can bring along your furniture (y
 
 Because the Developer Studio is meant to unify all our products under a single portal that means there are guidelines you must follow.
 
-1. You must provide [Basic Tenant Information](tenant-basics.md) such as name, desctiption, solution, product tags, etc.
+1. You must provide [Basic Tenant Information](tenant-basics.md) such as name, desctiption, business type, product tags, etc.
 2. You must have API documentation in [markdown format](https://www.markdownguide.org/basic-syntax/) and for that use our [Markdown syntax](https://developer.fiserv.com/support/docs/?path=docs/md/extended-syntax.md)
 3. You must have a [getting started section](update-productpage-content.md#introduction)
 4. You must be on Openapi specification 3.0+

@@ -22,6 +22,7 @@
   * [File access validator](validator/file-access-validator.md)
 
 ## Additional Configurations
+* [Special configuration changes requiring DevStudio team](special-configurations.md)
 * [Enable sandbox](enable-sandbox.md)
 * [Enable workspaces](enable-workspaces.md)
 * [Product versions](product-versions.md)
