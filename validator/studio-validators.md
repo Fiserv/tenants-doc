@@ -61,9 +61,11 @@ Primary output of every validator is generated in individual Action Job output l
 If your Pull Request is being blocked from merging by a validator, please click to see the console logs and remedy the issue(s) as described in each of the failing validator(s)
 
 New Github merge request view
+
 ![Git PR validator failure](/assets/images/validators/validator-failure.png)
 
 Old Github merge request view
+
 ![Git PR validator failure](/assets/images/validators/validator-failure-details.png)
 
 #### `Successful` Job Output: 
