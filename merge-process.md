@@ -71,6 +71,7 @@ git push origin origin/feature-branch-name
   * We automatically generate a new zip file for you when we detect that file(s) in the `reference/` directory has changed. However, this means that each branch may unfortunately have slightly differing versions. We are working to remediate this but the process is somewhat complex.
 
     You can reach out via Teams/Github for help. Alternatively, we recommend you sync the commit histories by doing the following (example will be for merge conflict `develop -> stage`):
+
     ```bash
     git checkout develop
     git checkout -b develop-sync
