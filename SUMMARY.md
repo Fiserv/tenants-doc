@@ -20,6 +20,7 @@
   * [Config validator](validator/tenant-config-validator.md)
   * [Release notes validator](validator/release-notes-validator.md)
   * [File access validator](validator/file-access-validator.md)
+* [Promotion process](promotion-process.md)
 
 ## Additional Configurations
 * [Special configuration changes requiring DevStudio team](special-configurations.md)
