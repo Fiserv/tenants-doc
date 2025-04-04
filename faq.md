@@ -85,3 +85,9 @@
 
 ### How do I or my team member(s) get Write access to our product's Github repository?
   * Please send the request with the person's Github ID or email along with the repository in question to either our Teams channel or a Github Issue.
+
+### My documents and APIs are production ready. How do I publish my product on Developer Studio production environment for customers to view?
+  * Please refer to our [promotion process guide](promotion-process.md)
+
+### Can I have my product in production before completing all the documentation?
+  * We require some valid configurations and minimal basic documents and APIs that have been validated and functional. While you can continue to edit both of these while your product is in production, having improper or nonfunctional pages on your product is not a good customer experience.
