@@ -60,7 +60,7 @@ git push origin origin/feature-branch-name
     ```
     git checkout develop
     git checkout -b develop-sync
-    git merge origin/stage --allow-unrelated-histories
+    git merge origin/stage --allow-unrelated-histories -X ours
     git push
     ```
 
