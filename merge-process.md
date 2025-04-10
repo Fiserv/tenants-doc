@@ -53,6 +53,19 @@ git push origin origin/feature-branch-name
 
 ## Common issues
 
+* During my first promotion to `stage` (and `stage` to `main`), I'm getting the error for "different commit histories"
+![Unrelated histories](assets/images/github/unrelated-histories.png)
+  * This happens because `develop`, `stage`, and `main` are all individual branches not made from each other due to how Github template repository works. To resolve this, please do the following steps to sync their commit histories.
+
+    ```
+    git checkout develop
+    git checkout -b develop-sync
+    git merge origin/stage --allow-unrelated-histories -X ours
+    git push
+    ```
+
+    Once you have done so, you can merge this branch itno `develop` and you can then open a pull request `develop -> stage` as expected.
+
 * The merge request button is grayed out. Do I need approval or fix all these validator failures?
   * Light gray button usually appear if optional validators failed, meaning you can still merge but are being warned that there is an issue. Fully gray button indicate an actual blocker.
 

@@ -21,7 +21,6 @@ Before promoting your product to production, ensure the following:
 - Confirm that all API specifications (YAML files) are up-to-date.
 
 ### **Step 2: Submit a Promotion Request**
-- Navigate to our 
 - Open a new [GitHub Issue](https://github.com/Fiserv/Support/issues) using the **Promoting a tenant** template.
   - Provide details such as the product name and other relevant information needed for promotion as indicated on the form
 
@@ -51,7 +50,7 @@ Please note that if any issues are found with the pre-requisite before or during
 - API updates may take longer depending on the environment. Refer to the [Frequency of Updates](search.md#frequency-of-updates) section for details.
 
 ### **Can I test my product in a live environment before full production deployment?**
-- This is what our `stage` environment is for. Please request the credentials to access it and validate that the Github branch promotion (`develop` -> `stage`) all looks good.
+- This is what our `stage` environment is for. Please request the credentials to access it and validate that the Github branch promotion (`develop` -> `stage`) content looks good before moving from `stage` -> `main`.
 
 ### **What if I encounter issues during promotion?**
 - Contact the Developer Studio team via your Teams channel or GitHub Issue for assistance. Our team will also keep an eye on the deployment process and double check that your product at least shows up correctly.
