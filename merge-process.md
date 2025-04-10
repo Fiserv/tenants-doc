@@ -53,8 +53,7 @@ git push origin origin/feature-branch-name
 
 ## Common issues
 
-* During my first promotion to `stage` (and `stage` to `main`), I'm getting the error for "different commit histories"
-![Unrelated histories](assets/images/github/unrelated-histories.png)
+* During my first promotion to `stage` (and `stage` to `main`), I'm getting the error for "different commit histories"<br>![Unrelated histories](assets/images/github/unrelated-histories.png)
   * This happens because `develop`, `stage`, and `main` are all individual branches not made from each other due to how Github template repository works. To resolve this, please do the following steps to sync their commit histories.
 
     ```
