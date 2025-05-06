@@ -21,6 +21,7 @@
   * [Release notes validator](validator/release-notes-validator.md)
   * [File access validator](validator/file-access-validator.md)
 * [Promotion process](promotion-process.md)
+* [Client 360 support](client360.md)
 
 ## Additional Configurations
 * [Special configuration changes requiring DevStudio team](special-configurations.md)
