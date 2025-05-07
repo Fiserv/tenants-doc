@@ -8,7 +8,7 @@ Client 360 is Fiserv's official tool for managing client inquiries and providing
 
 To integrate Client 360 into your workflow, follow these steps:
 
-### Step 1: Request Access
+### Step 1: Request Assignment Group
 
 Request an assignment group using [ServiceNow Service Catalog request](https://fiservservicepoint.fiservapps.com/now/nav/ui/classic/params/target/com.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3Df3f33b08db6912003332553fdf96190a)
 
@@ -16,7 +16,7 @@ You will need to refer to the Knowledge Article [KB0180115](https://fiservservic
 
 - For any issues you can reach out to matthew.parmigiani@Fiserv.com who may be able to assist you.
 
-### Step 2: Request Access
+### Step 2: Request User Access
 
 Your main resource will be [KB0167871](https://fiservservicepoint.fiservapps.com/kb?id=kb_article_view&sysparm_article=KB0167871&sys_kb_id=b62202491bbb805c79da53d07e4bcb35) which outlines the various clienty 360 members and roles along with how to configure/set them.
 
@@ -44,7 +44,7 @@ For Client360/Inquiry Point support questions you can reach out to Galina.Hennen
 
 Clients interact with Client 360 in the following ways:
 
-### **Submit Inquiries**
+### Submit Inquiries
 
 Customers on Developer Studio can create an account to `Create an issue` using the blue Help bubble in the bottom right of the page. Generally, they will select a product along with their inquiry which will help reassign the inquiry to your assignment group if the request makes sense.
 
@@ -56,7 +56,7 @@ You can provide us any number of assignment group(s) for various inquiry types. 
 - Sales: Prospective customer would like to get onboarded. This is asked on the `promotion form` when you request to become a production tenant. If you provide neither a Client 360 assignment nor an email, we will default to sending the customer to getsolutions@fiserv.com
 - Production issue: This is for select few products such as Commerce Hub, Banking Hub, and other products which has gone through partner planning to have a dedicated workspace which host customer API keys. This could also apply to if a customer mentions that their API endpoint or credentials has stopped working. In general, we will refer them back to the official Fiserv Client 360 portal at https://client360.fiservapps.com/Client360/login but if you provide us with an assignment group we can use that as well.
 
-### **Track Inquiry Status**
+### Track Inquiry Activity
 
 Clients will receive an email if the inquiry is responded to. Please inform them to reply to the email if they want to add further comments or questions. They cannot get access to the inquiry point itself to view the ticket at the current time.
 
