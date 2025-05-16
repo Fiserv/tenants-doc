@@ -114,8 +114,9 @@ alert(s);<br/>
 ## <a name="tables"/> Tables
 
 Tables aren't part of the core Markdown spec, but they are part of the *GFM* (GitHub Flavored Markdown). They are an easy way of adding structure to your documentation.<br/>
-
-```no-highlight<br/>
+<br/>
+<br/>
+<br/>
 Colons can be used to align columns.<br/>
 <br/>
 | Tables        | Are           | Cool  |<br/>
@@ -123,61 +124,56 @@ Colons can be used to align columns.<br/>
 | col 3 is      | right-aligned | $1600 |<br/>
 | col 2 is      | centered      |   $12 |<br/>
 | zebra stripes | are neat      |    $1 |<br/>
-```<br/>
+<br/>
 
 The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.<br/>
-
-```<br/>
+<br/>
 Markdown | Less | Pretty<br/>
 --- | --- | ---<br/>
 *doesn't* | `render` | **nicely**<br/>
 1 | 2 | 3<br/>
-```<br/>
-
+<br/>
 Note that the GFM standard requires there to be a blank line before the table in order for it to be considered a valid table. Also, there must be at least three hyphens in each column of the header row.<br/>
-
- For example, this is not a valid markdown table because it doesn't have a blank line proceeding it:<br/>
-
-```<br/>
+<br/>
+For example, this is not a valid markdown table because it doesn't have a blank line proceeding it:<br/>
+<br/>
 The following looks like a markdown table but is not considered a markdown table<br/>
 | Header1       | Header2       | Header 3 |<br/>
 | ------------- |:-------------:| --------:|<br/>
 | zebra stripes | are neat      |    $1    |<br/>
-```<br/>
+<br/>
 
 This is also not a valid markdown table because there aren't at least three hyphens in each column of the header row:<br/>
-
-```<br/>
+<br/>
 The following looks like a markdown table but is not considered a markdown table<br/>
 <br/>
 |  1  |  2 |  3  |<br/>
 | --- | -- | --- |<br/>
 |  a  |  b |  c  |<br/>
-```<br/>
+<br/>
 
 ## <a name="blockquotes"/> Blockquotes
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
+> Blockquotes are very handy in email to emulate reply text.<br/
+> This line is part of the same quote.<br/
 
 Quote break.<br/>
 
-> This is a very long line of text that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote, just in case you didn't know. 
+> This is a very long line of text that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote, just in case you didn't know.<br/ 
 
 ## <a name="hr"/> Horizontal Rule
 
 Three or more...<br/>
-
+<br/
 ---<br/>
-
+<br/
 Hyphens<br/>
-
+<br/
 ***<br/>
-
+<br/
 Asterisks<br/>
-
 ___<br/>
-
+<br/>
 Underscores<br/>
 
 [//]: # (These are reference links used in markdown file)<br/>
