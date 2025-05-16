@@ -85,31 +85,24 @@ Different ways to create links:<br/>
 
 ## <a name="imgs"/> Images
 
-Here's our logo ( hover to see the title text ):<br/>
-
-![Fiserv Logo]<br/>
-
-
 ## <a name="code"/> Code and Syntax Highlighting
 
-Inline `code` has `back-ticks around` it.
+Inline `code` has `back-ticks around` it.<br/
 
 >Here is the example for javascript code.<br/>
-
-
-```javascript<br/>
+<br/>
+```javascript
 var s = "JavaScript syntax highlighting";<br/>
 alert(s);<br/>
 ```
 
 >Use language tags to change the syntax highlighting.<br/>
 
-```json<br/>
-{<br/>
-  "JSON": "Syntax Highlighting"<br/>
-}<br/>
-```<br/>
-
+```json
+{
+  "JSON": "Syntax Highlighting"
+}
+```
 
 ## <a name="tables"/> Tables
 
@@ -157,7 +150,7 @@ The following looks like a markdown table but is not considered a markdown table
 > Blockquotes are very handy in email to emulate reply text.<br/
 > This line is part of the same quote.<br/
 
-Quote break.<br/>
+Quote break
 
 > This is a very long line of text that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote, just in case you didn't know.<br/ 
 
