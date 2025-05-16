@@ -37,6 +37,7 @@
 * [Developer Studio Demo](demo.md)
 
 ## Additional Resources
+* [Markdown support](markdown-support.md)
 * [Search](search.md)
 * [Frequently Asked Questions](faq.md)
 * [Get support](get-support.md)
