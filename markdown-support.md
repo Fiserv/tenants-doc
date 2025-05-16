@@ -87,7 +87,7 @@ Different ways to create links:<br/>
 
 ## <a name="code"/> Code and Syntax Highlighting
 
-Inline `code` has `back-ticks around` it.<br/
+Inline `code` has `back-ticks around` it.<br/>
 
 >Here is the example for javascript code.<br/>
 <br/>
@@ -152,18 +152,18 @@ The following looks like a markdown table but is not considered a markdown table
 
 Quote break
 
-> This is a very long line of text that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote, just in case you didn't know.<br/ 
+> This is a very long line of text that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote, just in case you didn't know.
 
 ## <a name="hr"/> Horizontal Rule
 
 Three or more...<br/>
-<br/
+<br/>
 ---<br/>
-<br/
+<br/>
 Hyphens<br/>
-<br/
+<br/>
 ***<br/>
-<br/
+<br/>
 Asterisks<br/>
 ___<br/>
 <br/>
@@ -171,4 +171,4 @@ Underscores<br/>
 
 [//]: # (These are reference links used in markdown file)<br/>
 
-[Fiserv Logo]: <https://gist.githubusercontent.com/f2zdirk/0d6e1e22180086f6169a2686a3ae1ec9/raw/22c36a3fbd595844296c2d25dc0e14b27d51e1ab/Fiserv_Logo.jpg> <br/>
+[Fiserv Logo]: <https://gist.githubusercontent.com/f2zdirk/0d6e1e22180086f6169a2686a3ae1ec9/raw/22c36a3fbd595844296c2d25dc0e14b27d51e1ab/Fiserv_Logo.jpg><br/>
