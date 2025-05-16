@@ -45,9 +45,9 @@ Strikethrough uses two tildes. ~~Scratch this.~~<br/>
 
 1. First ordered list item<br/>
 2. Another item<br/>
-   ..- Unordered sub-list<br/>
+..- Unordered sub-list<br/>
 3. Actual numbers don't matter, just that it's a number<br/>
-   ..1. Ordered sub-list<br/>
+..1. Ordered sub-list<br/>
 4. And another item<br/>
 
 ...You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).<br/>
@@ -75,19 +75,19 @@ Different ways to create links:<br/>
 ## <a name="code"/> Code and Syntax Highlighting
 
 Inline `code` has `back-ticks around` it.<br/>
-
->Here is the example for javascript code.<br/>
+<br/>
+Here is the example for javascript code.<br/>
 <br/>
 ```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+var s = "JavaScript syntax highlighting";<br/>
+alert(s);<br/>
 ```
 <br/>
->Use language tags to change the syntax highlighting.<br/>
+Use language tags to change the syntax highlighting.<br/>
 <br/>
 ```json
 {
-  "JSON": "Syntax Highlighting"
+<nbsp><nbsp>"JSON": "Syntax Highlighting"
 }
 ```
 
@@ -95,7 +95,7 @@ alert(s);
 
 Tables aren't part of the core Markdown spec, but they are part of the *GFM* (GitHub Flavored Markdown). They are an easy way of adding structure to your documentation.<br/>
 
-Colons can be used to align columns.<br/>
+Colons can be used to align columns. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily.<br/>
 <br/>
 | Tables        | Are           | Cool  |<br/>
 | ------------- |:-------------:| -----:|<br/>
@@ -103,30 +103,23 @@ Colons can be used to align columns.<br/>
 | col 2 is      | centered      |   $12 |<br/>
 | zebra stripes | are neat      |    $1 |<br/>
 <br/>
-
-The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.<br/>
-<br/>
-| Markdown |  Less  | Pretty  |<br/>
-| -------- |:------:| ------: |<br/>
-| doesn't  | render | nicely  |<br/>
-<br/>
 Note that the GFM standard requires there to be a blank line before the table in order for it to be considered a valid table. Also, there must be at least three hyphens in each column of the header row.<br/>
 <br/>
 For example, this is not a valid markdown table because it doesn't have a blank line proceeding it:<br/>
 <br/>
-Some text directly proceeding a table<br/>
-| Header1       | Header2       | Header 3 |<br/>
-| ------------- |:-------------:| --------:|<br/>
-| zebra stripes | are neat      |    $1    |<br/>
+*Some text directly proceeding a table*<br/>
+*| Header1       | Header2       | Header 3 |*<br/>
+*| ------------- |:-------------:| --------:|*<br/>
+*| zebra stripes | are neat      |    $1    |*<br/>
 <br/>
 
 This is also not a valid markdown table because there aren't at least three hyphens in each column of the header row:<br/>
 <br/>
-Some text not directly proceeding a table that doesn't have at lest three hyphens in each header colum<br/>
+*Some text not directly proceeding a table that doesn't have at lest three hyphens in each header colum*<br/>
 <br/>
-|  1  |  2 |  3  |<br/>
-| --- | -- | --- |<br/>
-|  a  |  b |  c  |<br/>
+*|  1  |  2 |  3  |*<br/>
+*| --- | -- | --- |*<br/>
+*|  a  |  b |  c  |*<br/>
 <br/>
 
 ## <a name="blockquotes"/> Blockquotes
@@ -148,7 +141,3 @@ Hyphens<br/>
 Asterisks<br/>
 ___<br/>
 Underscores<br/>
-
-[//]: # (These are reference links used in markdown file)<br/>
-
-[Fiserv Logo]: <https://gist.githubusercontent.com/f2zdirk/0d6e1e22180086f6169a2686a3ae1ec9/raw/22c36a3fbd595844296c2d25dc0e14b27d51e1ab/Fiserv_Logo.jpg><br/>
