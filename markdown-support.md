@@ -55,13 +55,9 @@ Strikethrough uses two tildes. ~~Scratch this.~~<br/>
 ## <a name="lnks"/> Links
 
 Different ways to create links:<br/>
-
-- To link to API explorer from documentation pages<br/>
-```
-[API page](../api?type=post&path=/v1/apis)
-```
-[API page](../api?type=post&path=/v1/apis)<br/>
-
+abc<br/>
+def<br>
+<br/>
 - To link Inline-style<br/>
 ```
 [I'm an inline-style link](https://www.google.com)
@@ -69,6 +65,12 @@ Different ways to create links:<br/>
 Note: Spaces are not allowed between the label and the link
 
 [I'm an inline-style link](https://www.google.com)<br/>
+
+- To link to API explorer from documentation pages<br/>
+```
+[API page](../api?type=post&path=/v1/apis)
+```
+[API page](../api?type=post&path=/v1/apis)<br/>
 
 - To link/reference to another document/markdown<br/>
 ```
