@@ -56,9 +56,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~<br/>
 
 Different ways to create links:<br/>
 
-1. Test
-
-1. To link Inline-style<br/>
+- To link Inline-style<br/>
 ```
 [I'm an inline-style link](https://www.google.com)
 ```
@@ -66,19 +64,19 @@ Note: Spaces are not allowed between the label and the link
 
 [I'm an inline-style link](https://www.google.com)<br/>
 
-2. To link to API explorer from documentation pages<br/>
+- To link to API explorer from documentation pages<br/>
 ```
 [API page](../api?type=post&path=/v1/apis)
 ```
 [API page](../api?type=post&path=/v1/apis)<br/>
 
-3. To link/reference to another document/markdown<br/>
+- To link/reference to another document/markdown<br/>
 ```
 [Charge](?path=docs/Transactions/Charges.md)
 ```
 [Charge](?path=docs/Transactions/Charges.md)<br/>
 
-4. To create anchor link within the page. You can place anchor by declaring 
+- To create anchor link within the page. You can place anchor by declaring 
 ```
 [Dev Portal](#portal)
 ```
