@@ -56,6 +56,8 @@ Strikethrough uses two tildes. ~~Scratch this.~~<br/>
 
 Different ways to create links:<br/>
 
+1. Test
+
 1. To link Inline-style<br/>
 ```
 [I'm an inline-style link](https://www.google.com)
