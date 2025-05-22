@@ -60,7 +60,7 @@ Different ways to create links:<br/>
 ```
 [I'm an inline-style link](https://www.google.com)
 ```
-Note: Spaces are not allowed between the label and the link
+<br/>Note: Spaces are not allowed between the label and the link
 
 [I'm an inline-style link](https://www.google.com)<br/>
 
