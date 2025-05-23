@@ -55,7 +55,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~<br/>
 ## <a name="lnks"/> Links
 
 Different ways to create links:<br/><br/>
-<br/>To link Inline-style<br/>
+To link Inline-style<br/>
 `[I'm an inline-style link](https://www.google.com)`<br/><br/>
 Note: Spaces are not allowed between the label and the link<br/>
 
