@@ -54,34 +54,25 @@ Strikethrough uses two tildes. ~~Scratch this.~~<br/>
 
 ## <a name="lnks"/> Links
 
-Different ways to create links:<br/>
-abc<br/>
-def<br>
-<br/>
-- To link Inline-style<br/>
-```
-[I'm an inline-style link](https://www.google.com)
-```
-Note: Spaces are not allowed between the label and the link
+Different ways to create links:<br/><br/>
+To link Inline-style<br/>
+`[I'm an inline-style link](https://www.google.com)`<br/>
+
+Note: Spaces are not allowed between the label and the link<br/>
 
 [I'm an inline-style link](https://www.google.com)<br/>
 
-- To link to API explorer from documentation pages<br/>
-```
-[API page](../api?type=post&path=/v1/apis)
-```
+To link to API explorer from documentation pages<br/>
+`API page](../api?type=post&path=/v1/apis)`<br/>
+
 [API page](../api?type=post&path=/v1/apis)<br/>
 
-- To link/reference to another document/markdown<br/>
-```
-[Charge](?path=docs/Transactions/Charges.md)
-```
+To link/reference to another document/markdown<br/>
+`[Charge](?path=docs/Transactions/Charges.md)`<br/>
 [Charge](?path=docs/Transactions/Charges.md)<br/>
 
-- To create anchor link within the page. You can place anchor by declaring 
-```
-[Dev Portal](#portal)
-```
+To create anchor link within the page. You can place anchor by declaring<br/>
+`[Dev Portal](#portal)`<br/><br/>
 Now you can reference this link anywhere within the page by declaring link such as [Dev Portal](#portal)<br/>
 
 ## <a name="imgs"/> Images
