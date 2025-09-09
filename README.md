@@ -1,5 +1,7 @@
 # Welcome to the Tenants Documentation!
 
+This documentation is deprecated. Please visit [Developer Studio Tenant Support](https://qa-developer.fiserv.com/product/TenantSupport?branch=develop) for Developer Studio Tenant Support (ask a Developer Studio team member for the credentials to the qa environment: [Developer Studio from Fiserv MS Teams](https://teams.microsoft.com/l/team/19%3A26fd28b4ef154d5da922849cc2f15360%40thread.tacv2/conversations?groupId=982cd560-8afd-42fc-bb4c-543e1989b6b1&tenantId=11873a1f-4c8d-450d-8dfb-e37a2e2557f8)
+
 These markdown files will provide all the info you need to get going to onboard into the Developer Studio.
 
 ## Table of Contents
